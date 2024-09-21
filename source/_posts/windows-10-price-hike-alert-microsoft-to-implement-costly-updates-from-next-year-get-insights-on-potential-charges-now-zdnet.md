@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Price Hike Alert! Microsoft to Implement Costly Updates From Next Year. Get Insights on Potential Charges Now | ZDNET
-date: 2024-09-18 18:44:20
-updated: 2024-09-20 11:26:45
+date: 2024-09-17T06:37:24.926Z
+updated: 2024-09-20T20:51:41.170Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-dissecting-the-language-and-significance-of-pfp-on-tiktok/"><u>[New] 2024 Approved Dissecting the Language and Significance of 'PFP' On TikTok</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-step-by-step-guide-shortening-audio-files-using-windows-media-player/"><u>1. 'Step-by-Step Guide: Shortening Audio Files Using Windows Media Player'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-6900-xt-graphics-card-drivers-free-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Card Drivers: Free Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-your-dell-g1n5s-video-card-drivers-on-a-windows-machine-downloads-included/"><u>How to Easily Update Your Dell G1n5's Video Card Drivers on a Windows Machine - Downloads Included</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p55plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55+ phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-n53-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo N53 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/official-solutions-to-fix-your-frequent-imovie-crashes/"><u>Official Solutions to Fix Your Frequent iMovie Crashes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
+<li><a href="https://win-web3.techidaily.com/usbcd/"><u>USBへの変換:パソコンでCDデータを正しくバックアップする手引き</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-zoom-editor/"><u>Video Zoom Editor</u></a></li>
+</ul></div>
+

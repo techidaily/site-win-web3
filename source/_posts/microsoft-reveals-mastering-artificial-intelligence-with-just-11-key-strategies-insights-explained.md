@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reveals: Mastering Artificial Intelligence with Just 11 Key Strategies – Insights Explained"
-date: 2024-09-17 16:31:32
-updated: 2024-09-20 10:17:12
+date: 2024-09-15T21:30:18.463Z
+updated: 2024-09-20T16:28:20.404Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -120,6 +127,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-delving-deep-into-high-dynamic-range-with-adobe-ps/"><u>[New] 2024 Approved Delving Deep Into High Dynamic Range with Adobe PS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-insiders-method-for-youtube-livestreaming-in-full-circle/"><u>[New] In 2024, The Insider's Method for Youtube Livestreaming in Full Circle</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-step-by-step-guide-shortening-audio-files-using-windows-media-player/"><u>1. 'Step-by-Step Guide: Shortening Audio Files Using Windows Media Player'</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-flexicapture-cloud-terms-and-conditions-accessing-archived-documentation-via-api/"><u>ABBYY FlexiCapture Cloud Terms and Conditions: Accessing Archived Documentation via API</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/conquer-windows-10-a-mov-filming-masterclass-for-2024/"><u>Conquer Windows 10 A MOV Filming Masterclass for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-trailblazer-finding-friendly-face-on-fb/"><u>Digital Trailblazer: Finding Friendly Face on FB</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50iplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X50i+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-facebook-livestreams-four-easy-steps/"><u>Mastering Facebook Livestreams Four Easy Steps</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726027281909-mp3/"><u>MP3化の謎解き：ダウンロード曲を元に何ができる？</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-conflicts-between-nvidia-and-windows-11/"><u>Resolving Conflicts Between Nvidia and Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/understanding-customer-acquisition-costs-and-their-impact-on-roi-for-2024/"><u>Understanding Customer Acquisition Costs and Their Impact on ROI for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/usbcd/"><u>USBへの変換:パソコンでCDデータを正しくバックアップする手引き</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029262352-youtube/"><u>YouTubeストリーミングにおけるフリーズ問題:改善方法のマニュアル</u></a></li>
+</ul></div>
+

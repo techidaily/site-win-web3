@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Effective Strategies Against Cyber Threats - Insights From ZDNet"
-date: 2024-09-18 16:40:55
-updated: 2024-09-20 11:37:50
+date: 2024-09-18T17:27:18.328Z
+updated: 2024-09-20T22:09:53.098Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamlining-the-process-vimeo-to-mp3-conversion/"><u>[New] In 2024, Streamlining the Process Vimeo to MP3 Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>[New] Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-composing-captivating-podcast-narratives/"><u>2024 Approved Composing Captivating Podcast Narratives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-for-downloading-apps-to-your-samsung-television/"><u>Easy Instructions for Downloading Apps to Your Samsung Television</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raw-footage-to-engaging-content-streamlining-video-edits-on-windows-for-2024/"><u>From Raw Footage to Engaging Content Streamlining Video Edits on Windows for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>In 2024, Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-dealing-with-persistent-straight-lines-interfering-with-screen-views/"><u>Solutions for Dealing with Persistent Straight Lines Interfering With Screen Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-video-cutting-edge-tools-devices-for-2024/"><u>Superior Video Cutting-Edge Tools (Devices) for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-ultimate-guide-top-3-leading-ts-file-players-compatible-with-both-windows-and-mac/"><u>The Ultimate Guide: Top 3 Leading TS File Players Compatible with Both Windows and Mac</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-two-tools-for-easy-mkv-to-flac-audio-conversion/"><u>Top Two Tools for Easy MKV to FLAC Audio Conversion</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-rated-substitutes-for-winx-dvd-ripper-unlocking-free-software-options/"><u>Top-Rated Substitutes for WinX DVD Ripper: Unlocking Free Software Options</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshoot-and-solve-handbrake-libdvdcss-not-working-problem-easily/"><u>Troubleshoot and Solve HandBrake 'Libdvdcss Not Working' Problem Easily!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-media-player-5-effective-solutions-when-mp3-wont-play/"><u>Troubleshooting Windows Media Player: 5 Effective Solutions When MP3 Won't Play</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
+</ul></div>
+

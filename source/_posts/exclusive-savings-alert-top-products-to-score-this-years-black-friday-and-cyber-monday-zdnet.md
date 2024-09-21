@@ -1,7 +1,7 @@
 ---
 title: Exclusive Savings Alert! Top Products to Score This Year's Black Friday & Cyber Monday | ZDNet
-date: 2024-09-19 16:18:15
-updated: 2024-09-20 11:10:56
+date: 2024-09-20T08:53:05.327Z
+updated: 2024-09-21T10:18:34.678Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -120,6 +127,19 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-windows-11-gamers-guide-to-immaculate-game-recording/"><u>[New] 2024 Approved Windows 11 Gamers' Guide to Immaculate Game Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-interactive-instagram-flipbook-feature/"><u>[Updated] 2024 Approved Interactive Instagram Flipbook Feature</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-for-achieving-crystal-clear-1080p-on-fb/"><u>[Updated] 2024 Approved Tips for Achieving Crystal Clear 1080P on FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-easy-steps-to-blend-igtv-into-your-stories/"><u>[Updated] Easy Steps to Blend IGTV Into Your Stories</u></a></li>
+<li><a href="https://win-web3.techidaily.com/55m96bus5yyw5yuv55s75oml6acg77ya6kmz44gx44ge44ot44oh44kq44kw44os44o844k544kx44o844or5asj5oplusb44ks44kk44oj/"><u>白黒化動画手順：詳しいビデオグレースケール変換ガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-connect-airpods-to-a-macbook-air-for-uninterrupted-music-and-calls/"><u>Effortlessly Connect AirPods to a MacBook Air for Uninterrupted Music and Calls</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-6s-how-to-unlock-a-disabled-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6s How to Unlock a Disabled Apple iPhone 6s?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M34</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-6-complimentary-avi-video-splitter-tools-compatible-with-windows-macos-and-online-services/"><u>Top 6 Complimentary AVI Video Splitter Tools Compatible with Windows, macOS & Online Services</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726026470144-windows-pc/"><u>Windows PCでのオーディオバランス調整 - 最適な手法</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029604820-youtube/"><u>YouTubeショート動画の編集 - スマホやパソコンでも使える無料ツール</u></a></li>
+<li><a href="https://win-web3.techidaily.com/44ov44oq44o844oh44kk44kv44ot44oh44kq44kz44oz44oq44o844k44gm5l244gi44gq44gp44gq44kl55cg55sx44go5aplusplus562w44gr44gk44ge7kea/"><u>フリーメイクビデオコンバータが使えなくなる理由と対策につい지</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726028802248-top5/"><u>ベストの無料オーディオ編集ソフトウェアTOP5推薦</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Manager Controversy: The Unpopular Strategy That's Brewing Trouble"
-date: 2024-09-18 22:28:35
-updated: 2024-09-20 10:57:13
+date: 2024-09-14T00:40:16.352Z
+updated: 2024-09-21T11:03:42.431Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,40 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[New] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-edge-advanced-photo-editing-strategies/"><u>[Updated] 2024 Approved Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://win-web3.techidaily.com/5-effective-methods-to-download-sound-from-videos-on-the-web/"><u>5 Effective Methods to Download Sound From Videos on the Web</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-server-link-error-heres-how-you-can-fix-it-solved/"><u>Destiny 2 Server Link Error? Here's How You Can Fix It – SOLVED!</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-pushback-why-it-continues-to-evolve-and-thrive/"><u>Facebook's Pushback: Why It Continues to Evolve and Thrive</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 12 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ideal-aiff-format-transformer-effortlessly-convert-aiff-files-tofrom-popular-audio-types-like-mp3-wav-and-flac/"><u>Ideal AIFF Format Transformer: Effortlessly Convert AIFF Files To/From Popular Audio Types Like MP3, WAV, and FLAC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-aviators-9-top-rated-drone-editors-reviewed/"><u>In 2024, From Amateurs to Aviators 9 Top-Rated Drone Editors Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/media-management-showdown-can-emby-surpass-the-popularity-of-plex/"><u>Media Management Showdown: Can Emby Surpass the Popularity of Plex?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimized-pubg-broadcast-software-seamless-gaming-recording-on-latest-windows-operating-systems/"><u>Optimized PUBG Broadcast Software: Seamless Gaming Recording on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029262352-youtube/"><u>YouTubeストリーミングにおけるフリーズ問題:改善方法のマニュアル</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

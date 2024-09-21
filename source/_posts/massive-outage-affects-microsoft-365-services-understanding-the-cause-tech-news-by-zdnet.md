@@ -1,7 +1,7 @@
 ---
 title: "Massive Outage Affects Microsoft 365 Services: Understanding the Cause | Tech News by ZDNet"
-date: 2024-09-18 21:52:26
-updated: 2024-09-20 11:56:50
+date: 2024-09-14T01:00:17.714Z
+updated: 2024-09-21T03:02:05.263Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>[New] Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-grading-made-simple-3-ways-to-amplify-your-pics/"><u>[New] In 2024, Grading Made Simple 3 Ways to Amplify Your Pics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-steps-to-record-movies-on-your-tech-devices/"><u>[Updated] 2024 Approved Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-rendering-with-srgb-technology/"><u>2024 Approved Advanced Rendering with Srgb Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-stakes-pewdiepies-earnings-examination/"><u>2024 Approved Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-plus-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Plus iCloud Lock</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-lifeline-mvps-restoration-talk/"><u>MS SQL Lifeline: MVP's Restoration Talk</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-two-tools-for-easy-mkv-to-flac-audio-conversion/"><u>Top Two Tools for Easy MKV to FLAC Audio Conversion</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshoot-and-solve-handbrake-libdvdcss-not-working-problem-easily/"><u>Troubleshoot and Solve HandBrake 'Libdvdcss Not Working' Problem Easily!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-media-player-5-effective-solutions-when-mp3-wont-play/"><u>Troubleshooting Windows Media Player: 5 Effective Solutions When MP3 Won't Play</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
+</ul></div>
+

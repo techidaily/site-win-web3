@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Innovations in Microsoft's New AI-Powered Surface Devices: Pro 10 and Laptop 6 | Insights From ZDNET"
-date: 2024-09-18 22:28:10
-updated: 2024-09-20 12:39:49
+date: 2024-09-19T19:13:15.305Z
+updated: 2024-09-20T20:33:32.884Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[New] 2024 Approved 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-video-directly-from-webcam-using-vlc-media-player/"><u>[New] 2024 Approved Record Video Directly From Webcam Using VLC Media Player</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-your-favorite-shows-screenrecording-netflix-on-mac/"><u>[New] Capturing Your Favorite Shows ScreenRecording Netflix on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-ios-screen-recording-techniques-for-2024/"><u>[New] Effortless iOS Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-expert-insights-on-yis-4k-action-video-camera/"><u>[New] In 2024, Expert Insights on YI’s 4K Action Video Camera</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-g24-power-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola G24 Power Activity | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/bulk-conversion-of-wav-files-to-aac-format-using-windows-step-by-step-guide/"><u>Bulk Conversion of WAV Files to AAC Format Using Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/discover-the-best-youtube-video-downloading-tools-updated-guide/"><u>Discover the Best YouTube Video Downloading Tools: Updated Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-steps-for-upgrading-your-videos-to-superior-hd-clarity/"><u>Effortless Steps for Upgrading Your Videos to Superior HD Clarity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farming-simulator-22-performance-issues-fixed-for-pc-players/"><u>Farming Simulator 22 Performance Issues - Fixed for PC Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-asus-monitor-4k-precision-hdr-mastery-for-2024/"><u>High-End ASUS Monitor 4K Precision, HDR Mastery for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X90S</u></a></li>
+</ul></div>
+

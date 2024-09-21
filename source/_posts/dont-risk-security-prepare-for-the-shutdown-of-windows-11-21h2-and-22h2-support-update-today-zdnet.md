@@ -1,7 +1,7 @@
 ---
 title: "Don't Risk Security: Prepare for the Shutdown of Windows 11 21H2 and 22H2 Support – Update Today! | ZDNet"
-date: 2024-09-17 12:53:34
-updated: 2024-09-20 10:30:19
+date: 2024-09-19T17:28:21.331Z
+updated: 2024-09-21T08:00:22.465Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,36 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-the-layout-of-instagram-stories-feature-for-2024/"><u>[New] Decoding the Layout of Instagram Stories Feature for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences/"><u>[New] In 2024, Unveiling the Art of Video Crafting on PC for YouTube Audiences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-tracking-your-followers-departure-for-2024/"><u>[New] Instagram Tracking Your Followers' Departure for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-strategic-insights-on-making-persuasive-client-centered-videos/"><u>2024 Approved Strategic Insights on Making Persuasive Client-Centered Videos</u></a></li>
+<li><a href="https://win-web3.techidaily.com/5-effective-methods-to-download-sound-from-videos-on-the-web/"><u>5 Effective Methods to Download Sound From Videos on the Web</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-2023-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 2023 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ideal-aiff-format-transformer-effortlessly-convert-aiff-files-tofrom-popular-audio-types-like-mp3-wav-and-flac/"><u>Ideal AIFF Format Transformer: Effortlessly Convert AIFF Files To/From Popular Audio Types Like MP3, WAV, and FLAC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-an-aural-experience-for-previews/"><u>In 2024, Crafting an Aural Experience for Previews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-12r-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus 12R FRP Without Computer</u></a></li>
+<li><a href="https://win-web3.techidaily.com/media-management-showdown-can-emby-surpass-the-popularity-of-plex/"><u>Media Management Showdown: Can Emby Surpass the Popularity of Plex?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimized-pubg-broadcast-software-seamless-gaming-recording-on-latest-windows-operating-systems/"><u>Optimized PUBG Broadcast Software: Seamless Gaming Recording on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-steps-converting-mov-files-to-mpeg-format-on-windows-1011/"><u>Simple Steps: Converting MOV Files to MPEG Format on Windows 10/11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029262352-youtube/"><u>YouTubeストリーミングにおけるフリーズ問題:改善方法のマニュアル</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

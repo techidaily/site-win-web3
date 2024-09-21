@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple"
-date: 2024-09-19 12:15:41
-updated: 2024-09-20 10:44:30
+date: 2024-09-13T20:59:50.967Z
+updated: 2024-09-21T05:26:31.197Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-engagement-top-tools-and-tips-for-properly-tagged-videos-for-2024/"><u>[New] Enhance Engagement Top Tools and Tips for Properly Tagged Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-creative-summit-top-talent-junction/"><u>2024 Approved The Creative Summit Top Talent Junction</u></a></li>
+<li><a href="https://win-web3.techidaily.com/movavi3/"><u>劣化無くMOVをAVIに変換するための3つの優れた方法 - ビデオ編集者向けチュートリアル</u></a></li>
+<li><a href="https://win-web3.techidaily.com/free-methods-to-change-or-edit-mxf-file-format-a-comprehensive-guide/"><u>Free Methods to Change or Edit MXF File Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/get-your-favorite-youtube-content-on-your-mobile-device-effortless-downloader-for-ipods-and-iphones-available-now/"><u>Get Your Favorite YouTube Content on Your Mobile Device: Effortless Downloader for iPods & iPhones Available Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/pcnetflix/"><u>PC用Netflixのスクリーン録画テクニック</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-and-easy-guide-to-access-your-favorite-gfycat-animations-instantly/"><u>Quick and Easy Guide to Access Your Favorite Gfycat Animations Instantly!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sony-bdp-s6500-review/"><u>Sony BDP-S6500 Review</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-ultimate-guide-top-3-leading-ts-file-players-compatible-with-both-windows-and-mac/"><u>The Ultimate Guide: Top 3 Leading TS File Players Compatible with Both Windows and Mac</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-rated-substitutes-for-winx-dvd-ripper-unlocking-free-software-options/"><u>Top-Rated Substitutes for WinX DVD Ripper: Unlocking Free Software Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wolcen-mayhem-sovereigns-on-pc-crash-problems-now-tackled/"><u>Wolcen: Mayhem Sovereigns on PC - Crash Problems Now Tackled</u></a></li>
+</ul></div>
+
