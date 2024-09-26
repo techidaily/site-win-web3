@@ -1,7 +1,7 @@
 ---
 title: How Tough Reviews Sparked Significant Microsoft Privacy Updates for Better Protection | CyberSecurityDigest
-date: 2024-09-13T18:08:31.092Z
-updated: 2024-09-20T16:41:31.719Z
+date: 2024-09-24T18:27:32.664Z
+updated: 2024-09-25T16:34:52.218Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -133,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ehind-the-scenes-of-youtube-income-generation/"><u>[New] Behind the Scenes of YouTube Income Generation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ace-list-of-low-cost-youtube-caption-tools/"><u>[New] In 2024, Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-the-medium-crashing-on-pc/"><u>[SOLVED] The Medium Crashing on PC</u></a></li>
+<li><a href="https://win-web3.techidaily.com/boost-your-ergonomics-essential-add-on-for-every-standing-desk-enthusiast-techwise/"><u>Boost Your Ergonomics: Essential Add-On for Every Standing Desk Enthusiast | TechWise</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-for-2024/"><u>How to Create Funny Talking Avatars Using Oddcast Text to Speech for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-find-x6-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo Find X6 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y100-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y100 Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maximize-impact-mastering-igtv-content-submission-for-2024/"><u>Maximize Impact Mastering IGTV Content Submission for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-meetups-the-ultimate-friendly-list/"><u>Metaverse Meetups The Ultimate Friendly List</u></a></li>
+<li><a href="https://win-web3.techidaily.com/microsofts-latest-update-risks-aggravating-after-hours-productivity-struggles-insights-wired/"><u>Microsoft's Latest Update Risks Aggravating After-Hours Productivity Struggles - Insights | Wired</u></a></li>
+<li><a href="https://win-web3.techidaily.com/new-microsoft-announcement-paid-updates-for-windows-10-coming-soon-what-you-can-expect/"><u>New Microsoft Announcement: Paid Updates for Windows 10 Coming Soon - What You Can Expect</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-realme-c67-4g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Realme C67 4G</u></a></li>
+<li><a href="https://win-web3.techidaily.com/securing-your-microsoft-account-effective-strategies-against-cyber-threats-insights-from-zdnet/"><u>Securing Your Microsoft Account: Effective Strategies Against Cyber Threats - Insights From ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/unraveling-the-impact-of-googles-antitrust-defeat-on-user-experience-and-search-evolution/"><u>Unraveling the Impact of Google’s Antitrust Defeat on User Experience & Search Evolution</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-10-price-hike-alert-microsoft-to-implement-costly-updates-from-next-year-get-insights-on-potential-charges-now-zdnet/"><u>Windows 10 Price Hike Alert! Microsoft to Implement Costly Updates From Next Year. Get Insights on Potential Charges Now | ZDNET</u></a></li>
+<li><a href="https://win-web3.techidaily.com/worth-the-upgrade-a-comparative-review-of-standard-and-plus-versions-of-chatgpt/"><u>Worth the Upgrade? A Comparative Review of Standard and Plus Versions of ChatGPT</u></a></li>
+</ul></div>
 

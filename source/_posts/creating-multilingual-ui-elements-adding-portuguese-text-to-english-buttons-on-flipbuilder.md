@@ -1,7 +1,7 @@
 ---
 title: "Creating Multilingual UI Elements: Adding Portuguese Text to English Buttons on FlipBuilder"
-date: 2024-09-18T10:23:19.779Z
-updated: 2024-09-20T21:12:30.074Z
+date: 2024-09-22T23:17:40.478Z
+updated: 2024-09-25T23:15:34.564Z
 tags:
   - product
 categories:
@@ -44,12 +44,26 @@ Follow below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/sports-news-and-analysis-from-top-vloggers/"><u>[New] Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-leading-downloader-software-facebooks-top-choices-5/"><u>[Updated] 2024 Approved Leading Downloader Software Facebook's Top Choices #5</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-iphone-connectivity-update-your-windows-10-drivers-today/"><u>Ensure Seamless iPhone Connectivity - Update Your Windows 10 Drivers Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-compute-module-4s-a-comprehensive-industry-focused-assessment/"><u>Exploring the Raspberry Pi Compute Module 4S: A Comprehensive Industry-Focused Assessment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-access-to-royalty-free-design-tools/"><u>In 2024, Mastering Access to Royalty-Free Design Tools</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimized-pubg-broadcast-software-seamless-gaming-recording-on-latest-windows-operating-systems/"><u>Optimized PUBG Broadcast Software: Seamless Gaming Recording on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/overcoming-activation-count-hit-maximum-your-essential-resetting-manual-for-effective-manycam-use/"><u>Overcoming 'Activation Count Hit Maximum': Your Essential Resetting Manual for Effective ManyCam Use</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-steps-converting-mov-files-to-mpeg-format-on-windows-1011/"><u>Simple Steps: Converting MOV Files to MPEG Format on Windows 10/11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-6-complimentary-avi-video-splitter-tools-compatible-with-windows-macos-and-online-services/"><u>Top 6 Complimentary AVI Video Splitter Tools Compatible with Windows, macOS & Online Services</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726026470144-windows-pc/"><u>Windows PCでのオーディオバランス調整 - 最適な手法</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
