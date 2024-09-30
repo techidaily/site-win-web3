@@ -1,7 +1,7 @@
 ---
 title: How to Effortlessly Move Your Bluprint Online Learning Modules From Cloud Storage to Local Desktop (PC or Mac)
-date: 2024-09-18T23:48:39.318Z
-updated: 2024-09-25T17:23:32.694Z
+date: 2024-09-26T03:48:08.208Z
+updated: 2024-09-29T20:11:38.366Z
 tags:
   - product
 categories:
@@ -26,30 +26,31 @@ Download the latest version of the Bluprint Video Downloader here - Allavsoft ([
 [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-win.jpg)](https://tools.techidaily.com/allavsoft/products/) [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-mac.jpg)](https://tools.techidaily.com/allavsoft/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Bluprint Video Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2 Copy and paste the bluprint video url to Allavsoft.
 
 Copy and paste <https://shop.mybluprint.com/account/class-library> to the Paste URL text box of Allavsoft. ![How to Copy and Paste the Bluprint Videos to Allavsoft?](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/copy-paste-bluprint-video-url-to-allavsoft.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3 Check before Download All Items in Playlist
 
@@ -66,13 +67,6 @@ Click Option -> Preference to open the Preference window and switch to UI Settin
 Click allavsoft -> Preference to open the Preference window and switch to UI Setting panel and check before Download All Items in Playlist and click OK (Mac users can find the Preference in allavsoft menu on the top left of your computer screen.)
 
 ![Find the Peference in Mac version](https://www.allavsoft.com/how-to/../images/how-to/mac-preferences-ui-setting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When the Download All Items in Playlist is checked, it will download all the videos you have access in browser or bluprint app.
 
@@ -92,13 +86,20 @@ Click Download button to start the downloading bluprint videos process. After a 
 * By default, it downloads the original videos in MP4 format from bluprint. If MP4 is okay for you, please do not check before "Automatically Convert to" in the main screen of our Allavsoft. Not checking "Automatically Convert to" will save computer space and make the downloading process much faster.
 * Please do set the hard drive instead of the external hard drive as the output location. Please do not set external hard drive as output location. Specifing external hard drive as output location may cause downloading no process or downloading failed. But you can move the downloaded files to your exteranl hard drive. There is no need to pause the download process when you move the already downloaded files to your external hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Frequently Asked Questions When Downloading Bluprint**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### I am trying to download my Own Forever classes from Bluprint. I keep getting the Invalid Token error message. Please advise.
@@ -109,40 +110,46 @@ Please send your bluprint account log in email and password to support@allavsoft
 
 Please do not set external hard drive as output location. But you can move the downloaded files to your external hard drive. There is no need to pause the download process when you move your downloaded files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Where do I find the videos that allavsoft has downloaded?
 
 There are three methods to find your downloaded files. Once they are downloaded, they have no relation to Allavsoft. You may transfer them to anywhere you like and watch them anytime you like.
 
 Method 1: In the main screen of Allavsoft, click the link on the right side of Save to. ![Find the Downloaded Bluprint Videos](https://www.allavsoft.com/how-to/../images/how-to/save-to-link.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Method 2: In the Activity tap, right click to select Locate Download Files. ![Get the Downloaded Bluprint Videos](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/right-click.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Method 3: The location of downloaded Bluprint video can be easily found in explore by select any finished activity in "Activity" panel, and then click "Download" menu - "Locate Downloaded File..."<https://www.allavsoft.com/images/how-to/locate-downloaded-files.jpg> ![Locate the Downloaded Bluprint Videos](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/locate-downloaded-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What are .srt and .vtt files in the Download folder?
 
 The srt and vtt are subtitles, when you play the video, the subtitle will automatically appear. If you need the subtitles, you may retain them, if not, you may delete them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### I have managed to download all of my Bluprint classes except 1\. I have a few classes that don't seem to download.
 
@@ -155,13 +162,6 @@ Method 1: In the activity window, please click Download menu from the top menu b
 Method 2: In the activity window, right click to select Clear All.
 
 Log in to your bluprint, and find the video that are not downloaded. Copy the video url in the address bar of the browser and paste the url to Allavsoft's Paste URL text box and click Download button.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Download Blueprint Videos in much higher quality like 1920x1080?
 
@@ -182,24 +182,16 @@ In the main screen of the Allavsoft, copy and paste <https://course.mybluprint.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inside-the-worlds-most-successful-business-youtube-sites/"><u>[New] Inside the World's Most Successful Business YouTube Sites</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-fast-tracking-tiktok-filming-the-ultimate-playbook/"><u>2024 Approved Fast-Tracking TikTok Filming The Ultimate Playbook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-micro-post-your-next-audio-adventure/"><u>2024 Approved Micro-Post Your Next Audio Adventure</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>2024 Approved Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://win-web3.techidaily.com/access-premium-free-templates-and-tools-for-streamlining-your-next-flip-program-start-creating-at-flipbuildercom-now/"><u>Access Premium Free Templates & Tools for Streamlining Your Next Flip Program - Start Creating at FlipBuilder.com Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-insights-into-finding-and-installing-animation-based-gif-desktop-backdrops/"><u>Comprehensive Insights Into Finding & Installing Animation-Based GIF Desktop Backdrops</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-eyedome-recorder-chromeos-screen-snapshots/"><u>In 2024, EyeDome Recorder ChromeOS Screen Snapshots</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-timer-power-with-zero-cost/"><u>In 2024, Unlocking Timer Power with Zero Cost</u></a></li>
-<li><a href="https://win-web3.techidaily.com/the-ultimate-guide-top-3-leading-ts-file-players-compatible-with-both-windows-and-mac/"><u>The Ultimate Guide: Top 3 Leading TS File Players Compatible with Both Windows and Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-user-friendly-guide-to-integrating-airpods-with-your-macbook-air-system/"><u>The User-Friendly Guide to Integrating AirPods with Your MacBook Air System</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-two-tools-for-easy-mkv-to-flac-audio-conversion/"><u>Top Two Tools for Easy MKV to FLAC Audio Conversion</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-rated-substitutes-for-winx-dvd-ripper-unlocking-free-software-options/"><u>Top-Rated Substitutes for WinX DVD Ripper: Unlocking Free Software Options</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshoot-and-solve-handbrake-libdvdcss-not-working-problem-easily/"><u>Troubleshoot and Solve HandBrake 'Libdvdcss Not Working' Problem Easily!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-media-player-5-effective-solutions-when-mp3-wont-play/"><u>Troubleshooting Windows Media Player: 5 Effective Solutions When MP3 Won't Play</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
-<li><a href="https://win-web3.techidaily.com/usbcd/"><u>USBへの変換:パソコンでCDデータを正しくバックアップする手引き</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-understanding-igs-evolution-reels-vs-stories/"><u>[New] 2024 Approved Understanding IG's Evolution Reels vs Stories</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/choosing-your-ai-sidekick-wisely-comparing-costs-and-benefits-of-microsoft-copilot-and-githubs-pro-version/"><u>Choosing Your AI Sidekick Wisely: Comparing Costs and Benefits of Microsoft Copilot and GitHub's Pro Version</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-purchase-from-mirillis-comprehensive-guide-on-their-sale-terms-and-policies/"><u>How to Purchase From Mirillis: Comprehensive Guide on Their Sale Terms & Policies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/introduction-to-the-rcu-action-based-mobile-application/"><u>Introduction to the RCU Action-Based Mobile Application</u></a></li>
+<li><a href="https://win-web3.techidaily.com/massive-outage-affects-microsoft-365-services-understanding-the-cause-tech-news-by-zdnet/"><u>Massive Outage Affects Microsoft 365 Services: Understanding the Cause | Tech News by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6s-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6s Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-how-to-obtain-new-hp-laptop-driver-software-on-windows-systems/"><u>Step-by-Step: How to Obtain New HP Laptop Driver Software on Windows Systems</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-gdpr-compliance-mirillis-expert-insights/"><u>Understanding GDPR Compliance: Mirillis Expert Insights</u></a></li>
 </ul></div>
 

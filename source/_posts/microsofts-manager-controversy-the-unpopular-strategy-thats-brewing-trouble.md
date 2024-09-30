@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Manager Controversy: The Unpopular Strategy That's Brewing Trouble"
-date: 2024-09-24T20:54:24.753Z
-updated: 2024-09-26T00:20:47.884Z
+date: 2024-09-27T23:41:12.808Z
+updated: 2024-09-29T19:52:56.189Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-video-calls-discover-the-top-10-apps-for-your-phone-for-2024/"><u>[New] Mastering Video Calls Discover the Top 10 Apps for Your Phone for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>[New] Maximizing Profits The Ultimate Guide to YouTube Revenue</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-syncing-tweeting-videos-onto-snapchat-channels-for-2024/"><u>[Updated] Direct Syncing Tweeting Videos Onto Snapchat Channels for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>2024 Approved Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://win-web3.techidaily.com/55m96bus5yyw5yuv55s75oml6acg77ya6kmz44gx44ge44ot44oh44kq44kw44os44o844k544kx44o844or5asj5oplusb44ks44kk44oj/"><u>白黒化動画手順：詳しいビデオグレースケール変換ガイド</u></a></li>
-<li><a href="https://win-web3.techidaily.com/bulk-conversion-of-wav-files-to-aac-format-using-windows-step-by-step-guide/"><u>Bulk Conversion of WAV Files to AAC Format Using Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-microphone-issues-in-minutes-top-solutions/"><u>Fix Your Oculus Rift S Microphone Issues in Minutes: Top Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-se-2022-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone SE (2022) iCloud Bypass</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-essential-guide-to-rapid-signature-removal/"><u>In 2024, Essential Guide to Rapid Signature Removal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-scheduling-success-creating-regular-google-meets/"><u>In 2024, Scheduling Success Creating Regular Google Meets</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/what-to-do-if-the-facebook-message-shows-its-you-in-this-video-in-2024/"><u>What To Do If the Facebook Message Shows It’s You in This Video, In 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726026470144-windows-pc/"><u>Windows PCでのオーディオバランス調整 - 最適な手法</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726029604820-youtube/"><u>YouTubeショート動画の編集 - スマホやパソコンでも使える無料ツール</u></a></li>
-<li><a href="https://win-web3.techidaily.com/44ov44oq44o844oh44kk44kv44ot44oh44kq44kz44oz44oq44o844k44gm5l244gi44gq44gp44gq44kl55cg55sx44go5aplusplus562w44gr44gk44ge7kea/"><u>フリーメイクビデオコンバータが使えなくなる理由と対策につい지</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726028802248-top5/"><u>ベストの無料オーディオ編集ソフトウェアTOP5推薦</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-record-yourself-on-webcam-via-vlc-media/"><u>[New] Record Yourself on Webcam via VLC Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-ig-video-trends-building-your-next-marketing-plan-for-2024/"><u>[Updated] Navigating IG Video Trends Building Your Next Marketing Plan for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-through-prime-virtual-bike-selections/"><u>2024 Approved Navigate Through Prime Virtual Bike Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-innovative-hdr-portrait-techniques/"><u>2024 Approved Pushing Boundaries Innovative HDR Portrait Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unusual-sideway-photos-in-instagram-storytelling/"><u>2024 Approved Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://win-web3.techidaily.com/access-code-schools-educational-content-video-lessons-and-full-courses-for-download/"><u>Access Code School's Educational Content - Video Lessons & Full Courses for Download</u></a></li>
+<li><a href="https://win-web3.techidaily.com/access-premium-content-for-free-with-watchfrees-direct-download-tool/"><u>Access Premium Content for Free with Watchfree's Direct Download Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-maplestory-initialization-errors-tips-and-fixes-for-smooth-launches/"><u>Bypassing Maplestory Initialization Errors: Tips & Fixes for Smooth Launches</u></a></li>
+<li><a href="https://win-web3.techidaily.com/complete-guide-to-downloading-episodes-of-yahoo-screen-and-autv-yahoo-for-pcs-and-macs/"><u>Complete Guide to Downloading Episodes of Yahoo Screen and AuTV-Yahoo for PCs and Macs</u></a></li>
+<li><a href="https://win-web3.techidaily.com/convert-and-save-your-favorite-kudda-movies-in-various-formats-like-mp4-mov-avi/"><u>Convert and Save Your Favorite Kudda Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
+<li><a href="https://win-web3.techidaily.com/convert-your-learning-materials-seamless-video-downloads-from-cadlearning-in-mp4-format/"><u>Convert Your Learning Materials: Seamless Video Downloads From CADLearning in MP4 Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-depth-with-zooms-in-meeting-focus-features/"><u>Discovering Depth with Zoom's In-Meeting Focus Features</u></a></li>
+<li><a href="https://win-web3.techidaily.com/download-annies-catalog-content-fast-premium-video-grabber-for-anniecatalog-site/"><u>Download Annie's Catalog Content Fast: Premium Video Grabber for AnnieCatalog Site</u></a></li>
+<li><a href="https://win-web3.techidaily.com/download-hilarious-killsometime-videos-in-various-formats/"><u>Download Hilarious KillSomeTime Videos in Various Formats</u></a></li>
+<li><a href="https://win-web3.techidaily.com/download-the-huffington-post-app-compatible-with-mac-and-windows-tutorial-video/"><u>Download The Huffington Post App: Compatible with Mac & Windows - Tutorial Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>In 2024, From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-protecting-your-spreadsheets-how-to-lock-and-unlock-cells-in-excel-easily/"><u>Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solving-the-dilemma-successful-troubleshooting-steps-when-flixster-downloads-are-lagging/"><u>Solving the Dilemma: Successful Troubleshooting Steps When Flixster Downloads Are Lagging</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c53-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C53 Location | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
