@@ -1,7 +1,7 @@
 ---
 title: "How to Purchase From Mirillis: Comprehensive Guide on Their Sale Terms & Policies"
-date: 2024-09-25T06:16:23.514Z
-updated: 2024-09-29T22:21:57.883Z
+date: 2024-09-29T16:00:34.529Z
+updated: 2024-10-05T16:22:29.121Z
 tags:
   - product
 categories:
@@ -24,10 +24,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 Reseller - official partner of Mirillis Ltd. responsible for processing payments and product delivery
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General conditions
@@ -48,13 +48,6 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 
 1.8 Additional terms may apply for volume licensing. If you are interested in volume licensing please contact us at: volume@mirillis.com
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Purchase
 
 2.1 All prices and discounts on this website are subject to availability and do not constitute an offer. It may be withdrawn or revised at any time prior to PayPal/BlueSnap/Plimus payment acceptance page.
@@ -73,20 +66,27 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 
 3.5 Mirillis provides electronic invoices for purchases made via PayPal. Electronic invoice will be sent on your request. Request the invoice after the purchase using: Invoice request form. Electronic invoice will be delivered in 15 days after the end of the month in which license was purchased.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Security
 
 4.1 You are responsible to keep your product serial number (sent by Mirillis in purchase confirmation e-mail) safe. Making product serial number publicly available may result in no access for software upgrades offers, no access for customer/technical support and invalidating your product serial number.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Privacy Policy
 
 5.1 You acknowledge that you have read and you accept our Privacy Policy. If you do not accept [Privacy Policy](https://tools.techidaily.com/mirillis/products/) you must discontinue purchase.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Support and product updates
 
@@ -99,10 +99,10 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 6.4 After product purchase you are entitled to a free updates within purchased product version. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Extended Services for Action! product
@@ -136,24 +136,20 @@ After refund request is accepted by Mirillis all refund processing is done by Pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-individualized-farewell-soundtracks-without-spending/"><u>[New] Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-games-on-linux-devices-explained/"><u>Android Games on Linux Devices Explained</u></a></li>
-<li><a href="https://win-web3.techidaily.com/choosing-your-ai-sidekick-wisely-comparing-costs-and-benefits-of-microsoft-copilot-and-githubs-pro-version/"><u>Choosing Your AI Sidekick Wisely: Comparing Costs and Benefits of Microsoft Copilot and GitHub's Pro Version</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprehensive-jabra-evolve2-75-headset-assessment-perfecting-the-balance-between-office-and-home-with-noise-cancellation-and-extended-battery-life/"><u>Comprehensive Jabra Evolve2 75 Headset Assessment: Perfecting the Balance Between Office and Home with Noise Cancellation & Extended Battery Life</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808081603-effortlessly-update-your-gmail-passkey-in-just-a-few-clicks/"><u>Effortlessly Update Your Gmail Passkey in Just a Few Clicks!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/explore-the-power-of-repeated-imagery-in-your-instagram-content-for-2024/"><u>Explore the Power of Repeated Imagery in Your Instagram Content for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2020-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2020) iOS System? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-tough-reviews-sparked-significant-microsoft-privacy-updates-for-better-protection-cybersecuritydigest/"><u>How Tough Reviews Sparked Significant Microsoft Privacy Updates for Better Protection | CyberSecurityDigest</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/microsofts-manager-controversy-the-unpopular-strategy-thats-brewing-trouble/"><u>Microsoft's Manager Controversy: The Unpopular Strategy That's Brewing Trouble</u></a></li>
-<li><a href="https://win-web3.techidaily.com/navigating-ai-chatbots-comparing-chatgpt-microsoft-copilot-and-gemini-for-optimal-performance/"><u>Navigating AI Chatbots: Comparing ChatGPT, Microsoft Copilot & Gemini for Optimal Performance</u></a></li>
-<li><a href="https://win-web3.techidaily.com/pay-to-upgrade-microsofts-plan-to-charge-for-windows-10-updates-coming-soon-find-out-the-costs-on-zdnet/"><u>Pay-to-Upgrade: Microsoft's Plan to Charge for Windows 10 Updates Coming Soon - Find Out the Costs on ZDNet!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/psychonauts-2-for-pc-users-diagnosing-and-fixing-sudden-game-crashes/"><u>Psychonauts 2 for PC Users: Diagnosing and Fixing Sudden Game Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-unraveling-the-mystery-behind-rust-games-graphics-error/"><u>Resolved: Unraveling the Mystery Behind Rust Game's Graphics Error</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-task-organizer-showdown-microsoft-to-do-against-google-tasks-which-should-be-your-preferred-choice/"><u>Top Task Organizer Showdown: Microsoft To Do Against Google Tasks – Which Should Be Your Preferred Choice?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-ranking-tablet-picks-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Picks : In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/zdnet-exclusive-how-the-rise-of-microsofts-surface-pro-and-laptop-signals-a-shift-in-ai-pc-innovation-challenging-apple/"><u>ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-determining-the-price-of-a-music-video-setup-for-2024/"><u>[New] Determining the Price of a Music Video Setup for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-time-saving-routines-for-capturing-vimeo-media/"><u>[New] Time-Saving Routines for Capturing Vimeo Media</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-disk-fragmentation-issue/"><u>Addressing Windows Disk Fragmentation Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-kindle-vs-amazon-fire-tablet-unraveling-their-distinct-features/"><u>Amazon Kindle Vs. Amazon Fire Tablet: Unraveling Their Distinct Features</u></a></li>
+<li><a href="https://win-web3.techidaily.com/audible-to-mp3-transformation-guide-perfect-your-e-book-narrative-listening/"><u>Audible to MP3 Transformation Guide – Perfect Your E-Book Narrative Listening</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-archivo-raw-a-formato-png-gratuito-en-linea-con-movavi/"><u>Cambiar Archivo RAW a Formato PNG Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oad-youtube-playlists-without-hassle-our-guide-for-2024/"><u>Download YouTube Playlists Without Hassle - Our Guide for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effective-methods-for-seamless-transition-of-avi-files-into-apples-itunes-library/"><u>Effective Methods for Seamless Transition of AVI Files Into Apple's iTunes Library</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-methods-to-move-tracks-from-your-macbook-onto-your-iphone-devices/"><u>Effortless Methods to Move Tracks From Your Macbook Onto Your iPhone Devices</u></a></li>
+<li><a href="https://win-web3.techidaily.com/leading-image-watermark-tools-essential-picks-for-protecting-your-work/"><u>Leading Image Watermark Tools: Essential Picks for Protecting Your Work</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-windows-11-system-update/"><u>Step-by-Step Guide: Removing a Windows 11 System Update</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-on-transforming-your-multi-track-blu-rays-m2ts-to-superior-quality-wmv-videos/"><u>Step-by-Step Tutorial on Transforming Your Multi-Track Blu-Ray's M2TS to Superior Quality WMV Videos</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-ultimate-list-best-free-and-subscription-photo-customizer-tools-for-android-and-ios-2022-edition/"><u>The Ultimate List: Best Free and Subscription Photo Customizer Tools for Android and iOS, 2022 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-technological-savings-amazons-exclusive-prime-day-offers-june-2024/"><u>Top Technological Savings: Amazon's Exclusive Prime Day Offers, June 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/zdnets-top-strategies-for-retrieving-deleted-documents-in-the-latest-windows-versions/"><u>ZDNet's Top Strategies for Retrieving Deleted Documents in the Latest Windows Versions</u></a></li>
 </ul></div>
 

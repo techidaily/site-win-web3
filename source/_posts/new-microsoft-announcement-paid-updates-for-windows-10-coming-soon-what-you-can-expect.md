@@ -1,7 +1,7 @@
 ---
 title: "New Microsoft Announcement: Paid Updates for Windows 10 Coming Soon - What You Can Expect"
-date: 2024-09-29T03:50:51.905Z
-updated: 2024-09-30T12:03:17.065Z
+date: 2024-10-04T21:59:20.998Z
+updated: 2024-10-05T21:00:34.182Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,19 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-turning-your-youtube-shorts-into-earnings-what-you-need-and-how-much/"><u>[New] Turning Your YouTube Shorts Into Earnings What You Need & How Much?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-syma-x8c-user-guide-insights/"><u>2024 Approved The Syma X8C User Guide Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024windows-and-macand5/"><u>2024年のビデオダウンロードを容易に！Windows & Mac対応、無料ソフト&アプリベスト5!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/access-premium-free-templates-and-tools-for-streamlining-your-next-flip-program-start-creating-at-flipbuildercom-now/"><u>Access Premium Free Templates & Tools for Streamlining Your Next Flip Program - Start Creating at FlipBuilder.com Now!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/direct-page-printing-is-it-possible-for-targeted-content-in-flipbooks-on-flipbuildercom/"><u>Direct Page Printing: Is It Possible for Targeted Content in FlipBooks on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/efficiently-merge-dual-images-into-a-single-flipbook-page-with-flipbuilders-guide/"><u>Efficiently Merge Dual Images Into a Single Flipbook Page with FlipBuilder's Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/expert-insights-mastering-the-art-of-print-with-flip-printers-on-flipbuildercom/"><u>Expert Insights: Mastering the Art of Print with Flip Printers on FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-opinions-on-netgears-revolutionary-mesh-wifi-solution-the-nighthawk-x4/"><u>Expert Opinions on Netgear's Revolutionary Mesh WiFi Solution, The Nighthawk X4</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-create-an-interactive-flipbook-from-textual-content-with-custom-numbered-sections/"><u>How to Create an Interactive Flipbook From Textual Content with Custom Numbered Sections</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-distribute-your-customized-flipbooks-on-facebook-using-flipbuilder/"><u>How to Distribute Your Customized Flipbooks on Facebook Using FlipBuilder</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-optimize-quality-and-scale-in-import-files-using-flippdf-software-learn-today/"><u>How to Optimize Quality and Scale in Import Files Using FlipPDF Software - Learn Today!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tips-for-tiktok-uploading-videos-on-macpc/"><u>In 2024, Tips for TikTok Uploading Videos on Mac/PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-upside-down-and-sideways-iphone-photos/"><u>Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
-<li><a href="https://win-web3.techidaily.com/post-purchase-steps-navigating-your-newly-acquired-licensing-with-flipbuilder/"><u>Post-Purchase Steps: Navigating Your Newly Acquired Licensing with FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-adding-and-organizing-bookmarks-in-ebooks-with-flipbuilder/"><u>Step-by-Step Guide: Adding and Organizing Bookmarks in eBooks with FlipBuilder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-for-correcting-c1900101-on-windows-11-installation/"><u>Tips for Correcting C1900101 on Windows 11 Installation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725286955400-dvd/"><u>コピーガードキラーが可能かどうか、詳しく解明！DVDについて学ぶ</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-practices-zooming-into-fb-live-excellence/"><u>[Updated] Best Practices Zooming Into FB Live Excellence</u></a></li>
+<li><a href="https://win-web3.techidaily.com/cross-device-video-adaptation-tool-seamlessly-adjust-videos-for-your-handheld-device/"><u>Cross-Device Video Adaptation Tool: Seamlessly Adjust Videos for Your Handheld Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-mix-fold-3-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-art-of-gathering-free-photo-display-videos/"><u>In 2024, The Art of Gathering Free Photo Display Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-and-easy-methods-how-to-decrease-the-size-of-pdf-files/"><u>Quick and Easy Methods: How to Decrease the Size of PDF Files</u></a></li>
+<li><a href="https://win-web3.techidaily.com/remove-unwanted-iphone-tones-with-these-must-have-cleanup-utilities/"><u>Remove Unwanted iPhone Tones with These Must-Have Cleanup Utilities</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-guide-how-to-delete-podcast-episodes-on-your-iphone/"><u>Simple Guide: How To Delete Podcast Episodes On Your iPhone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-detox-the-journey-begins/"><u>Social Media Detox: The Journey Begins</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-scaling-your-youtube-videos/"><u>Tips for Scaling Your YouTube Videos</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-guide-broadcasting-your-epic-fortnite-battles-in-real-time-from-pc/"><u>Ultimate Guide: Broadcasting Your Epic Fortnite Battles in Real-Time From PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mysteries-samsung-unpacked-2025-news-announcements-and-intriguing-rumors-decoded/"><u>Unveiling the Mysteries: Samsung Unpacked 2025 News, Announcements, and Intriguing Rumors Decoded</u></a></li>
 </ul></div>
 

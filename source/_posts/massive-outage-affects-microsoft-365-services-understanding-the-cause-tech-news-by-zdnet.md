@@ -1,7 +1,7 @@
 ---
 title: "Massive Outage Affects Microsoft 365 Services: Understanding the Cause | Tech News by ZDNet"
-date: 2024-09-27T08:40:32.275Z
-updated: 2024-09-29T19:38:22.498Z
+date: 2024-10-01T20:28:16.056Z
+updated: 2024-10-05T21:29:10.167Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -152,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-heaviest-airborne-haulers-drone-selection-insights/"><u>[New] In 2024, Heaviest Airborne Haulers Drone Selection Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-lenovo-screenshots-in-minutes/"><u>[New] In 2024, Mastering Lenovo Screenshots in Minutes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-capturing-snapchat-on-screen-a-step-by-step-guide-for-2024/"><u>[Updated] Capturing Snapchat on Screen A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-snapchat-for-twitter-vids-distribution/"><u>[Updated] Navigating Snapchat for Twitter Vids Distribution</u></a></li>
-<li><a href="https://win-web3.techidaily.com/creating-multilingual-ui-elements-adding-portuguese-text-to-english-buttons-on-flipbuilder/"><u>Creating Multilingual UI Elements: Adding Portuguese Text to English Buttons on FlipBuilder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/directx-setup-for-windows-1110-users-effortless-download-and-install/"><u>DirectX Setup for Windows 11/10 Users: Effortless Download and Install</u></a></li>
-<li><a href="https://win-web3.techidaily.com/efficiently-create-personalized-flipbooks-from-multiple-pdfs-at-once-with-flipbuilder/"><u>Efficiently Create Personalized Flipbooks From Multiple PDFs at Once with FlipBuilder</u></a></li>
-<li><a href="https://win-web3.techidaily.com/essential-image-preparation-tips-for-optimal-flipbook-creation-at-flipbuilder/"><u>Essential Image Preparation Tips for Optimal FlipBook Creation at FlipBuilder</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-often-do-you-need-to-renew-your-flippdf-pro-software-license-get-answers-here/"><u>How Often Do You Need to Renew Your FlipPDF Pro Software License? Get Answers Here!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-adjust-page-margins-in-your-ebooks-using-flipbuilder-a-comprehensive-guide/"><u>How to Adjust Page Margins in Your eBooks Using FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-mini-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo X100 Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>In 2024, Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>[New] 2024 Approved Deciphering AdSense Profits on YouTube Revenue per KV Watched</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>2024 Approved Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comprehensive-jabra-evolve2-75-headset-assessment-perfect-for-telecommuting-and-hybrid-teams-featuring-noise-cancellation-and-extended-chat-capacity-insight128/"><u>Comprehensive Jabra Evolve2 75 Headset Assessment: Perfect for Telecommuting & Hybrid Teams Featuring Noise Cancellation & Extended Chat Capacity - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-insert-emojis-into-your-imessages-from-iphone/"><u>Easy Ways to Insert Emojis Into Your iMessages From iPhone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effective-techniques-for-cleaning-up-and-deleting-preinstalled-apps-in-windows/"><u>Effective Techniques for Cleaning Up and Deleting Preinstalled Apps in Windows</u></a></li>
+<li><a href="https://win-web3.techidaily.com/get-ahead-of-the-crowd-with-the-latest-tech-deal-surface-laptop-go-2-drops-at-just-599-pre-order-now-on-zdnet/"><u>Get Ahead of the Crowd with the Latest Tech Deal: Surface Laptop Go 2 Drops at Just $599, Pre-Order Now on ZDNet!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/insiders-picks-top-recommendations-from-best-buy-experts-on-optimal-windows-machines-confirmed-by-zdnet/"><u>Insider's Picks: Top Recommendations From Best Buy Experts on Optimal Windows Machines - Confirmed by ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/microsoft-reveals-mastering-artificial-intelligence-with-just-11-key-strategies-insights-explained/"><u>Microsoft Reveals: Mastering Artificial Intelligence with Just 11 Key Strategies – Insights Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-with-tom-a-guide-to-premium-hardware/"><u>Navigating Technology with Tom: A Guide to Premium Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-on-transforming-youtube-clips-into-iphone-ringtones-with-the-m4r-file-type/"><u>Step-by-Step Tutorial on Transforming YouTube Clips Into iPhone Ringtones with the M4R File Type</u></a></li>
+<li><a href="https://win-web3.techidaily.com/zdnet-exclusive-how-the-rise-of-microsofts-surface-pro-and-laptop-signals-a-shift-in-ai-pc-innovation-challenging-apple/"><u>ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of the Keychron Q5 Mechanical Keyboard: Enhanced Features Justify Premium Cost"
-date: 2024-09-29T08:44:57.231Z
-updated: 2024-09-29T21:25:57.771Z
+date: 2024-10-03T16:22:26.007Z
+updated: 2024-10-05T16:52:28.759Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -54,31 +61,24 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -91,18 +91,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -111,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,18 +156,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023-trend-analysis-twitters-top-video-shares-for-2024/"><u>[Updated] 2023 Trend Analysis Twitter's Top Video Shares for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-rayman-legends-top-notch-puzzles-and-platforms-in-an-unmatched-2d-journey/"><u>Exploring Rayman Legends - Top-Notch Puzzles and Platforms in an Unmatched 2D Journey</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-105-classic-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia 105 Classic Pattern Lock Screen</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-delete-or-deactivate-an-instagram-account-permanently/"><u>How to Delete or Deactivate An Instagram Account Permanently</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securely-restoring-system-defaults-in-windows-11-without-data-loss-expert-guide/"><u>Securely Restoring System Defaults in Windows 11 Without Data Loss - Expert Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securing-windows-systems-essential-tips-for-home-and-smb-cybersecurity-techadvisor/"><u>Securing Windows Systems: Essential Tips for Home & SMB Cybersecurity | TechAdvisor</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-downloading-and-upgrading-your-asus-laptop-drivers/"><u>Step-by-Step Tutorial on Downloading and Upgrading Your ASUS Laptop Drivers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
-<li><a href="https://win-web3.techidaily.com/upgrading-to-windows-11-is-paid-heres-what-you-need-to-know-according-to-zdnet/"><u>Upgrading to Windows 11 Is Paid – Here’s What You Need to Know According to ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/why-upgrade-to-early-access-a-complete-guide-to-signing-up-for-microsofts-windows-insider-sessions-on-zdnet/"><u>Why Upgrade to Early Access? A Complete Guide to Signing up for Microsoft’s Windows Insider Sessions on ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-11-configuration-made-easy-selecting-the-optimal-user-profile-type-and-understanding-your-options/"><u>Windows 11 Configuration Made Easy: Selecting the Optimal User Profile Type and Understanding Your Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cross-platform-guide-extracting-facebook-video-content/"><u>[New] 2024 Approved Cross-Platform Guide Extracting Facebook Video Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-videoshow-app-a-complete-guide-for-24/"><u>[New] Mastering VideoShow App - A Complete Guide for '24</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-melody-seeker-find-mp3-on-fb/"><u>[New] Melody Seeker Find MP3 on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-assessing-social-media-preference-the-case-for-tiktok-or-youtubes-shorts/"><u>[Updated] 2024 Approved Assessing Social Media Preference The Case for TikTok or YouTubes' Shorts</u></a></li>
+<li><a href="https://win-web3.techidaily.com/complete-apowersoft-pdf-converter-application-manual-step-by-step-instruction/"><u>Complete Apowersoft PDF Converter Application Manual: Step-by-Step Instruction</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effective-methods-for-permanently-deleting-the-twitter-app-from-an-ios-device/"><u>Effective Methods for Permanently Deleting the Twitter App From an iOS Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-methods-to-move-tracks-from-your-macbook-onto-your-iphone-devices/"><u>Effortless Methods to Move Tracks From Your Macbook Onto Your iPhone Devices</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortlessly-remove-safari-bookmarks-on-your-ipad-a-simple-guide/"><u>Effortlessly Remove Safari Bookmarks on Your iPad: A Simple Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-epson-workforce-ds-30-ready-on-windows-1187-with-new-driver-download/"><u>Get Your Epson WorkForce DS 30 Ready on Windows 11/8/7 with New Driver Download</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-105-classic-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia 105 Classic Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boost-engagement-with-quick-unique-coverage-options-on-shorts/"><u>In 2024, Boost Engagement with Quick, Unique Coverage Options on Shorts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s23-fe-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S23 FE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-ultimate-list-best-free-and-subscription-photo-customizer-tools-for-android-and-ios-2022-edition/"><u>The Ultimate List: Best Free and Subscription Photo Customizer Tools for Android and iOS, 2022 Edition</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-techniques-to-transform-image-backdrop-colors-effectively/"><u>Top Techniques to Transform Image Backdrop Colors Effectively</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-guide-advanced-steps-to-merge-your-vehicle-with-novel-backdrops/"><u>Ultimate Guide: Advanced Steps to Merge Your Vehicle with Novel Backdrops</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-guide-choosing-the-right-software-for-seamless-video-trimming-and-editing/"><u>Ultimate Guide: Choosing the Right Software for Seamless Video Trimming & Editing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-how-to-record-audio-with-your-computers-mic/"><u>Ultimate Tutorial: How to Record Audio with Your Computer's Mic</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722726194094-update-your-research-plan/"><u>Update Your Research Plan:</u></a></li>
 </ul></div>
 

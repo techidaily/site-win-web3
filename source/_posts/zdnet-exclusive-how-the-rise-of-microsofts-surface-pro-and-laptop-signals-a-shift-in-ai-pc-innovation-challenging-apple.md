@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple"
-date: 2024-09-28T10:11:02.520Z
-updated: 2024-09-29T23:29:52.822Z
+date: 2024-10-01T16:50:52.640Z
+updated: 2024-10-05T21:14:27.070Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-expert-tips-for-transferring-media-files-flawlessly-w11-for-2024/"><u>[New] Expert Tips for Transferring Media Files Flawlessly W11 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-insights-enhancing-digital-videos-and-photos-online/"><u>[New] Professional Insights Enhancing Digital Videos & Photos Online</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-free-online-flipbook-creator-easily-transform-text-into-stunning-flash-flipbooks/"><u>1. Free Online FlipBook Creator - Easily Transform Text Into Stunning Flash Flipbooks!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtubers-unleashed-a-guide-to-creating-memorable-music-reaction-vids/"><u>2024 Approved Youtubers Unleashed A Guide to Creating Memorable Music Reaction Vids</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/could-buying-certain-items-lead-to-the-disappearance-of-your-brand-name-exploring-possibilities-with-flipbuildercom/"><u>Could Buying Certain Items Lead To The Disappearance Of Your Brand Name? Exploring Possibilities With FlipBuilder.com</u></a></li>
-<li><a href="https://win-web3.techidaily.com/create-interactive-ebooks-in-minutes-using-flipword-simple-guide-to-adding-page-turn-animation/"><u>Create Interactive eBooks in Minutes Using FlipWord - Simple Guide to Adding Page-Turn Animation</u></a></li>
-<li><a href="https://win-web3.techidaily.com/create-professional-zip-style-flipbooks-with-minimal-effort-try-it-now-at-flipbuildercom/"><u>Create Professional Zip-Style Flipbooks with Minimal Effort - Try It Now at FlipBuilder.com</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficient-methodology-for-deleting-obscuring-background-elements/"><u>Efficient Methodology for Deleting Obscuring Background Elements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-printer-offline-error/"><u>Fixing: Printer Offline Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/msidll-not-found-heres-how-to-fix-it-easily/"><u>msi.dll Not Found? Here's How to Fix It Easily!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/upgrade-to-a-dynamic-flash-swf-magazine-from-pdf-for-free-simple-conversion-tools-await-you/"><u>Upgrade to a Dynamic Flash (.swf) Magazine From PDF for Free – Simple Conversion Tools Await You</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/viral-audio-waves-top-10-bgm-for-youtube-short-videos-for-2024/"><u>Viral Audio Waves Top 10 BGM for YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-facebooks-blue-image-symbol/"><u>[New] Demystifying Facebook's Blue Image Symbol</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-best-practices-for-sharing-visuals-in-ms-teams-with-snap-camera/"><u>[Updated] Best Practices for Sharing Visuals in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-prioritize-these-5-facts-when-tiktoking-on-macos/"><u>2024 Approved Prioritize These 5 Facts When TikToking on macOS</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/affordable-microsoft-office-2019-bundle-get-the-best-price-on-pc-and-mac-edition-at-only-25-learn-more/"><u>Affordable Microsoft Office 2019 Bundle: Get the Best Price on PC & Mac Edition at Only $25! – Learn More</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comprehensive-jabra-evolve2-75-headset-assessment-perfecting-the-balance-between-office-and-home-with-noise-cancellation-and-extended-battery-life/"><u>Comprehensive Jabra Evolve2 75 Headset Assessment: Perfecting the Balance Between Office and Home with Noise Cancellation & Extended Battery Life</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-nord-n30-semirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Nord N30 SEMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-tough-reviews-sparked-significant-microsoft-privacy-updates-for-better-protection-cybersecuritydigest/"><u>How Tough Reviews Sparked Significant Microsoft Privacy Updates for Better Protection | CyberSecurityDigest</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/pay-to-upgrade-microsofts-plan-to-charge-for-windows-10-updates-coming-soon-find-out-the-costs-on-zdnet/"><u>Pay-to-Upgrade: Microsoft's Plan to Charge for Windows 10 Updates Coming Soon - Find Out the Costs on ZDNet!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/tech-giants-pivotal-shift-in-data-protection-measures-after-severe-criticism-microsoft-recall-analysis-by-zdnet/"><u>Tech Giant's Pivotal Shift in Data Protection Measures After Severe Criticism | Microsoft Recall Analysis by ZDNET</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-task-organizer-showdown-microsoft-to-do-against-google-tasks-which-should-be-your-preferred-choice/"><u>Top Task Organizer Showdown: Microsoft To Do Against Google Tasks – Which Should Be Your Preferred Choice?</u></a></li>
 </ul></div>
 

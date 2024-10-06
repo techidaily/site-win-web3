@@ -1,7 +1,7 @@
 ---
 title: Introduction to the RCU Action-Based Mobile Application
-date: 2024-09-25T12:56:59.353Z
-updated: 2024-09-29T16:43:48.383Z
+date: 2024-09-30T17:27:19.745Z
+updated: 2024-10-05T16:21:25.480Z
 tags:
   - product
 categories:
@@ -25,10 +25,10 @@ Action! add-on
 ## Action! RCU App Overview
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Full control within a finger's reach
@@ -47,32 +47,11 @@ By using our Action! RCU Application you can easily control recording of your vi
 
 ![Start and stop LIVE Streaming](https://mirillis.com/res/old/media/images/product/action_rcu/l2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Start and stop LIVE Streaming
 
 Control your stream session with your Android device just by tapping one button on your device start or stop your stream.
 
 ![Display webcams preview](https://mirillis.com/res/old/media/images/product/action_rcu/l3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3. Display webcams preview
 
@@ -80,17 +59,38 @@ Use you mobile device to preview your webcam. You can use it instead of HUD vers
 
 ![Display FPS information](https://mirillis.com/res/old/media/images/product/action_rcu/l4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Display FPS information
 
 Control all the FPS information from your Android mobile device. The RCU App will show you current and average FPS on your devices screen.
 
 ![Display video recording time](https://mirillis.com/res/old/media/images/product/action_rcu/l5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Display video recording time
 
 Keep an eye on the time of the video you are recording on your mobile device. Record the exact length of the video that you need.
 
 ![Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)](https://mirillis.com/res/old/media/images/product/action_rcu/l6.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6. Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)
 
@@ -99,23 +99,17 @@ Action! RCU shows you the information on graphic engine that you are currently u
 ![Display free disk space](https://mirillis.com/res/old/media/images/product/action_rcu/l7.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7. Display free disk space
@@ -137,19 +131,22 @@ Do not let yourself to spoil your gameplay video because of lack of free space o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levating-video-marketing-understanding-keywords-on-platforms-like-youtube/"><u>[New] Elevating Video Marketing Understanding Keywords on Platforms Like YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>[Updated] Crafting the Future's Past Digital Conversion for Timeless Images</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-visual-virtuosity-leading-photo-frames-websites-and-tools/"><u>[Updated] Visual Virtuosity Leading Photo Frames Websites and Tools</u></a></li>
-<li><a href="https://win-web3.techidaily.com/affordable-microsoft-office-2019-bundle-get-the-best-price-on-pc-and-mac-edition-at-only-25-learn-more/"><u>Affordable Microsoft Office 2019 Bundle: Get the Best Price on PC & Mac Edition at Only $25! – Learn More</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprehensive-jabra-evolve2-75-headset-assessment-perfect-for-telecommuting-and-hybrid-teams-featuring-noise-cancellation-and-extended-chat-capacity-insight128/"><u>Comprehensive Jabra Evolve2 75 Headset Assessment: Perfect for Telecommuting & Hybrid Teams Featuring Noise Cancellation & Extended Chat Capacity - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effective-techniques-for-cleaning-up-and-deleting-preinstalled-apps-in-windows/"><u>Effective Techniques for Cleaning Up and Deleting Preinstalled Apps in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-secure-your-ft232r-usb-uart-drivers-today/"><u>Effortless Installation: Secure Your FT232R USB UART Drivers Today</u></a></li>
-<li><a href="https://win-web3.techidaily.com/get-ahead-of-the-crowd-with-the-latest-tech-deal-surface-laptop-go-2-drops-at-just-599-pre-order-now-on-zdnet/"><u>Get Ahead of the Crowd with the Latest Tech Deal: Surface Laptop Go 2 Drops at Just $599, Pre-Order Now on ZDNet!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m14-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy M14 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-embed-a-brand-logo-directly-on-the-main-web-page-with-flipbuilder-complete-guide/"><u>How To Embed A Brand Logo Directly On The Main Web Page With FlipBuilder - Complete Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Android? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/insiders-picks-top-recommendations-from-best-buy-experts-on-optimal-windows-machines-confirmed-by-zdnet/"><u>Insider's Picks: Top Recommendations From Best Buy Experts on Optimal Windows Machines - Confirmed by ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/tech-giants-pivotal-shift-in-data-protection-measures-after-severe-criticism-microsoft-recall-analysis-by-zdnet/"><u>Tech Giant's Pivotal Shift in Data Protection Measures After Severe Criticism | Microsoft Recall Analysis by ZDNET</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-entrepreneurs-guide-to-youtube-earnings-thriving-without-ad-support-for-2024/"><u>The Entrepreneur’s Guide to YouTube Earnings Thriving Without Ad Support for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[New] In 2024, Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-video-frames-for-instagram-shares-for-2024/"><u>[New] Perfecting Video Frames for Instagram Shares for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-photo-perfection-on-snapchat/"><u>[New] The Ultimate Guide to Photo Perfection on Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-cinematography-for-reddit-amas/"><u>[Updated] Perfecting Cinematography for Reddit AMAs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boosting-your-nes-classic-collection-a-guide-to-adding-new-game-titles/"><u>Boosting Your NES Classic Collection: A Guide to Adding New Game Titles</u></a></li>
+<li><a href="https://win-web3.techidaily.com/cross-device-video-adaptation-tool-seamlessly-adjust-videos-for-your-handheld-device/"><u>Cross-Device Video Adaptation Tool: Seamlessly Adjust Videos for Your Handheld Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guide-mastering-fallout-76-mobile-gameplay-on-your-iphone/"><u>Guide: Mastering Fallout 76 Mobile Gameplay on Your iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-compile-list-of-cost-efficient-vecto-art-sites/"><u>In 2024, Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrate-streamlabs-with-ease-into-your-macs-obs/"><u>In 2024, Integrate Streamlabs with Ease Into Your Mac’s OBS</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-and-easy-methods-how-to-decrease-the-size-of-pdf-files/"><u>Quick and Easy Methods: How to Decrease the Size of PDF Files</u></a></li>
+<li><a href="https://win-web3.techidaily.com/remove-unwanted-iphone-tones-with-these-must-have-cleanup-utilities/"><u>Remove Unwanted iPhone Tones with These Must-Have Cleanup Utilities</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-guide-how-to-delete-podcast-episodes-on-your-iphone/"><u>Simple Guide: How To Delete Podcast Episodes On Your iPhone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-7-essential-microsoft-word-plugins-boosting-your-work-efficiency/"><u>Top 7 Essential Microsoft Word Plugins Boosting Your Work Efficiency</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-tips-for-successfully-creating-your-own-apple-music-cd/"><u>Top Tips for Successfully Creating Your Own Apple Music CD</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-guide-broadcasting-your-epic-fortnite-battles-in-real-time-from-pc/"><u>Ultimate Guide: Broadcasting Your Epic Fortnite Battles in Real-Time From PC</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-x9b-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from X9b</u></a></li>
 </ul></div>
 

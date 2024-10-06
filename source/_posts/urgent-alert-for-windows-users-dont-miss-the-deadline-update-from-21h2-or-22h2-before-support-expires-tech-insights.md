@@ -1,7 +1,7 @@
 ---
 title: "Urgent Alert for Windows Users: Don't Miss the Deadline! Update From 21H2 or 22H2 Before Support Expires | Tech Insights"
-date: 2024-09-25T04:28:16.871Z
-updated: 2024-09-30T07:32:14.710Z
+date: 2024-09-30T16:09:44.902Z
+updated: 2024-10-05T23:06:04.019Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-revolutionizing-video-speed-in-social-networks/"><u>[New] In 2024, Revolutionizing Video Speed in Social Networks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-speech-to-text-leveraging-googles-expertise/"><u>[New] Seamless Speech-to-Text Leveraging Google's Expertise</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-audio-acquirers-almanac-save-and-scrutinize-songs/"><u>[Updated] In 2024, Audio Acquirer's Almanac Save & Scrutinize Songs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>[Updated] Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-lower-audio-levels-in-os-xwindows/"><u>2024 Approved Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
-<li><a href="https://win-web3.techidaily.com/5-effective-methods-to-download-sound-from-videos-on-the-web/"><u>5 Effective Methods to Download Sound From Videos on the Web</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-setting-up-lenovo-x1-carbon-drive-utilities-for-windows-10/"><u>Downloading and Setting Up Lenovo X1 Carbon Drive Utilities for Windows 10 /</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-magic-v2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor Magic V2 Devices</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ideal-aiff-format-transformer-effortlessly-convert-aiff-files-tofrom-popular-audio-types-like-mp3-wav-and-flac/"><u>Ideal AIFF Format Transformer: Effortlessly Convert AIFF Files To/From Popular Audio Types Like MP3, WAV, and FLAC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://win-web3.techidaily.com/media-management-showdown-can-emby-surpass-the-popularity-of-plex/"><u>Media Management Showdown: Can Emby Surpass the Popularity of Plex?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
-<li><a href="https://win-web3.techidaily.com/optimized-pubg-broadcast-software-seamless-gaming-recording-on-latest-windows-operating-systems/"><u>Optimized PUBG Broadcast Software: Seamless Gaming Recording on Latest Windows Operating Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-streaming-with-real-debrid-and-kodi-a-step-by-step-guide/"><u>Seamless Streaming with Real-Debrid and Kodi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/securing-your-gaming-moments-with-windows-11-for-2024/"><u>Securing Your Gaming Moments with Windows 11 for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/simple-steps-converting-mov-files-to-mpeg-format-on-windows-1011/"><u>Simple Steps: Converting MOV Files to MPEG Format on Windows 10/11</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-6-complimentary-avi-video-splitter-tools-compatible-with-windows-macos-and-online-services/"><u>Top 6 Complimentary AVI Video Splitter Tools Compatible with Windows, macOS & Online Services</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726026470144-windows-pc/"><u>Windows PCでのオーディオバランス調整 - 最適な手法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-connecting-twitters-and-facebooks-easily/"><u>[New] In 2024, Connecting Twitters & Facebooks Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-lightweight-pc-video-grabber-w10-compatible/"><u>[Updated] 2024 Approved Lightweight PC Video Grabber, W10 Compatible</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-fine-tuning-your-frames-with-videoleap-for-2024/"><u>[Updated] Fine-Tuning Your Frames with Videoleap for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-essentials-of-effective-video-narration-techniques/"><u>[Updated] In 2024, The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://win-web3.techidaily.com/create-professional-zip-style-flipbooks-with-minimal-effort-try-it-now-at-flipbuildercom/"><u>Create Professional Zip-Style Flipbooks with Minimal Effort - Try It Now at FlipBuilder.com</u></a></li>
+<li><a href="https://win-web3.techidaily.com/creating-multilingual-ui-elements-adding-portuguese-text-to-english-buttons-on-flipbuilder/"><u>Creating Multilingual UI Elements: Adding Portuguese Text to English Buttons on FlipBuilder</u></a></li>
+<li><a href="https://win-web3.techidaily.com/efficiently-create-personalized-flipbooks-from-multiple-pdfs-at-once-with-flipbuilder/"><u>Efficiently Create Personalized Flipbooks From Multiple PDFs at Once with FlipBuilder</u></a></li>
+<li><a href="https://win-web3.techidaily.com/essential-image-preparation-tips-for-optimal-flipbook-creation-at-flipbuilder/"><u>Essential Image Preparation Tips for Optimal FlipBook Creation at FlipBuilder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-reactivating-an-unresponsive-roku-smart-tv/"><u>Expert Advice on Reactivating an Unresponsive Roku Smart TV</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-often-do-you-need-to-renew-your-flippdf-pro-software-license-get-answers-here/"><u>How Often Do You Need to Renew Your FlipPDF Pro Software License? Get Answers Here!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-adjust-page-margins-in-your-ebooks-using-flipbuilder-a-comprehensive-guide/"><u>How to Adjust Page Margins in Your eBooks Using FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-customize-page-margins-in-your-e-book-using-flipbuilder-a-comprehensive-guide/"><u>How to Customize Page Margins in Your E-Book Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts-for-2024/"><u>How to Swiftly Modify and Verify Your Age in TikTok Accounts for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/integrate-interactive-ebooks-into-your-web-presence-expert-tips-from-flipbuildercom/"><u>Integrate Interactive eBooks Into Your Web Presence: Expert Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-claude-ai-superior-to-chatgpt-analyzing-top-tier-artificial-intelligence-conversationalists/"><u>Is Claude AI Superior to ChatGPT? Analyzing Top-Tier Artificial Intelligence Conversationalists</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-audio-transitions-in-fcpx-l-cuts-and-j-cuts-explained/"><u>Updated Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained</u></a></li>
 </ul></div>
 

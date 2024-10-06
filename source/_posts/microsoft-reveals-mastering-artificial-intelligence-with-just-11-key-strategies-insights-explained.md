@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reveals: Mastering Artificial Intelligence with Just 11 Key Strategies – Insights Explained"
-date: 2024-09-25T08:22:16.442Z
-updated: 2024-09-30T11:11:14.932Z
+date: 2024-09-28T20:57:20.515Z
+updated: 2024-10-05T19:50:57.689Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-laughs-teardrops-and-snickers-in-10-best-ig-memes-groups/"><u>[Updated] 2024 Approved Laughs, Teardrops & Snickers in 10 Best IG Memes Groups</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-7-tips-to-make-your-tasty-cooking-videos-for-2024/"><u>[Updated] 7 Tips to Make Your Tasty Cooking Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-power-the-best-for-web-video-gems/"><u>2024 Approved Pixel Power The Best for Web Video Gems</u></a></li>
-<li><a href="https://games-able.techidaily.com/bond-with-gamers-through-series-x-clanship/"><u>Bond with Gamers Through Series X Clanship</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-powerdirector-2-written-users/"><u>Decoding PowerDirector 2 Written Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/engaging-strategies-for-amplifying-your-youtube-fanbase/"><u>Engaging Strategies for Amplifying Your YouTube Fanbase</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/legitimacy-check-ensuring-your-microsoft-windows-is-genuine-insights-from-zdnet/"><u>Legitimacy Check: Ensuring Your Microsoft Windows Is Genuine - Insights From ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/making-the-leap-from-windows-10-to-windows-11-compatibility-and-upgrades-guide/"><u>Making the Leap From Windows 10 to Windows 11: Compatibility & Upgrades Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/microsoft-tackles-controversy-head-on-an-insight-into-their-new-recall-function-and-ongoing-privacy-discussions/"><u>Microsoft Tackles Controversy Head-On: An Insight Into Their New Recall Function and Ongoing Privacy Discussions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/seamless-file-sharing-transfer-data-from-pc-to-android-using-googles-quick-share-a-step-by-step-guide/"><u>Seamless File Sharing: Transfer Data From PC to Android Using Google's Quick Share - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securely-restoring-system-defaults-in-windows-11-without-data-loss-expert-guide/"><u>Securely Restoring System Defaults in Windows 11 Without Data Loss - Expert Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securing-windows-systems-essential-tips-for-home-and-smb-cybersecurity-techadvisor/"><u>Securing Windows Systems: Essential Tips for Home & SMB Cybersecurity | TechAdvisor</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>[New] In 2024, Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y56-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y56 5G Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-gopro-videos-time-lapse-guide/"><u>Enhance Your GoPro Videos Time-Lapse Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-static-to-dynamic-making-text-pop-on-instagram-stories-for-2024/"><u>From Static to Dynamic Making Text Pop on Instagram Stories for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715859746671-in-2024-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>In 2024, Mastering Movie Capture PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-ideas-into-viral-video-hits-on-youtube/"><u>In 2024, Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-startup-problems-in-the-evil-genius-2-strategy-game/"><u>Resolving Startup Problems in the Evil Genius 2 Strategy Game</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-seventh-selection-of-aquatic-cameras/"><u>The Ultimate Seventh Selection of Aquatic Cameras</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-two-tools-for-easy-mkv-to-flac-audio-conversion/"><u>Top Two Tools for Easy MKV to FLAC Audio Conversion</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshoot-and-solve-handbrake-libdvdcss-not-working-problem-easily/"><u>Troubleshoot and Solve HandBrake 'Libdvdcss Not Working' Problem Easily!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-media-player-5-effective-solutions-when-mp3-wont-play/"><u>Troubleshooting Windows Media Player: 5 Effective Solutions When MP3 Won't Play</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
+<li><a href="https://win-web3.techidaily.com/usbcd/"><u>USBへの変換:パソコンでCDデータを正しくバックアップする手引き</u></a></li>
 </ul></div>
 
