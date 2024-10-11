@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Crowd with the Latest Tech Deal: Surface Laptop Go 2 Drops at Just $599, Pre-Order Now on ZDNet!"
-date: 2024-09-30T22:39:08.220Z
-updated: 2024-10-05T17:44:45.837Z
+date: 2024-10-04T09:57:02.872Z
+updated: 2024-10-10T20:36:41.864Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,16 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,17 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-dells-direct-methods-easy-screenshot-solutions/"><u>[New] In 2024, Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-android-mastery-for-virtual-reality-and-panoramic-videos/"><u>[Updated] Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>2024 Approved Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
-<li><a href="https://win-web3.techidaily.com/55m96bus5yyw5yuv55s75oml6acg77ya6kmz44gx44ge44ot44oh44kq44kw44os44o844k544kx44o844or5asj5oplusb44ks44kk44oj/"><u>白黒化動画手順：詳しいビデオグレースケール変換ガイド</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/are-dual-core-cpus-over-not-with-intels-latest-310-leading-two-p-cores-on-geekbench/"><u>Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench</u></a></li>
-<li><a href="https://win-web3.techidaily.com/bulk-conversion-of-wav-files-to-aac-format-using-windows-step-by-step-guide/"><u>Bulk Conversion of WAV Files to AAC Format Using Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/discover-the-best-youtube-video-downloading-tools-updated-guide/"><u>Discover the Best YouTube Video Downloading Tools: Updated Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effortless-steps-for-upgrading-your-videos-to-superior-hd-clarity/"><u>Effortless Steps for Upgrading Your Videos to Superior HD Clarity</u></a></li>
-<li><a href="https://win-web3.techidaily.com/free-methods-to-change-or-edit-mxf-file-format-a-comprehensive-guide/"><u>Free Methods to Change or Edit MXF File Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/making-memories-sing-picture-plus-music-videography-for-2024/"><u>Making Memories Sing Picture + Music Videography for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-v29-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo V29 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-optimize-your-steam-experience-with-a-switch-pro-controller-for-2024/"><u>[New] How to Optimize Your Steam Experience with a Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-pc-gpus-for-high-res-editing/"><u>[Updated] Premium PC GPUs for High-Res Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-robloxs-close-up-mysteries-for-gamers/"><u>2024 Approved Unraveling Roblox's Close-Up Mysteries for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-laptop-maintenance-steps-for-putting-a-key-back-on-your-keyboard/"><u>DIY Laptop Maintenance: Steps for Putting a Key Back on Your Keyboard</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/guide-turning-insta-vids-to-mp3-tracks/"><u>Guide Turning Insta Vids to MP3 Tracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-speed-replicas-best-racing-games-for-2024/"><u>High-Speed Replicas Best Racing Games for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y27s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y27s</u></a></li>
+<li><a href="https://win-web3.techidaily.com/microsofts-latest-update-risks-aggravating-after-hours-productivity-struggles-insights-wired/"><u>Microsoft's Latest Update Risks Aggravating After-Hours Productivity Struggles - Insights | Wired</u></a></li>
+<li><a href="https://win-web3.techidaily.com/new-microsoft-announcement-paid-updates-for-windows-10-coming-soon-what-you-can-expect/"><u>New Microsoft Announcement: Paid Updates for Windows 10 Coming Soon - What You Can Expect</u></a></li>
+<li><a href="https://win-web3.techidaily.com/securing-your-microsoft-account-effective-strategies-against-cyber-threats-insights-from-zdnet/"><u>Securing Your Microsoft Account: Effective Strategies Against Cyber Threats - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-sounds-issues-in-halo-infinite-a-step-by-step-guide/"><u>Solving Common Sounds Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-10-price-hike-alert-microsoft-to-implement-costly-updates-from-next-year-get-insights-on-potential-charges-now-zdnet/"><u>Windows 10 Price Hike Alert! Microsoft to Implement Costly Updates From Next Year. Get Insights on Potential Charges Now | ZDNET</u></a></li>
+<li><a href="https://win-web3.techidaily.com/worth-the-upgrade-a-comparative-review-of-standard-and-plus-versions-of-chatgpt/"><u>Worth the Upgrade? A Comparative Review of Standard and Plus Versions of ChatGPT</u></a></li>
 </ul></div>
 

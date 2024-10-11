@@ -1,7 +1,7 @@
 ---
 title: "How to Purchase From Mirillis: Comprehensive Guide on Their Sale Terms & Policies"
-date: 2024-09-29T16:00:34.529Z
-updated: 2024-10-05T16:22:29.121Z
+date: 2024-10-04T05:42:07.659Z
+updated: 2024-10-11T03:14:22.950Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ Terms - this terms and conditions of sale
 Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP: 973-097-55-52, REGON: 080432823, Captial: 30000pln, KRS: 0000356397 - Sąd Rejonowy w Zielonej Górze, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego
 
 Reseller - official partner of Mirillis Ltd. responsible for processing payments and product delivery
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### General conditions
 
@@ -54,6 +47,19 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 
 2.2 Payment for the products is processed by PayPal and Plimus/BlueSnap.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Delivery
 
 3.1 When payment transaction is accepted Mirillis or Reseller will send purchase confirmation e-mail with product serial number and product download information. The purchase confirmation e-mail will be sent on your e-mail address used during payment process.
@@ -67,10 +73,10 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 3.5 Mirillis provides electronic invoices for purchases made via PayPal. Electronic invoice will be sent on your request. Request the invoice after the purchase using: Invoice request form. Electronic invoice will be delivered in 15 days after the end of the month in which license was purchased.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -78,15 +84,22 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 4.1 You are responsible to keep your product serial number (sent by Mirillis in purchase confirmation e-mail) safe. Making product serial number publicly available may result in no access for software upgrades offers, no access for customer/technical support and invalidating your product serial number.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy Policy
 
 5.1 You acknowledge that you have read and you accept our Privacy Policy. If you do not accept [Privacy Policy](https://tools.techidaily.com/mirillis/products/) you must discontinue purchase.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Support and product updates
 
@@ -97,13 +110,6 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 6.3 Selected support services may require to purchase additional service options. Action! serial number reminding and downloading old Action! installation versions require to purchase additional Extended services option. Please see Extended Services section.
 
 6.4 After product purchase you are entitled to a free updates within purchased product version. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Extended Services for Action! product
 
@@ -136,20 +142,18 @@ After refund request is accepted by Mirillis all refund processing is done by Pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-determining-the-price-of-a-music-video-setup-for-2024/"><u>[New] Determining the Price of a Music Video Setup for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-time-saving-routines-for-capturing-vimeo-media/"><u>[New] Time-Saving Routines for Capturing Vimeo Media</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-disk-fragmentation-issue/"><u>Addressing Windows Disk Fragmentation Issue</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-kindle-vs-amazon-fire-tablet-unraveling-their-distinct-features/"><u>Amazon Kindle Vs. Amazon Fire Tablet: Unraveling Their Distinct Features</u></a></li>
-<li><a href="https://win-web3.techidaily.com/audible-to-mp3-transformation-guide-perfect-your-e-book-narrative-listening/"><u>Audible to MP3 Transformation Guide – Perfect Your E-Book Narrative Listening</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cambiar-archivo-raw-a-formato-png-gratuito-en-linea-con-movavi/"><u>Cambiar Archivo RAW a Formato PNG Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/oad-youtube-playlists-without-hassle-our-guide-for-2024/"><u>Download YouTube Playlists Without Hassle - Our Guide for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effective-methods-for-seamless-transition-of-avi-files-into-apples-itunes-library/"><u>Effective Methods for Seamless Transition of AVI Files Into Apple's iTunes Library</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effortless-methods-to-move-tracks-from-your-macbook-onto-your-iphone-devices/"><u>Effortless Methods to Move Tracks From Your Macbook Onto Your iPhone Devices</u></a></li>
-<li><a href="https://win-web3.techidaily.com/leading-image-watermark-tools-essential-picks-for-protecting-your-work/"><u>Leading Image Watermark Tools: Essential Picks for Protecting Your Work</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-windows-11-system-update/"><u>Step-by-Step Guide: Removing a Windows 11 System Update</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-on-transforming-your-multi-track-blu-rays-m2ts-to-superior-quality-wmv-videos/"><u>Step-by-Step Tutorial on Transforming Your Multi-Track Blu-Ray's M2TS to Superior Quality WMV Videos</u></a></li>
-<li><a href="https://win-web3.techidaily.com/the-ultimate-list-best-free-and-subscription-photo-customizer-tools-for-android-and-ios-2022-edition/"><u>The Ultimate List: Best Free and Subscription Photo Customizer Tools for Android and iOS, 2022 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-technological-savings-amazons-exclusive-prime-day-offers-june-2024/"><u>Top Technological Savings: Amazon's Exclusive Prime Day Offers, June 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/zdnets-top-strategies-for-retrieving-deleted-documents-in-the-latest-windows-versions/"><u>ZDNet's Top Strategies for Retrieving Deleted Documents in the Latest Windows Versions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-vimeo-profile-picture-constraints/"><u>[New] 2024 Approved Vimeo Profile Picture Constraints</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-high-quality-audio-recordings-on-your-imac/"><u>2024 Approved Quick Tips for High-Quality Audio Recordings on Your iMac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-windows-simulations-for-playstation-3-games-5/"><u>2024 Approved Top Windows Simulations for PlayStation 3 Games (5)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-visionupgrade-pro-universal-platform-edition/"><u>2024 Approved VisionUpgrade Pro – Universal Platform Edition</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-mastering-video-downloads-on-the-motherless-website/"><u>How To: Mastering Video Downloads on the Motherless Website</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-lava-storm-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Lava Storm 5G Device SIM</u></a></li>
+<li><a href="https://win-web3.techidaily.com/master-your-sketches-get-free-downloads-of-drawing-techniques-and-courses-from-expert-academy/"><u>Master Your Sketches: Get Free Downloads of Drawing Techniques and Courses From Expert Academy</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mastering-mms-streaming-a-step-by-step-guide-to-downloading-wmv-mp4-and-avi-files/"><u>Mastering MMS Streaming: A Step-by-Step Guide to Downloading WMV, MP4 & AVI Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/regain-access-to-missing-files-at-zero-cost/"><u>Regain Access to Missing Files at Zero Cost</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screencapturetech-2023-highlighting-the-apeak-software-review-for-2024/"><u>ScreenCaptureTech 2023 Highlighting the Apeak Software Review for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-on-downloading-and-converting-expotv-content-into-high-quality-video-formats/"><u>Step-by-Step Guide on Downloading and Converting ExpoTV Content Into High-Quality Video Formats</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-converting-yoga-journal-videos-into-multiple-formats-like-mp4-avi-and-more/"><u>Step-by-Step Guide: Converting Yoga Journal Videos Into Multiple Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-downloading-videoclips-from-tubechop-efficiently/"><u>Step-by-Step Guide: Downloading Videoclips From TubeChop Efficiently</u></a></li>
 </ul></div>
 

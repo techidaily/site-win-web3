@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Effective Strategies Against Cyber Threats - Insights From ZDNet"
-date: 2024-09-30T20:00:56.917Z
-updated: 2024-10-05T22:05:41.704Z
+date: 2024-10-08T06:13:16.789Z
+updated: 2024-10-10T22:02:37.691Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-framework-for-high-quality-streaming-archiving/"><u>[New] The Framework for High-Quality Streaming Archiving</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-screen-capturing-a-resourceful-guide-for-dell-users-for-2024/"><u>[Updated] In-Depth Screen Capturing A Resourceful Guide for Dell Users for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effortlessly-clear-out-your-iphone-camera-roll-a-comprehensive-tutorial/"><u>Effortlessly Clear Out Your iPhone Camera Roll - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone SE (2022)? Heres the Best Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sensory-overload-vr-transforming-viewing-habits/"><u>In 2024, Sensory Overload VR Transforming Viewing Habits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>In 2024, Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-magic-5-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor Magic 5 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-web3.techidaily.com/quick-and-simple-steps-transforming-markdown-into-pdf-updated-guide-2023/"><u>Quick & Simple Steps: Transforming Markdown Into PDF (Updated Guide - 2023)</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resetting-your-iphone-7-without-access-a-step-by-step-walkthrough-for-no-password-factory-resets/"><u>Resetting Your iPhone 7 Without Access - A Step-by-Step Walkthrough for No-Password Factory Resets</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/share-your-digital-flipbook-creations-with-friends-on-flipbuildercom/"><u>Share Your Digital Flipbook Creations with Friends on FlipBuilder.com</u></a></li>
-<li><a href="https://win-web3.techidaily.com/simple-guide-to-retrieving-lost-data-after-deletion-in-windows-10/"><u>Simple Guide to Retrieving Lost Data After Deletion in Windows 10</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-incornating-text-overlays-into-your-tiktok-creations/"><u>Step-by-Step Guide: Incornating Text Overlays Into Your TikTok Creations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand-for-2024/"><u>[New] Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creating-unique-youtube-music-mixtapes/"><u>[Updated] Creating Unique YouTube Music Mixtapes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/efficiently-merge-dual-images-into-a-single-flipbook-page-with-flipbuilders-guide/"><u>Efficiently Merge Dual Images Into a Single Flipbook Page with FlipBuilder's Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expert-insights-mastering-the-art-of-print-with-flip-printers-on-flipbuildercom/"><u>Expert Insights: Mastering the Art of Print with Flip Printers on FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-create-an-interactive-flipbook-from-textual-content-with-custom-numbered-sections/"><u>How to Create an Interactive Flipbook From Textual Content with Custom Numbered Sections</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-distribute-your-customized-flipbooks-on-facebook-using-flipbuilder/"><u>How to Distribute Your Customized Flipbooks on Facebook Using FlipBuilder</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-optimize-quality-and-scale-in-import-files-using-flippdf-software-learn-today/"><u>How to Optimize Quality and Scale in Import Files Using FlipPDF Software - Learn Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-e13-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto E13 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://win-web3.techidaily.com/post-purchase-steps-navigating-your-newly-acquired-licensing-with-flipbuilder/"><u>Post-Purchase Steps: Navigating Your Newly Acquired Licensing with FlipBuilder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-steadicam-brands-for-drones-and-camera-work-for-2024/"><u>Premium Steadicam Brands for Drones and Camera Work for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-adding-and-organizing-bookmarks-in-ebooks-with-flipbuilder/"><u>Step-by-Step Guide: Adding and Organizing Bookmarks in eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-modifying-menu-panel-background-hue-on-flipbuilder/"><u>Step-by-Step Guide: Modifying Menu Panel Background Hue on FlipBuilder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-breakdowns/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's Hardware Breakdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-dark-launch-issue-of-monster-hunter-world/"><u>Troubleshooting Guide: Fixing the Dark Launch Issue of Monster Hunter World</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-successfully-launching-stardew-valley/"><u>Troubleshooting Tips for Successfully Launching Stardew Valley</u></a></li>
 </ul></div>
 

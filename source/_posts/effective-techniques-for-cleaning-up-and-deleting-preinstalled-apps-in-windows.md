@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Cleaning Up and Deleting Preinstalled Apps in Windows
-date: 2024-09-29T20:40:25.294Z
-updated: 2024-10-05T22:05:39.118Z
+date: 2024-10-08T08:19:51.870Z
+updated: 2024-10-11T08:26:53.827Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-become-a-pro-with-our-instagram-story-insights/"><u>[New] Become a Pro with Our Instagram Story Insights</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-exclusive-music-tools-for-pcs/"><u>[New] Exclusive Music Tools for PCs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-backdrops-for-effective-virtual-gatherings/"><u>[New] In 2024, Prime Backdrops for Effective Virtual Gatherings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-to-follow-steps-for-android-video-capture-for-2024/"><u>[Updated] Easy-to-Follow Steps for Android Video Capture for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-apps-and-programs-for-image-video-integration/"><u>2024 Approved Best Apps and Programs for Image Video Integration</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-12-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 12 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y100i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y100i Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
-<li><a href="https://win-web3.techidaily.com/optimized-pubg-broadcast-software-seamless-gaming-recording-on-latest-windows-operating-systems/"><u>Optimized PUBG Broadcast Software: Seamless Gaming Recording on Latest Windows Operating Systems</u></a></li>
-<li><a href="https://win-web3.techidaily.com/simple-steps-converting-mov-files-to-mpeg-format-on-windows-1011/"><u>Simple Steps: Converting MOV Files to MPEG Format on Windows 10/11</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-6-complimentary-avi-video-splitter-tools-compatible-with-windows-macos-and-online-services/"><u>Top 6 Complimentary AVI Video Splitter Tools Compatible with Windows, macOS & Online Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-gpt-4-a-comprehensive-guide-on-accessibility/"><u>Unlocking the Power of GPT-4: A Comprehensive Guide on Accessibility</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-youtubes-full-potential-with-top-video-formats/"><u>Unlocking YouTube's Full Potential with Top Video Formats</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-usb-hub-picks-dynamic-powered-models-compact-builds-and-versatile-type-c-ports/"><u>Unveiling Top USB Hub Picks: Dynamic Powered Models, Compact Builds, & Versatile Type-C Ports</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726026470144-windows-pc/"><u>Windows PCでのオーディオバランス調整 - 最適な手法</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726029604820-youtube/"><u>YouTubeショート動画の編集 - スマホやパソコンでも使える無料ツール</u></a></li>
-<li><a href="https://win-web3.techidaily.com/44ov44oq44o844oh44kk44kv44ot44oh44kq44kz44oz44oq44o844k44gm5l244gi44gq44gp44gq44kl55cg55sx44go5aplusplus562w44gr44gk44ge7kea/"><u>フリーメイクビデオコンバータが使えなくなる理由と対策につい지</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1726028802248-top5/"><u>ベストの無料オーディオ編集ソフトウェアTOP5推薦</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-your-content-time-stamping-in-online-vids/"><u>[New] Perfecting Your Content Time Stamping in Online Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-effective-digital-video-photo-alteration/"><u>[New] Strategies for Effective Digital Video Photo Alteration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tips-for-saving-webcam-chats-effectively-for-2024/"><u>[Updated] Tips for Saving Webcam Chats Effectively for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-prime-sources-and-techniques-for-cutting-tamil-ringtones/"><u>2024 Approved Discovering Prime Sources & Techniques for Cutting Tamil Ringtones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-strategies-for-boosting-your-youtube-shorts-audience/"><u>2024 Approved Strategies for Boosting Your YouTube Shorts Audience</u></a></li>
+<li><a href="https://win-web3.techidaily.com/dont-risk-security-prepare-for-the-shutdown-of-windows-11-21h2-and-22h2-support-update-today-zdnet/"><u>Don't Risk Security: Prepare for the Shutdown of Windows 11 21H2 and 22H2 Support – Update Today! | ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/exclusive-savings-alert-top-products-to-score-this-years-black-friday-and-cyber-monday-zdnet/"><u>Exclusive Savings Alert! Top Products to Score This Year's Black Friday & Cyber Monday | ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/explore-the-latest-innovations-in-microsofts-new-ai-powered-surface-devices-pro-10-and-laptop-6-insights-from-zdnet/"><u>Explore the Latest Innovations in Microsoft's New AI-Powered Surface Devices: Pro 10 and Laptop 6 | Insights From ZDNET</u></a></li>
+<li><a href="https://win-web3.techidaily.com/exploring-microsofts-vision-windows-at-the-core-of-shaping-tomorrows-hybrid-work-environments-digitalinnovationhub/"><u>Exploring Microsoft's Vision: Windows at the Core of Shaping Tomorrow's Hybrid Work Environments | DigitalInnovationHub</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-ultimate-video-fixer-comprehensive-hardware-and-software-tools/"><u>Grau GmbH's Ultimate Video Fixer: Comprehensive Hardware and Software Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/keep-your-windows-10-machine-running-smoothly-top-5-free-tips-to-extend-your-pcs-life-zdnet/"><u>Keep Your Windows 10 Machine Running Smoothly: Top 5 Free Tips to Extend Your PC's Life | ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/quick-guide-how-to-revamp-facebook-profile-imagery-for-2024/"><u>Quick Guide How to Revamp Facebook Profile Imagery for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-transforming-standard-hd-videos-into-ultra-high-definition-on-pc-with-specialized-software-solutions/"><u>Step-by-Step Tutorial for Transforming Standard HD Videos Into Ultra High Definition on PC with Specialized Software Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/unlock-unlimited-potential-with-a-free-trial-of-copilot-pro-discover-how-on-zdnet/"><u>Unlock Unlimited Potential with a Free Trial of Copilot Pro - Discover How on ZDNet!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-samsungs-image-editing-software-insights/"><u>Unveiling Samsung's Image Editing Software Insights</u></a></li>
+<li><a href="https://win-web3.techidaily.com/urgent-alert-for-windows-users-dont-miss-the-deadline-update-from-21h2-or-22h2-before-support-expires-tech-insights/"><u>Urgent Alert for Windows Users: Don't Miss the Deadline! Update From 21H2 or 22H2 Before Support Expires | Tech Insights</u></a></li>
+<li><a href="https://win-web3.techidaily.com/urgent-challenge-ahead-microsoft-must-resolve-major-windows-10-issues-within-just-12-months-insights-from-zdnet/"><u>Urgent Challenge Ahead: Microsoft Must Resolve Major Windows 10 Issues Within Just 12 Months - Insights From ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/why-linking-windows-11-to-your-microsoft-365-business-profile-matters-comprehensive-tutorial/"><u>Why Linking Windows 11 to Your Microsoft 365 Business Profile Matters – Comprehensive Tutorial</u></a></li>
 </ul></div>
 

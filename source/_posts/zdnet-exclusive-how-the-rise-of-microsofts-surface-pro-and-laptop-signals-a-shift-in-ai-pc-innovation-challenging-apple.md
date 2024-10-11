@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple"
-date: 2024-10-01T16:50:52.640Z
-updated: 2024-10-05T21:14:27.070Z
+date: 2024-10-06T03:09:57.861Z
+updated: 2024-10-11T00:49:43.354Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,35 +136,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-facebooks-blue-image-symbol/"><u>[New] Demystifying Facebook's Blue Image Symbol</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-best-practices-for-sharing-visuals-in-ms-teams-with-snap-camera/"><u>[Updated] Best Practices for Sharing Visuals in MS Teams with Snap Camera</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-prioritize-these-5-facts-when-tiktoking-on-macos/"><u>2024 Approved Prioritize These 5 Facts When TikToking on macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/affordable-microsoft-office-2019-bundle-get-the-best-price-on-pc-and-mac-edition-at-only-25-learn-more/"><u>Affordable Microsoft Office 2019 Bundle: Get the Best Price on PC & Mac Edition at Only $25! – Learn More</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprehensive-jabra-evolve2-75-headset-assessment-perfecting-the-balance-between-office-and-home-with-noise-cancellation-and-extended-battery-life/"><u>Comprehensive Jabra Evolve2 75 Headset Assessment: Perfecting the Balance Between Office and Home with Noise Cancellation & Extended Battery Life</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-nord-n30-semirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Nord N30 SEMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-tough-reviews-sparked-significant-microsoft-privacy-updates-for-better-protection-cybersecuritydigest/"><u>How Tough Reviews Sparked Significant Microsoft Privacy Updates for Better Protection | CyberSecurityDigest</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://win-web3.techidaily.com/pay-to-upgrade-microsofts-plan-to-charge-for-windows-10-updates-coming-soon-find-out-the-costs-on-zdnet/"><u>Pay-to-Upgrade: Microsoft's Plan to Charge for Windows 10 Updates Coming Soon - Find Out the Costs on ZDNet!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/tech-giants-pivotal-shift-in-data-protection-measures-after-severe-criticism-microsoft-recall-analysis-by-zdnet/"><u>Tech Giant's Pivotal Shift in Data Protection Measures After Severe Criticism | Microsoft Recall Analysis by ZDNET</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-task-organizer-showdown-microsoft-to-do-against-google-tasks-which-should-be-your-preferred-choice/"><u>Top Task Organizer Showdown: Microsoft To Do Against Google Tasks – Which Should Be Your Preferred Choice?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-android-mobas-a-decade-of-favorite-titles-top-10/"><u>[New] 2024 Approved Android MOBAs A Decade of Favorite Titles - Top 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>[Updated] Beneath the Surface Secrets to Professional Underwater Videos with GoPro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[Updated] In 2024, Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>[Updated] In 2024, Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>In 2024, Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-10-hidden-powers-of-photoshop-newbies/"><u>In 2024, Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Insert signature in Excel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/june-30s-todays-nyt-logic-challenges-revealed-solutions-and-strategies-385/"><u>June 30'S Today's NYT Logic Challenges Revealed – Solutions & Strategies (#385)</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-issues-is-the-service-down-and-what-can-you-do-about-it/"><u>Netflix Issues: Is the Service Down, and What Can You Do About It?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-media-player-5-effective-solutions-when-mp3-wont-play/"><u>Troubleshooting Windows Media Player: 5 Effective Solutions When MP3 Won't Play</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-upgrading-and-integrating-new-addons-into-kodis-19th-generation-the-matrix-approach/"><u>Ultimate Tutorial: Upgrading & Integrating New Addons Into Kodi's 19Th Generation - The Matrix Approach</u></a></li>
+<li><a href="https://win-web3.techidaily.com/usbcd/"><u>USBへの変換:パソコンでCDデータを正しくバックアップする手引き</u></a></li>
 </ul></div>
 
