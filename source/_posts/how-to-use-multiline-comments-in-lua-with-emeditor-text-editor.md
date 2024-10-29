@@ -1,7 +1,7 @@
 ---
 title: How to Use Multiline Comments in Lua with EmEditor Text Editor
-date: 2024-10-18T22:03:13.582Z
-updated: 2024-10-23T05:33:11.512Z
+date: 2024-10-22T04:33:07.037Z
+updated: 2024-10-28T19:57:48.720Z
 tags:
   - product
 categories:
@@ -76,29 +76,24 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>2024 Approved Unlock Potential The 15 Best Tools for Transforming FB Revenue</u></a></li>
-<li><a href="https://win-web3.techidaily.com/5-easy-ways-to-backup-your-windows-1011-computer-using-cloud-storage/"><u>5 Easy Ways to Backup Your Windows 10/11 Computer Using Cloud Storage</u></a></li>
-<li><a href="https://win-web3.techidaily.com/iphoneitunes4/"><u>解决iPhone与iTunes不能同步时丢失数据的4项修复步骤</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/bidding-on-shadows-the-2023-virtual-vault-showdown/"><u>Bidding on Shadows The 2023 Virtual Vault Showdown</u></a></li>
-<li><a href="https://win-web3.techidaily.com/come-trasferire-il-tuo-sistema-windows-similar-meaning-in-italian-easy-steps-con-due-soluzioni-alternative/"><u>Come Trasferire Il Tuo Sistema Windows # Similar Meaning in Italian | Easy Steps Con Due Soluzioni Alternative</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effizientes-back-up-management/"><u>Effizientes Back-Up-Management</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-6-periscope-alternative-apps-for-android-and-ios/"><u>In 2024, 6 Periscope Alternative Apps for Android and iOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>In 2024, Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/in-depth-analysis-of-data-resumption-methods-warm-site-cold-site-and-hot-site-in-disaster-preparedness-plans/"><u>In-Depth Analysis of Data Resumption Methods: Warm Site, Cold Site, and Hot Site in Disaster Preparedness Plans</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-quick-resume-a-worthwhile-feature-of-your-xbox-series-xs/"><u>Is Quick Resume a Worthwhile Feature of Your Xbox Series X|S?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-podcast-reviews-by-gpodcasts-for-2024/"><u>Premium Podcast Reviews by GPodcasts for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solution-pour-laffichage-des-6-derniers-fichiers-dans-excel-comment-resoudre-le-probleme/"><u>Solution Pour L’Affichage Des 6 Derniers Fichiers Dans Excel: Comment Résoudre Le Problème?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/synchronisierung-von-dateien-per-automatisierung-mit-google-drive-entdecken-sie-4-effiziente-methoden/"><u>Synchronisierung Von Dateien per Automatisierung Mit Google Drive - Entdecken Sie 4 Effiziente Methoden</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-a-flawless-in-place-windows-11-reboot/"><u>The Ultimate Guide to a Flawless, In-Place Windows 11 Reboot</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ubertragung-musik-auf-ihrem-iphone-ohne-pc-oder-itunes-mit-fonebackup-eine-einfache-anleitung/"><u>Übertragung Musik Auf Ihrem iPhone Ohne PC Oder iTunes Mit FoneBackup: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-diving-deep-into-burst-mode-for-professional-photography/"><u>[New] In 2024, Diving Deep Into Burst Mode for Professional Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[New] In 2024, Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/44cm44op44o844oj44oh44kj44k544kv44gu5lin5yw35zci44gm6kal44gk44gl44kk44gplus44gx44gf44cn44go44ge44gg44oh44od44k744o844k444ks5ywl5pyn44gz44kl5pa55rov/"><u>「ハードディスクの不具合が見つかりました」というメッセージを克服する方法</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-0x8078002a/"><u>解決 Windows 系統代碼 0X8078002A 時常出現的錯誤方法</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978856424-amd-gpio-device-driver-free-download-get-started-now/"><u>AMD GPIO Device Driver Free Download – Get Started Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-instagram-a-comprehensive-overview-for-beginners/"><u>Demystifying Instagram: A Comprehensive Overview for Beginners</u></a></li>
+<li><a href="https://win-web3.techidaily.com/enregistrer-sur-un-disque-ssd-a-laide-dun-hdd-sous-windows-111087-guide-detaille/"><u>Enregistrer Sur Un Disque SSD À L'aide D'un HDD Sous Windows 11/10/8/7 : Guide Détaillé</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guide-pratique-recuperation-de-donnees-du-disque-dur-a-laide-de-la-ligne-de-commande-windows/"><u>Guide Pratique : Récupération De Données Du Disque Dur À L'aide De La Ligne De Commande Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/market-leading-6-platforms-enhancing-biz-interaction-for-2024/"><u>Market-Leading 6 Platforms Enhancing Biz Interaction for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/reviving-disappeared-files-and-directories-in-windows-10-easy-recovery-tips/"><u>Reviving Disappeared Files and Directories in Windows 10 - Easy Recovery Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/tutoriel-complet-pour-la-restauration-de-donnees-sur-un-ssd-kingston/"><u>Tutoriel Complet Pour La Restauration De Données Sur Un SSD Kingston</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
