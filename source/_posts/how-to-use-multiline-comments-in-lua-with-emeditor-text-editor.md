@@ -1,7 +1,7 @@
 ---
 title: How to Use Multiline Comments in Lua with EmEditor Text Editor
-date: 2024-10-22T04:33:07.037Z
-updated: 2024-10-28T19:57:48.720Z
+date: 2024-11-01T22:28:03.429Z
+updated: 2024-11-03T18:39:41.191Z
 tags:
   - product
 categories:
@@ -76,24 +76,27 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-diving-deep-into-burst-mode-for-professional-photography/"><u>[New] In 2024, Diving Deep Into Burst Mode for Professional Photography</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[New] In 2024, Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/44cm44op44o844oj44oh44kj44k544kv44gu5lin5yw35zci44gm6kal44gk44gl44kk44gplus44gx44gf44cn44go44ge44gg44oh44od44k744o844k444ks5ywl5pyn44gz44kl5pa55rov/"><u>「ハードディスクの不具合が見つかりました」というメッセージを克服する方法</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/windows-0x8078002a/"><u>解決 Windows 系統代碼 0X8078002A 時常出現的錯誤方法</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978856424-amd-gpio-device-driver-free-download-get-started-now/"><u>AMD GPIO Device Driver Free Download – Get Started Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-instagram-a-comprehensive-overview-for-beginners/"><u>Demystifying Instagram: A Comprehensive Overview for Beginners</u></a></li>
-<li><a href="https://win-web3.techidaily.com/enregistrer-sur-un-disque-ssd-a-laide-dun-hdd-sous-windows-111087-guide-detaille/"><u>Enregistrer Sur Un Disque SSD À L'aide D'un HDD Sous Windows 11/10/8/7 : Guide Détaillé</u></a></li>
-<li><a href="https://win-web3.techidaily.com/guide-pratique-recuperation-de-donnees-du-disque-dur-a-laide-de-la-ligne-de-commande-windows/"><u>Guide Pratique : Récupération De Données Du Disque Dur À L'aide De La Ligne De Commande Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/market-leading-6-platforms-enhancing-biz-interaction-for-2024/"><u>Market-Leading 6 Platforms Enhancing Biz Interaction for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/reviving-disappeared-files-and-directories-in-windows-10-easy-recovery-tips/"><u>Reviving Disappeared Files and Directories in Windows 10 - Easy Recovery Tips</u></a></li>
-<li><a href="https://win-web3.techidaily.com/tutoriel-complet-pour-la-restauration-de-donnees-sur-un-ssd-kingston/"><u>Tutoriel Complet Pour La Restauration De Données Sur Un SSD Kingston</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-the-way-in-high-res-display-technology-for-2024/"><u>[New] Leading the Way in High-Res Display Technology for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-look-apowersofts-pc-screenshare-technology/"><u>[Updated] 2024 Approved In-Depth Look Apowersoft's PC Screenshare Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-quieter-youtube-videos/"><u>[Updated] The Ultimate Guide to Quieter YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/iumsiowvueacjewkoeapkosplusmpluswvhjrmlbdmja7kuk3lv4pnoazku7blpifku73op6plhrpmlrnmoygi/"><u>针对服务提供商:数据中心硬件备份解决方案</u></a></li>
+<li><a href="https://win-web3.techidaily.com/automatisches-erstellen-von-windows-backups-mit-truenas-eine-einfache-anleitung/"><u>Automatisches Erstellen Von Windows-Backups Mit TrueNAS: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-installer-de-virtualbox-pour-windows-10-and-11-facile-a-configurer/"><u>Comment Installer De VirtualBox Pour Windows 10 & 11 - Facile À Configurer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle-for-2024/"><u>Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/exportieren-von-bildern-sicherung-mit-externer-sd-karte-unter-windows-10-erklart/"><u>Exportieren Von Bildern: Sicherung Mit Externer SD-Karte Unter Windows 10 Erklärt</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-performance-video-quality-deciding-between-30-fps-and-60-fps-recording/"><u>High-Performance Video Quality: Deciding Between 30 FPS and 60 FPS Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c67-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C67 4G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-teracopy-failures-in-windows-11-expert-solutions-and-tips/"><u>Resolving 'Teracopy Failures' In Windows 11 - Expert Solutions and Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/schliessen-sie-ihren-windows-11-defender-endlich-richtig-befreit-sich-jetzt/"><u>Schließen Sie Ihren Windows 11 Defender Endlich Richtig - Befreit Sich Jetzt</u></a></li>
+<li><a href="https://win-web3.techidaily.com/schritt-fur-schritt-anleitung-fur-das-upgrade-auf-einen-samsung-serie-eins-nvme-ssd-np900x4c/"><u>Schritt-Für-Schritt-Anleitung Für Das Upgrade Auf Einen Samsung Serie Eins NVMe SSD (NP900x4C)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-allure-of-benq-sw320-4k-pro-display/"><u>The Allure of BenQ SW320 4K Pro Display</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
