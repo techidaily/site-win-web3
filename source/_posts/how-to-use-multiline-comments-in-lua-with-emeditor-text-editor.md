@@ -1,7 +1,7 @@
 ---
 title: How to Use Multiline Comments in Lua with EmEditor Text Editor
-date: 2024-11-19T00:57:25.695Z
-updated: 2024-11-23T02:52:03.638Z
+date: 2024-11-27T19:19:28.110Z
+updated: 2024-11-30T18:43:16.307Z
 tags:
   - product
 categories:
@@ -76,28 +76,21 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-savvy-sponsorship-strategies-for-small-scale-sites/"><u>[New] 2024 Approved Savvy Sponsorship Strategies for Small-Scale Sites</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-epicurean-elites-top-food-vloggers-you-cant-miss/"><u>2024 Approved Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-examining-the-breadth-of-features-in-obs-studio/"><u>2024 Approved Examining the Breadth of Features in OBS Studio</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprehensive-tutorial-on-managing-vmware-vcenters-statistical-data/"><u>Comprehensive Tutorial on Managing VMware vCenter's Statistical Data</u></a></li>
-<li><a href="https://win-web3.techidaily.com/enhancing-user-interactions-crafting-improved-conversations-with-emeditor-your-advanced-text-editing-solution/"><u>Enhancing User Interactions: Crafting Improved Conversations with EmEditor - Your Advanced Text Editing Solution</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/tidal-downloader/"><u>Epubor Tidal Downloader</u></a></li>
-<li><a href="https://win-web3.techidaily.com/guide-syncing-your-ipod-touch-with-itunes-steps-for-successful-music-transfer/"><u>Guide: Syncing Your iPod Touch with iTunes – Steps for Successful Music Transfer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-app-analysis-vll-perspective/"><u>In 2024, App Analysis VLL Perspective</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pros-hunters-rate-action-camera-winners/"><u>In 2024, Pros Hunters Rate Action Camera Winners</u></a></li>
-<li><a href="https://win-web3.techidaily.com/kostenlose-datentransfer-apps-schnell-und-einfach-von-telefon-auf-computer-ubertragen/"><u>Kostenlose Datentransfer-Apps: Schnell Und Einfach Von Telefon Auf Computer Übertragen!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resepsi-gratis-untuk-mudah-mudahan-file-yang-ditulaskan-dalam-windows-11/"><u>Resepsi Gratis Untuk Mudah-Mudahan File Yang Ditulaskan Dalam Windows 11</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securely-install-a-solid-state-drive-into-your-lenovo-thinkpad-(span-stylecolor-000)13-tips-and-techniques-for-successful-upgrades/"><u>Securely Install a Solid-State Drive Into Your Lenovo ThinkPad <Span Style=color: #000;>13: Tips and Techniques for Successful Upgrades</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-top-online-video-flipper-tools/"><u>The Top Online Video Flipper Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-ios-apps-turn-youtube-videos-into-mp3-files/"><u>Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-tips-for-unauthenticated-microsoft-windows-installations/"><u>Troubleshooting Tips for Unauthenticated Microsoft Windows Installations</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultimate-guide-restoring-access-to-your-unresponsive-micro-sd-storage-device/"><u>Ultimate Guide: Restoring Access to Your Unresponsive Micro SD Storage Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-10-hdd/"><u>Windows 10에서 HDD를 교체하기 전에 데이터 백업을 위한 두 가지 방법</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-guide-to-enhancing-youtube-content-post-upload/"><u>[New] 2024 Approved Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-implementing-borders-on-instagram-images/"><u>[Updated] 2024 Approved Step-by-Step Guide to Implementing Borders on Instagram Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-excellent-apps-for-streamlined-igtv-vertical-cuts/"><u>2024 Approved Excellent Apps for Streamlined IGTV Vertical Cuts</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-recuperer-des-fichiers-supprimes-en-preservant-la-structure-de-dossiers-dorigine/"><u>Comment Récupérer Des Fichiers Supprimés en Préservant La Structure De Dossiers D'origine ?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-resoudre-les-problemes-de-widgets-windows-11-non-fonctionnels-un-guide-dassistance-simple/"><u>Comment Résoudre Les Problèmes De Widgets Windows 11 Non-Fonctionnels : Un Guide D'Assistance Simple</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-set-up-automatic-backups-from-windows-7-to-an-exterior-hdd-two-effective-methods/"><u>How to Set Up Automatic Backups From Windows 7 to an Exterior HDD: Two Effective Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-amplify-gopro-battery-duration/"><u>In 2024, Techniques to Amplify GoPro Battery Duration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximizing-your-audio-quality-tips-for-amplifying-m4a-file-volumes/"><u>Maximizing Your Audio Quality - Tips for Amplifying M4A File Volumes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-the-problem-why-is-my-samsung-blu-ray-player-not-responding/"><u>Solve the Problem: Why Is My Samsung Blu-Ray Player Not Responding?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-facilmente-i-tuoi-file-amr-in-mp3-con-questi-passaggi-semplici/"><u>Trasforma Facilmente I Tuoi File AMR in MP3 Con Questi Passaggi Semplici!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-server-wbadmin/"><u>Windows Server WBAdminツールによるバックアップファイルの削除手順</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
