@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2024-11-30T00:58:53.857Z
-updated: 2024-11-30T21:03:54.168Z
+date: 2024-12-08T08:11:14.286Z
+updated: 2024-12-09T03:53:26.905Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[New] 2024 Approved Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grasping-the-functionality-of-airborne-robotics/"><u>[New] Grasping the Functionality of Airborne Robotics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[New] In 2024, Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/7-crucial-gadgets-for-successful-metaverse-journey-for-2024/"><u>7 Crucial Gadgets for Successful Metaverse Journey for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728484817513-usb/"><u>如何修复无法格式化USB驱动器：您需要了解这三种有效方法</u></a></li>
-<li><a href="https://win-web3.techidaily.com/google-chrome/"><u>失去Google Chrome书签的办法 - 五个简单解决方案</u></a></li>
-<li><a href="https://win-web3.techidaily.com/57at5lplusu5pa55rov77ya5aac5l2v6ycg6l2j6kqk6kej5p6q55qe5li76kab56ob5y2a5yig5ymy5lul5yplusk6ycy6kgm56gs56kf5yig5ymy55qe5ouv5pwr5oqa6kgt/"><u>維修方法：如何逆轉誤解析的主要磁區分割以及進行硬碟分割的拯救技術</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
-<li><a href="https://win-web3.techidaily.com/guide-facile-a-suivre-creer-une-copie-durgence-windows-10-par-flash-drive-trois-techniques-effectuees/"><u>Guide Facile À Suivre: Créer Une Copie D'Urgence Windows 10 Par Flash Drive [Trois Techniques Effectuées]</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 mini With 7 Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smooth-integration-of-macos-sierra-on-old-systems/"><u>In 2024, Smooth Integration of macOS Sierra on Old Systems</u></a></li>
-<li><a href="https://win-web3.techidaily.com/salon-le-salon-est-generalement-utilise-pour-la-detente-les-activites-familiales-telles-que-jouer-avec-les-enfants-regarder-de-la-television-ou-du-contenu-s333/"><u>Salon : Le Salon Est Généralement Utilisé Pour La Détente, Les Activités Familiales Telles Que Jouer Avec Les Enfants, Regarder De La Télévision Ou Du Contenu Sur Des Appareils Mobiles, Lire Des Livres Ou Simplement Se Reposer Après Une Longue Journée.</u></a></li>
-<li><a href="https://win-web3.techidaily.com/understanding-the-timeline-of-moving-your-files-to-a-new-samsung-device/"><u>Understanding the Timeline of Moving Your Files to a New Samsung Device</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728508805059-usbwindows-11/"><u>USB経由でWindows 11をセットアップするための徹底解説</u></a></li>
-<li><a href="https://win-web3.techidaily.com/alksa-alastorya-4-braaam-crucial-ssd-alhasm-ishrafk-oaamlyat-alakhtyar/"><u>القصة الأسطورية 4 براعم Crucial SSD الحاسم: إشرافك وعمليات الاختيار</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-fresh-take-on-sony-s6500-hd-dvd-and-bd-player/"><u>[New] In 2024, Fresh Take on Sony S6500 HD DVD & BD Player</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-easily-compress-and-extract-files-on-your-pc-the-ultimate-guide-by-yl-computing/"><u>1. Easily Compress and Extract Files on Your PC: The Ultimate Guide by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2022-speed-skating-spectacle/"><u>2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-what-is-slug-line-and-how-to-use/"><u>2024 Approved What Is Slug Line and How to Use</u></a></li>
+<li><a href="https://win-web3.techidaily.com/boost-your-pcs-speed-by-tidying-up-the-registry-a-guide-yl-computing/"><u>Boost Your PC's Speed by Tidying Up the Registry: A Guide - YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/boost-your-pcs-speed-essential-tips-from-yl-computing-and-software/"><u>Boost Your PC's Speed: Essential Tips From YL Computing & Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/btc-surge-past-36k-threshold-amidst-fomc-goals-astonishing-29-uptick-in-octobers-bitcoin-rally-insights-by-yl-computing/"><u>BTC Surge Past $36K Threshold Amidst FOMC Goals: Astonishing 29% Uptick in October's Bitcoin Rally - Insights by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/discover-captivating-hellephant-graphics-with-yl-softwares-diverse-image-library/"><u>Discover Captivating Hellephant Graphics with YL Software's Diverse Image Library!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/evaluating-the-power-of-windows-defender-a-comprehensive-look-at-its-ability-to-shield-against-spyware-and-viruses-tech-analysis-by-yl-software/"><u>Evaluating the Power of Windows Defender: A Comprehensive Look at Its Ability to Shield Against Spyware and Viruses – Tech Analysis by YL Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>In 2024, Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-best-hidden-instagram-tool-for-clandestine-stories/"><u>In 2024, Best Hidden Instagram Tool for Clandestine Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-snapshot-survival-guide-top-recorders-evaluated/"><u>In 2024, SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/magicard-rio-pro-driver-fresh-release-optimized-for-windows-os-versions/"><u>Magicard Rio Pro Driver - Fresh Release: Optimized for Windows OS Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-innovations-at-toms-digital-workshop/"><u>Navigating Through Innovations at Tom's Digital Workshop</u></a></li>
+<li><a href="https://win-web3.techidaily.com/navigating-to-windows-update-in-control-panel-masterclass-with-yl-software-solutions/"><u>Navigating to Windows Update in Control Panel Masterclass with YL Software Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-viewing-and-opening-images-on-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Viewing and Opening Images on Windows - Tech Solutions by YL</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-tale-of-a-million-facebook-groups-amazon-vs-admins/"><u>The Tale of a Million Facebook Groups: Amazon Vs. Admins</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-potential-hazards-of-crypto-investments-insights-from-yl-computings-perspective/"><u>Understanding Potential Hazards of Crypto Investments: Insights From YL Computing's Perspective</u></a></li>
 </ul></div>
 

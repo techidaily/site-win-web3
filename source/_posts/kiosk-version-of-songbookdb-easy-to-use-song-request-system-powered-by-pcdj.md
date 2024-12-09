@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2024-11-27T16:28:03.009Z
-updated: 2024-12-01T02:48:44.699Z
+date: 2024-12-02T20:40:04.617Z
+updated: 2024-12-08T21:06:03.650Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,14 +81,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web3.techidaily.com/44cm44ov44kh44kk44or44gu44ot44o844oj5lit44gr6ycy5bgv44gm5q2i44gplus44gj44gf5pmc44gu5aplusplus562w44gv77yf44cn/"><u>「ファイルのロード中に進展が止まった時の対策は？」</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-ultimate-fix-guide-tackling-the-unreachable-disk-issue-in-vmware/"><u>1. Ultimate Fix Guide: Tackling the Unreachable Disk Issue in VMware</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-audio-harmony-mastering-the-cut-and-switch/"><u>2024 Approved Audio Harmony Mastering the Cut and Switch</u></a></li>
-<li><a href="https://win-web3.techidaily.com/5windows-11/"><u>5位上最佳Windows 11 無料磁碟映象軟件列表</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideas-on-boosting-gopro-energy-retention/"><u>Ideas on Boosting GoPro Energy Retention</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 14? Heres the Best Fixes</u></a></li>
-<li><a href="https://win-web3.techidaily.com/navigating-hardware-limitations-for-esxi-nstallation-strategies-for-non-compatible-cpus/"><u>Navigating Hardware Limitations for ESXi Nstallation - Strategies for Non-Compatible CPUs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-class-not-registered-error-on-your-windows-10-machine-solutions/"><u>Troubleshooting the 'Class Not Registered' Error on Your Windows 10 Machine – Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-stealthy-star-how-apples-349-ipad-outshone-others-at-the-exciting-let-loose-showcase-insights/"><u>Unveiling the Stealthy Star: How Apple’s $349 iPad Outshone Others at the Exciting ‘Let Loose’ Showcase - Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-wide-angle-photos-with-a-fisheye-effect/"><u>[New] In 2024, Crafting Wide-Angle Photos with a Fisheye Effect</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-ps2-emulation-apps-for-android-devices-for-2024/"><u>[Updated] Top 5 PS2 Emulation Apps for Android Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-these-6-cost-free-ai-models-like-sora/"><u>Explore These 6 Cost-Free AI Models Like Sora</u></a></li>
+<li><a href="https://win-special.techidaily.com/geavanceerd-verbergde-bestand-op-usb-opslagen-en-herinnering/"><u>Geavanceerd Verbergde Bestand Op USB: Opslagen en Herinnering</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-non-detection-of-scanners-on-your-computer-system-with-yl-software-solutions/"><u>Resolving Non-Detection of Scanners on Your Computer System with YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-picks-of-best-travel-ready-iphone-covers-with-our-bogo-deal-instantly/"><u>Snag Your Picks of Best Travel-Ready iPhone Covers with Our BOGO Deal Instantly</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-finding-files-on-your-pc-with-windows-insights-from-yl-software/"><u>Step-by-Step Guide: Finding Files on Your PC with Windows - Insights From YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-modifying-file-access-rights-on-windows-systems-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying File Access Rights on Windows Systems - Tips From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-reasons-behind-your-pcs-excessive-heat-insights-from-yl-computing/"><u>Top Reasons Behind Your PC's Excessive Heat: Insights From YL Computing</u></a></li>
 </ul></div>
 
