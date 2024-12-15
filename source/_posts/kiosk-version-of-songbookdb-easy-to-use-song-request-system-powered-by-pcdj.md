@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2024-12-02T20:40:04.617Z
-updated: 2024-12-08T21:06:03.650Z
+date: 2024-12-12T04:35:18.747Z
+updated: 2024-12-15T07:35:37.611Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,14 +81,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-wide-angle-photos-with-a-fisheye-effect/"><u>[New] In 2024, Crafting Wide-Angle Photos with a Fisheye Effect</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-ps2-emulation-apps-for-android-devices-for-2024/"><u>[Updated] Top 5 PS2 Emulation Apps for Android Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-these-6-cost-free-ai-models-like-sora/"><u>Explore These 6 Cost-Free AI Models Like Sora</u></a></li>
-<li><a href="https://win-special.techidaily.com/geavanceerd-verbergde-bestand-op-usb-opslagen-en-herinnering/"><u>Geavanceerd Verbergde Bestand Op USB: Opslagen en Herinnering</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolving-non-detection-of-scanners-on-your-computer-system-with-yl-software-solutions/"><u>Resolving Non-Detection of Scanners on Your Computer System with YL Software Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snag-your-picks-of-best-travel-ready-iphone-covers-with-our-bogo-deal-instantly/"><u>Snag Your Picks of Best Travel-Ready iPhone Covers with Our BOGO Deal Instantly</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-finding-files-on-your-pc-with-windows-insights-from-yl-software/"><u>Step-by-Step Guide: Finding Files on Your PC with Windows - Insights From YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-modifying-file-access-rights-on-windows-systems-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying File Access Rights on Windows Systems - Tips From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-reasons-behind-your-pcs-excessive-heat-insights-from-yl-computing/"><u>Top Reasons Behind Your PC's Excessive Heat: Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/harting-social-media-trends-with-data-graphics/"><u>[New] Charting Social Media Trends with Data Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/capture-the-spirit-of-memorial-day-with-stunning-hd-wallpapers-exclusive-designs-by-yl-software/"><u>Capture the Spirit of Memorial Day with Stunning HD WALLPAPERS - Exclusive Designs by YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-flipbook-security-mastering-protection-using-flipbuilder/"><u>Effective Strategies for Flipbook Security - Mastering Protection Using FlipBuilder</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5Gwith/without a PC</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-compatibly-implement-legacy-scanner-drivers-in-new-windows-versions-insights-by-yl-solutions-software-expertise/"><u>How to Compatibly Implement Legacy Scanner Drivers in New Windows Versions: Insights by YL Solutions | Software Expertise</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>In 2024, The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
+<li><a href="https://win-web3.techidaily.com/logging-into-sites-and-gathering-information-with-yl-scraper-tool-advanced-features-of-yl-digital-services/"><u>Logging Into Sites and Gathering Information with YL Scraper Tool – Advanced Features of YL Digital Services</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-resolving-issues-when-your-pc-fails-to-boot-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Issues When Your PC Fails to Boot - Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
 </ul></div>
 

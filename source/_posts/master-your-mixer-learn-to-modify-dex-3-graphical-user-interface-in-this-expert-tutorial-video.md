@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2024-12-01T21:17:12.431Z
-updated: 2024-12-08T21:59:27.316Z
+date: 2024-12-08T01:19:00.380Z
+updated: 2024-12-15T06:10:27.004Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,14 +57,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro-for-2024/"><u>[New] 5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-paving-the-way-for-smooth-video-autoplay-on-social-media-platforms-for-2024/"><u>[New] Paving the Way for Smooth Video Autoplay on Social Media Platforms for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/high-definition-easter-egg-wallpaper-designs-stunning-hd-backgrounds-perfect-for-your-device-curated-by-yl-computing/"><u>High-Definition Easter Egg Wallpaper Designs: Stunning HD Backgrounds Perfect for Your Device - Curated by YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-se-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone SE without App | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-and-configuring-your-pcs-hardware-a-step-by-step-guide-yl-computing/"><u>Troubleshooting & Configuring Your PC's Hardware: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/understanding-karaokes-dual-singing-selection-methods-a-comparative-guide/"><u>Understanding Karaoke's Dual Singing Selection Methods - A Comparative Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/user-friendly-image-selections-for-your-screen-powered-by-yl-software/"><u>User-Friendly Image Selections for Your Screen - Powered by YL Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enhance-photos-with-our-best-grid-app-list/"><u>[New] Enhance Photos with Our Best Grid App List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[New] In 2024, Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-soundwave-success-adding-audio-to-your-instastory/"><u>[Updated] 2024 Approved Soundwave Success Adding Audio to Your InstaStory</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-increasing-video-popularity-persisting-with-cc-on-youtube/"><u>[Updated] In 2024, Increasing Video Popularity Persisting with CC on YouTube</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-can-i-fix-problems-with-my-scanner-expert-advice-from-yl-computings-software-solutions/"><u>How Can I Fix Problems with My Scanner? - Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/identifying-the-cause-behind-screen-flicker-in-specific-applications-an-insight-from-yl-tech-solutions/"><u>Identifying the Cause Behind Screen Flicker in Specific Applications - An Insight From YL Tech Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-visibility-with-customized-channel-names/"><u>In 2024, Boost Visibility with Customized Channel Names</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with a Mask On</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-swap-your-existing-graphics-card-on-a-windows-pc-in-depth-guide-by-yl-computing/"><u>Is It Possible to Swap Your Existing Graphics Card on a Windows PC? - In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-asus-pce-ac56-driver-problems-in-windows-windows-1087/"><u>Resolve Your ASUS PCE-AC56 Driver Problems in Windows (Windows 10/8/7)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-diagnosing-and-fixing-common-pc-hardware-issues-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Diagnosing and Fixing Common PC Hardware Issues - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-tutorial-on-upgrading-wmv-files-to-high-quality-gif-format/"><u>Ultimate Tutorial on Upgrading WMV Files to High-Quality GIF Format</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-and-resolving-scanner-network-link-failures-a-guide-by-yl-software-professionals/"><u>Understanding and Resolving Scanner-Network Link Failures: A Guide by YL Software Professionals</u></a></li>
 </ul></div>
 
