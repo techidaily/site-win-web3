@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2024-12-08T01:19:00.380Z
-updated: 2024-12-15T06:10:27.004Z
+date: 2024-12-23T05:38:21.128Z
+updated: 2024-12-24T02:51:40.831Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,18 +57,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-enhance-photos-with-our-best-grid-app-list/"><u>[New] Enhance Photos with Our Best Grid App List</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[New] In 2024, Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-soundwave-success-adding-audio-to-your-instastory/"><u>[Updated] 2024 Approved Soundwave Success Adding Audio to Your InstaStory</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-increasing-video-popularity-persisting-with-cc-on-youtube/"><u>[Updated] In 2024, Increasing Video Popularity Persisting with CC on YouTube</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-can-i-fix-problems-with-my-scanner-expert-advice-from-yl-computings-software-solutions/"><u>How Can I Fix Problems with My Scanner? - Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/identifying-the-cause-behind-screen-flicker-in-specific-applications-an-insight-from-yl-tech-solutions/"><u>Identifying the Cause Behind Screen Flicker in Specific Applications - An Insight From YL Tech Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-visibility-with-customized-channel-names/"><u>In 2024, Boost Visibility with Customized Channel Names</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with a Mask On</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-swap-your-existing-graphics-card-on-a-windows-pc-in-depth-guide-by-yl-computing/"><u>Is It Possible to Swap Your Existing Graphics Card on a Windows PC? - In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-your-asus-pce-ac56-driver-problems-in-windows-windows-1087/"><u>Resolve Your ASUS PCE-AC56 Driver Problems in Windows (Windows 10/8/7)</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-diagnosing-and-fixing-common-pc-hardware-issues-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Diagnosing and Fixing Common PC Hardware Issues - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/ultimate-tutorial-on-upgrading-wmv-files-to-high-quality-gif-format/"><u>Ultimate Tutorial on Upgrading WMV Files to High-Quality GIF Format</u></a></li>
-<li><a href="https://win-web3.techidaily.com/understanding-and-resolving-scanner-network-link-failures-a-guide-by-yl-software-professionals/"><u>Understanding and Resolving Scanner-Network Link Failures: A Guide by YL Software Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-terrain-trove-top-maps-for-treasure-seeking/"><u>[New] In 2024, Terrain Trove Top Maps for Treasure Seeking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[New] Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-design-top-tier-tips-from-canva-experts/"><u>[Updated] Elevate Design Top-Tier Tips From Canva Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-note-30-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix Note 30 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y200-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y200? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/power-supplys-role-in-enhancing-computer-efficiency-yl-software-exploration/"><u>Power Supply's Role in Enhancing Computer Efficiency: YL Software Exploration</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-fixes-for-slow-computers-expert-strategies-by-yl-software-for-enhanced-speed/"><u>Quick Fixes for Slow Computers: Expert Strategies by YL Software for Enhanced Speed</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solving-unforeseen-computer-freezes-a-step-by-step-guide-by-yl-computing/"><u>Solving Unforeseen Computer Freezes: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-instructions-to-establish-a-network-link-on-windows-using-the-control-panel-guidance-by-yl-software/"><u>Step-by-Step Instructions to Establish a Network Link on Windows Using the Control Panel - Guidance by YL Software</u></a></li>
 </ul></div>
 

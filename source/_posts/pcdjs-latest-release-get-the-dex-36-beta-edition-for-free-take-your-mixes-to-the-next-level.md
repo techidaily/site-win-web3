@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2024-12-12T06:51:16.550Z
-updated: 2024-12-14T18:55:57.077Z
+date: 2024-12-20T22:51:42.154Z
+updated: 2024-12-24T06:42:14.008Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,15 +76,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>[Updated] A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
-<li><a href="https://win-web3.techidaily.com/dysfunctional-interneurons-are-implicated-in-various-neurological-disorders/"><u>Dysfunctional Interneurons Are Implicated in Various Neurological Disorders.</u></a></li>
-<li><a href="https://windows11.techidaily.com/easily-shift-your-mkv-files-to-mp4-on-windows/"><u>Easily Shift Your MKV Files to MP4 on Windows</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ensuring-seamless-connectivity-is-your-device-synced-with-the-printer-insights-by-yl-software-experts/"><u>Ensuring Seamless Connectivity: Is Your Device Synced with the Printer? Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hassle-free-guide-to-fixing-discord-install-problems-fast/"><u>Hassle-Free Guide to Fixing Discord Install Problems Fast</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/master-the-art-of-live-sound-capture-on-the-internet-for-2024/"><u>Master the Art of Live Sound Capture on the Internet for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/premium-hd-wallpaper-collections-for-the-acura-rsx-enthusiast-elevate-your-screensaver-experience-with-yl-softwares-expertise/"><u>Premium HD Wallpaper Collections for the Acura RSX Enthusiast – Elevate Your Screensaver Experience with YL Software's Expertise</u></a></li>
-<li><a href="https://win-web3.techidaily.com/sound-card-issues-expert-solutions-for-fixing-non-functional-audio-hardware-yl-software-guides/"><u>Sound Card Issues: Expert Solutions for Fixing Non-Functional Audio Hardware - YL Software Guides</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-htc-u23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with HTC U23? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rt-of-featured-channels-an-in-depth-exploration-for-maximizing-engagement-for-2024/"><u>The Art of Featured Channels An In-Depth Exploration for Maximizing Engagement for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-insights-how-to-use-it-for-beginners-easily/"><u>[New] Facebook Insights How to Use It for Beginners Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-maximizing-exposure-submitting-to-apple/"><u>[New] Maximizing Exposure Submitting to Apple</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-designing-impactful-imagery-for-2024/"><u>[New] Step-by-Step Guide to Designing Impactful Imagery for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-control-over-your-ig-content-exposure/"><u>[Updated] Control Over Your IG Content Exposure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-can-you-challenge-facebooks-video-copyright-holdouts/"><u>[Updated] In 2024, Can You Challenge Facebook’s Video Copyright Holdouts?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b/"><u>[Updated] In 2024, Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B</u></a></li>
+<li><a href="https://win-web3.techidaily.com/diagnosing-and-fixing-your-computers-network-connection-problems-with-helpful-tips-from-yl-software-experts/"><u>Diagnosing and Fixing Your Computer's Network Connection Problems with Helpful Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-web3.techidaily.com/enhancing-visual-experience-on-your-pc-adjusting-video-card-settings-with-guidance-from-yl-computing/"><u>Enhancing Visual Experience on Your PC: Adjusting Video Card Settings with Guidance From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/get-your-hands-on-the-latest-dex-37-software-for-djing-and-visuals-official-release-candidate-download/"><u>Get Your Hands on the Latest DEX 3.7 Software for DJing & Visuals - Official Release Candidate Download.</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimal-techniques-for-windows-registry-backup-insights-from-yl-computing/"><u>Optimal Techniques for Windows Registry Backup: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-troubleshooting-tips-for-broken-widgets-on-apples-mobile-devices/"><u>Quick Troubleshooting Tips for Broken Widgets on Apple's Mobile Devices</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-undetected-graphics-cards-in-windows-a-comprehensive-guide-yl-tech-insights/"><u>Resolving Undetected Graphics Cards in Windows: A Comprehensive Guide - YL Tech Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-totobay-wake-up-light-second-generation-top-affordable-option/"><u>Review of the Totobay Wake-Up Light, Second Generation - Top Affordable Option</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-tutorial-on-modifying-system-power-management-yl-software-solutions/"><u>Step-by-Step Tutorial on Modifying System Power Management - YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-owning-a-sony-xbr65x850f-premium-quality-at-an-accessible-price-point-for-the-65-inch-4k-set/"><u>The Ultimate Guide to Owning a Sony XBR65X850F – Premium Quality at an Accessible Price Point for the 65-Inch 4K Set</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultra-clear-audi-hd-desktop-backdrops-download-stunning-images-from-yl-software-collection/"><u>Ultra-Clear Audi HD Desktop Backdrops - Download Stunning Images From YL Software Collection</u></a></li>
+<li><a href="https://win-web3.techidaily.com/uncovering-key-factors-behind-memory-lapses-insights-from-yl-computing-and-yl-software/"><u>Uncovering Key Factors Behind Memory Lapses: Insights From YL Computing and YL Software</u></a></li>
 </ul></div>
 

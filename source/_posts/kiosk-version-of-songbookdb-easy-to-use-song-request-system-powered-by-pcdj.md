@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2024-12-12T04:35:18.747Z
-updated: 2024-12-15T07:35:37.611Z
+date: 2024-12-22T01:12:50.300Z
+updated: 2024-12-24T02:26:01.342Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,15 +81,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/harting-social-media-trends-with-data-graphics/"><u>[New] Charting Social Media Trends with Data Graphics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/capture-the-spirit-of-memorial-day-with-stunning-hd-wallpapers-exclusive-designs-by-yl-software/"><u>Capture the Spirit of Memorial Day with Stunning HD WALLPAPERS - Exclusive Designs by YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-flipbook-security-mastering-protection-using-flipbuilder/"><u>Effective Strategies for Flipbook Security - Mastering Protection Using FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5Gwith/without a PC</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-compatibly-implement-legacy-scanner-drivers-in-new-windows-versions-insights-by-yl-solutions-software-expertise/"><u>How to Compatibly Implement Legacy Scanner Drivers in New Windows Versions: Insights by YL Solutions | Software Expertise</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>In 2024, The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
-<li><a href="https://win-web3.techidaily.com/logging-into-sites-and-gathering-information-with-yl-scraper-tool-advanced-features-of-yl-digital-services/"><u>Logging Into Sites and Gathering Information with YL Scraper Tool – Advanced Features of YL Digital Services</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-resolving-issues-when-your-pc-fails-to-boot-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Issues When Your PC Fails to Boot - Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] In 2024, Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-virtual-voyages-exploring-new-genre/"><u>[New] Virtual Voyages Exploring New Genre</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-practices-in-multichannel-video-distribution-fbwhatsapp/"><u>[Updated] Pioneering Practices in Multichannel Video Distribution (FB/WhatsApp)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-troubleshooting-guide-how-to-fix-a-non-functional-network-adapter-expert-tips-from-yl-computing/"><u>1. Troubleshooting Guide: How To Fix a Non-Functional Network Adapter - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/customizing-your-pcs-look-and-feel-tips-from-yl-computing/"><u>Customizing Your PC's Look & Feel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/diagnosing-your-systems-unresponsive-hard-drive-with-help-from-yl-software-professionals/"><u>Diagnosing Your System's Unresponsive Hard Drive with Help From YL Software Professionals</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-guide-and-free-downloads-for-realtek-pc-card-readers-on-windows-10-systems/"><u>Easy Setup Guide & Free Downloads for Realtek PC Card Readers on Windows 10 Systems</u></a></li>
+<li><a href="https://win-web3.techidaily.com/enhancing-your-systems-reliability-tips-and-tricks-for-smooth-operation-with-demanding-graphic-tools-insights-from-yl-computing/"><u>Enhancing Your System's Reliability: Tips and Tricks for Smooth Operation with Demanding Graphic Tools - Insights From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/fixing-black-color-problems-in-prints-expert-guidance-by-yl-software-for-your-device/"><u>Fixing Black Color Problems in Prints: Expert Guidance by YL Software for Your Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-realtek-wireless-network-adapter-driver-rtl8188cu-on-windows-117-systems-download-now/"><u>Install Realtek Wireless Network Adapter Driver (RTL8188CU) on Windows 11/7 Systems - Download Now</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimizing-your-machine-effective-strategies-for-boosting-computer-speed-guidance-from-yl-software/"><u>Optimizing Your Machine: Effective Strategies for Boosting Computer Speed - Guidance From YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/party-tyme-10-22-18-revolutionize-your-singing-sessions-with-our-unique-karaoke-subscription-service/"><u>Party Tyme 10-22-18: Revolutionize Your Singing Sessions with Our Unique Karaoke Subscription Service!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/simple-fixes-to-get-your-youtube-running-smoothly-again-overcoming-not-responding-issues/"><u>Simple Fixes to Get Your YouTube Running Smoothly Again: Overcoming 'Not Responding' Issues</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solving-audio-issues-on-your-pc-a-step-by-step-guide-by-yl-computing/"><u>Solving Audio Issues on Your PC: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-installing-iso-images-on-your-pc-with-windows-tips-from-yl-software/"><u>Step-by-Step Guide: Installing ISO Images on Your PC with Windows - Tips From YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>Updated The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
 </ul></div>
 
