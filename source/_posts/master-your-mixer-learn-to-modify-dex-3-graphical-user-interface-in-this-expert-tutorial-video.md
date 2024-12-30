@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2024-12-23T05:38:21.128Z
-updated: 2024-12-24T02:51:40.831Z
+date: 2024-12-25T16:03:39.211Z
+updated: 2024-12-29T17:48:33.396Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,14 +57,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-terrain-trove-top-maps-for-treasure-seeking/"><u>[New] In 2024, Terrain Trove Top Maps for Treasure Seeking</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[New] Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-design-top-tier-tips-from-canva-experts/"><u>[Updated] Elevate Design Top-Tier Tips From Canva Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-note-30-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix Note 30 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y200-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y200? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/power-supplys-role-in-enhancing-computer-efficiency-yl-software-exploration/"><u>Power Supply's Role in Enhancing Computer Efficiency: YL Software Exploration</u></a></li>
-<li><a href="https://win-web3.techidaily.com/quick-fixes-for-slow-computers-expert-strategies-by-yl-software-for-enhanced-speed/"><u>Quick Fixes for Slow Computers: Expert Strategies by YL Software for Enhanced Speed</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solving-unforeseen-computer-freezes-a-step-by-step-guide-by-yl-computing/"><u>Solving Unforeseen Computer Freezes: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-instructions-to-establish-a-network-link-on-windows-using-the-control-panel-guidance-by-yl-software/"><u>Step-by-Step Instructions to Establish a Network Link on Windows Using the Control Panel - Guidance by YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[Updated] 2024 Approved Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-launching-a-graphics-career-strategies-and-steps/"><u>[Updated] Launching a Graphics Career Strategies and Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-11-brain-games-engaging-trivia-channels/"><u>2024 Approved Top 11 Brain Games Engaging Trivia Channels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-gt-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme GT 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-engaging-interactive-experienenas-with-chatgpt-integration/"><u>Creating Engaging Interactive Experienenas With ChatGPT Integration</u></a></li>
+<li><a href="https://win-web3.techidaily.com/easy-steps-for-tweaking-your-apps-control-panel-menus-expert-tips-from-yl-software/"><u>Easy Steps for Tweaking Your App's Control Panel Menus - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expand-your-playlist-exclusive-addition-of-33-new-tracks-for-partytyme-karaoke-on-july-15th-2022-subscribe-now/"><u>Expand Your Playlist: Exclusive Addition of 33 New Tracks for PartyTyme Karaoke on July 15Th, 2022 - Subscribe Now!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/expert-video-converter-winx-dvd-ripper-platinum-quick-and-easy-cddvd-to-premium-mp4-h264-format-in-just-5-minutes-official-release/"><u>Expert Video Converter WinX DVD Ripper Platinum: Quick & Easy CD/DVD to Premium MP4 (H.264) Format in Just 5 Minutes - Official Release</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-verify-your-audio-driver-updates-a-guide-by-yl-computing/"><u>How to Verify Your Audio Driver Updates - A Guide by YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-convertidores-de-imagenes-gratis-numero-uno-del-2024-segun-expertos-descubra-los-mejores-herramientas-en-movavi/"><u>Los Convertidores De Imágenes Gratis Número Uno Del 2024 Según Expertos: Descubra Los Mejores Herramientas en Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-easy-mp4-editor-non-reencoding-techniques-for-precise-segment-trimming-and-cutting/"><u>Quick & Easy MP4 Editor: Non-Reencoding Techniques for Precise Segment Trimming & Cutting</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-driver-update-instructions-from-yl-software-experts/"><u>Step-by-Step Driver Update Instructions From YL Software Experts</u></a></li>
+<li><a href="https://win-web3.techidaily.com/yl-software-visual-content-stunning-high-resolution-hd-backgrounds-and-imagery/"><u>YL Software Visual Content: Stunning High-Resolution HD Backgrounds and Imagery</u></a></li>
 </ul></div>
 

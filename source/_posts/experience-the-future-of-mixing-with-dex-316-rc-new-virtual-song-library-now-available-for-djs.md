@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Mixing with DEX 3.16 RC - New Virtual Song Library Now Available for DJs!
-date: 2024-12-20T07:51:25.522Z
-updated: 2024-12-24T00:03:14.291Z
+date: 2024-12-24T19:46:07.292Z
+updated: 2024-12-29T23:01:23.197Z
 tags:
   - product
 categories:
@@ -40,24 +40,28 @@ OK, enough for the serious stuff — you want to download and test!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Overview of how to use the new KSR System in DEX 3.16 RC1:
 
 [View Larger Image ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/login-1st-slide.jpg?fit=1030%2C575&ssl=1 "Login Screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/login-1st-slide.jpg?fit=1030%2C575&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1) Open up DEX 3.16 and click the Options button. Under the “Karaoke” tab, click on the “Login to KSR” button. 
 
 [View Larger Image ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/clickregister-signup-2ndslide.jpg?fit=1030%2C575&ssl=1 "Click Register")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/clickregister-signup-2ndslide.jpg?fit=1030%2C575&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click on the “Register / Sign Up” Option. 
 
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/create-account-register-3rdslide.jpg?fit=1030%2C575&ssl=1 "Create Account")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/create-account-register-3rdslide.jpg?fit=1030%2C575&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Create your account and click “Register”. 
 
@@ -72,7 +76,7 @@ OK, enough for the serious stuff — you want to download and test!
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/restartdex3-6thslide.jpg?fit=1030%2C575&ssl=1 "Restart")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/restartdex3-6thslide.jpg?fit=1030%2C575&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Restart DEX 3\. 
@@ -87,10 +91,6 @@ OK, enough for the serious stuff — you want to download and test!
 
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/afterbooksync-confirmationandvenueID-9thslide.jpg?fit=1030%2C575&ssl=1 "confirm")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/afterbooksync-confirmationandvenueID-9thslide.jpg?fit=1030%2C575&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9) You will be assigned a unique venue ID. It’s this ID number you share with your singers. Singer will need to go to [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account. They will then be prompted for your venue ID. Once they apply the ID they can view, search, and make request from your online karaoke song book. 
 
 [View Larger Image ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/requestsreceived-10thslide.jpg?fit=1030%2C575&ssl=1 "Request Received")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/requestsreceived-10thslide.jpg?fit=1030%2C575&ssl=1)
@@ -102,7 +102,7 @@ OK, enough for the serious stuff — you want to download and test!
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-5.jpg?fit=326%2C705&ssl=1 "image_123986672 (5)")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-5.jpg?fit=476%2C1030&ssl=1 "image_123986672 (5)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-4.jpg?fit=326%2C705&ssl=1 "image_123986672 (4)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-4.jpg?fit=476%2C1030&ssl=1 "image_123986672 (4)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-3.jpg?fit=326%2C705&ssl=1 "image_123986672 (3)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-3.jpg?fit=476%2C1030&ssl=1 "image_123986672 (3)")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-2.jpg?fit=326%2C705&ssl=1 "image_123986672 (2)")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-2.jpg?fit=476%2C1030&ssl=1 "image_123986672 (2)")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-1.jpg?fit=326%2C705&ssl=1 "image_123986672 (1)")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-1.jpg?fit=476%2C1030&ssl=1 "image_123986672 (1)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672.jpg?fit=326%2C705&ssl=1 "image_123986672")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672.jpg?fit=476%2C1030&ssl=1 "image_123986672")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-6.jpg?fit=326%2C705&ssl=1 "image_123986672 (6)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-6.jpg?fit=476%2C1030&ssl=1 "image_123986672 (6)")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The screenshots displayed above are of the ‘ KSR web app’ that your karaoke singers will use to access your online karaoke songbook and submit song requests. They simply need to visit [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account, type in your songbook ID, and they’re ready to browse, search, and send in requests. They also add songs to their own personal ‘Favorites” folder within the web app. Why a web app? No need for your singers to install iOS or Android apps — any web enabled device will work!
@@ -130,24 +130,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-sports-highlight-step-by-step-tutorial-for-2024/"><u>[New] Crafting a Sports Highlight Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-live-play-and-log-mobile-gaming-with-samsung-for-2024/"><u>[New] Live, Play & Log Mobile Gaming with Samsung for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-screen-customization-a-google-meet-essentials-guide/"><u>[New] Navigating Screen Customization A Google Meet Essentials Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-navigating-periscope-understanding-features-pricing-and-registration-steps-for-2024/"><u>[Updated] Navigating Periscope Understanding Features, Pricing & Registration Steps for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/accelerate-your-computers-performance-with-key-configuration-tweaks-insights-by-yl-computing-specialists/"><u>Accelerate Your Computer's Performance with Key Configuration Tweaks – Insights by YL Computing Specialists</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effective-strategies-to-lower-cpu-consumption-on-your-computer-with-tips-from-yl-computings-latest-guide/"><u>Effective Strategies to Lower CPU Consumption on Your Computer with Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/finding-your-way-around-windows-a-comprehensive-guide-to-open-the-control-panel-with-yl-software/"><u>Finding Your Way Around Windows: A Comprehensive Guide to Open the Control Panel with YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/get-your-hands-on-the-latest-dex-37-software-for-djing-and-visuals-official-release-candidate-download/"><u>Get Your Hands on the Latest DEX 3.7 Software for DJing & Visuals - Official Release Candidate Download.</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-pova-5-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Pova 5 FRP?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-razr-40-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola Razr 40 Ultra and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolving-non-responsive-scanner-issues-expert-tips-from-yl-computing/"><u>Resolving Non-Responsive Scanner Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolving-undetected-graphics-cards-in-windows-a-comprehensive-guide-yl-tech-insights/"><u>Resolving Undetected Graphics Cards in Windows: A Comprehensive Guide - YL Tech Insights</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-tutorial-on-modifying-system-power-management-yl-software-solutions/"><u>Step-by-Step Tutorial on Modifying System Power Management - YL Software Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-2019-game-changer-in-vegaspro-for-2024/"><u>The 2019 Game-Changer in VegasPro for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultra-clear-audi-hd-desktop-backdrops-download-stunning-images-from-yl-software-collection/"><u>Ultra-Clear Audi HD Desktop Backdrops - Download Stunning Images From YL Software Collection</u></a></li>
-<li><a href="https://win-web3.techidaily.com/uncovering-key-factors-behind-memory-lapses-insights-from-yl-computing-and-yl-software/"><u>Uncovering Key Factors Behind Memory Lapses: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/verstehen-sie-die-funktionsweise-von-untertitelt-dvds-erpressung-und-wahl/"><u>Verstehen Sie Die Funktionsweise Von Untertitelt DVDs - Erpressung Und Wahl</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/virtual-interaction-at-its-peak-facebooks-guide-to-screenshare-success-for-2024/"><u>Virtual Interaction at Its Peak Facebook's Guide to Screenshare Success for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-youtube-beauty-guides-you-cant-miss/"><u>[New] The Essential YouTube Beauty Guides You Can't Miss</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>[Updated] Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-projector-or-tv-the-ultimate-4k-experience-debated/"><u>[Updated] Projector or TV? The Ultimate 4K Experience Debated</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-metas-status-symbol/"><u>Deciphering Meta's Status Symbol</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fur-intel-nvidia-and-amd-optimierter-schneller-kostenloser-4k-video-converter/"><u>Für Intel, Nvidia & AMD Optimierter Schneller Kostenloser 4K Video Converter</u></a></li>
+<li><a href="https://discover-community.techidaily.com/high-quality-bmw-x4-hd-desktop-wallpaper-downloads-visuals-wallscape-ideas-and-vibrant-display-themes-curated-by-yl-computing/"><u>High-Quality BMW X4 HD Desktop Wallpaper Downloads: Visuals, Wallscape Ideas & Vibrant Display Themes - Curated by YL Computing</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-compliance-in-recording-video-streams-on-youtube/"><u>In 2024, Compliance in Recording Video Streams on YouTube</u></a></li>
+<li><a href="https://win-web3.techidaily.com/launch-your-own-singing-journey-with-our-fifty-song-friday-kickoff-top-50-karaoke-tracks-for-a-subscription-service/"><u>Launch Your Own Singing Journey with Our 'Fifty-Song Friday' Kickoff - Top 50 Karaoke Tracks for a Subscription Service</u></a></li>
+<li><a href="https://win-web3.techidaily.com/revolutionize-your-mixes-discover-the-top-5-perks-of-using-tidal-with-pioneer-cdjs-dex-3-software/"><u>Revolutionize Your Mixes: Discover the Top 5 Perks of Using TIDAL with Pioneer CDJ's DEX 3 Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartwatch-showdown-navigating-features-and-performance-of-the-apple-watch-ultra-vs-series-n/"><u>Smartwatch Showdown: Navigating Features and Performance of the Apple Watch Ultra Vs. Series N</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-strategies-for-detecting-and-fixing-hardware-conflicts-in-your-pc-expert-insights-from-yl-computing/"><u>Step-by-Step Strategies for Detecting & Fixing Hardware Conflicts in Your PC – Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/surging-btc-values-hit-all-time-peaks-across-argentina-nigeria-and-turkey-insights-by-yl-computing/"><u>Surging BTC Values Hit All-Time Peaks Across Argentina, Nigeria & Turkey - Insights by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-pc-audio-issues-a-guide-by-experts-at-yl-software/"><u>Troubleshooting PC Audio Issues: A Guide by Experts at YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-sluggish-performance-understanding-your-scanners-unusual-speed-issues-tips-from-yl-computing/"><u>Troubleshooting Sluggish Performance: Understanding Your Scanner's Unusual Speed Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-sound-glitches-with-yl-softwares-expert-advice/"><u>Troubleshooting Sound Glitches with YL Software's Expert Advice</u></a></li>
+<li><a href="https://win-web3.techidaily.com/turn-off-windows-defender-on-windows-10-a-step-by-step-guide-by-yl-computing/"><u>Turn Off Windows Defender on Windows 10: A Step-by-Step Guide by YL Computing</u></a></li>
 </ul></div>
 

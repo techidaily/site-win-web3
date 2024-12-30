@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2024-12-22T01:12:50.300Z
-updated: 2024-12-24T02:26:01.342Z
+date: 2024-12-22T19:36:08.740Z
+updated: 2024-12-29T18:45:14.411Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] In 2024, Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-virtual-voyages-exploring-new-genre/"><u>[New] Virtual Voyages Exploring New Genre</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-practices-in-multichannel-video-distribution-fbwhatsapp/"><u>[Updated] Pioneering Practices in Multichannel Video Distribution (FB/WhatsApp)</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-troubleshooting-guide-how-to-fix-a-non-functional-network-adapter-expert-tips-from-yl-computing/"><u>1. Troubleshooting Guide: How To Fix a Non-Functional Network Adapter - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/customizing-your-pcs-look-and-feel-tips-from-yl-computing/"><u>Customizing Your PC's Look & Feel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/diagnosing-your-systems-unresponsive-hard-drive-with-help-from-yl-software-professionals/"><u>Diagnosing Your System's Unresponsive Hard Drive with Help From YL Software Professionals</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-setup-guide-and-free-downloads-for-realtek-pc-card-readers-on-windows-10-systems/"><u>Easy Setup Guide & Free Downloads for Realtek PC Card Readers on Windows 10 Systems</u></a></li>
-<li><a href="https://win-web3.techidaily.com/enhancing-your-systems-reliability-tips-and-tricks-for-smooth-operation-with-demanding-graphic-tools-insights-from-yl-computing/"><u>Enhancing Your System's Reliability: Tips and Tricks for Smooth Operation with Demanding Graphic Tools - Insights From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/fixing-black-color-problems-in-prints-expert-guidance-by-yl-software-for-your-device/"><u>Fixing Black Color Problems in Prints: Expert Guidance by YL Software for Your Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-realtek-wireless-network-adapter-driver-rtl8188cu-on-windows-117-systems-download-now/"><u>Install Realtek Wireless Network Adapter Driver (RTL8188CU) on Windows 11/7 Systems - Download Now</u></a></li>
-<li><a href="https://win-web3.techidaily.com/optimizing-your-machine-effective-strategies-for-boosting-computer-speed-guidance-from-yl-software/"><u>Optimizing Your Machine: Effective Strategies for Boosting Computer Speed - Guidance From YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/party-tyme-10-22-18-revolutionize-your-singing-sessions-with-our-unique-karaoke-subscription-service/"><u>Party Tyme 10-22-18: Revolutionize Your Singing Sessions with Our Unique Karaoke Subscription Service!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/simple-fixes-to-get-your-youtube-running-smoothly-again-overcoming-not-responding-issues/"><u>Simple Fixes to Get Your YouTube Running Smoothly Again: Overcoming 'Not Responding' Issues</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solving-audio-issues-on-your-pc-a-step-by-step-guide-by-yl-computing/"><u>Solving Audio Issues on Your PC: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-installing-iso-images-on-your-pc-with-windows-tips-from-yl-software/"><u>Step-by-Step Guide: Installing ISO Images on Your PC with Windows - Tips From YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>Updated The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>[New] 2024 Approved Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[New] Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/8-popular-oculus-rift-games-you-should-try/"><u>8 Popular Oculus Rift Games You Should Try</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comprehensive-guide-to-windows-user-account-options-tips-from-yl-software-experts/"><u>Comprehensive Guide to Windows User Account Options: Tips From YL Software Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/exclusive-insta-stories-for-private-eyes/"><u>Exclusive Insta Stories for Private Eyes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/important-announcement-from-the-director-of-pcdj/"><u>Important Announcement From the Director of PCDJ</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/outperforming-rivals-in-the-sing-along-arena-a-guide-to-elevate-your-karaoke-enterprise-using-pcdj/"><u>Outperforming Rivals in the Sing-Along Arena: A Guide to Elevate Your Karaoke Enterprise Using PCDJ</u></a></li>
+<li><a href="https://win-web3.techidaily.com/persistent-graphics-card-malfunctions-unveiling-the-causes-guidance-from-yl-computing-and-software-solutions/"><u>Persistent Graphics Card Malfunctions: Unveiling the Causes - Guidance From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-a51-5g-top-value-in-the-5g-smartphone-market/"><u>Samsung Galaxy A51 5G - Top Value in the 5G Smartphone Market</u></a></li>
+<li><a href="https://win-web3.techidaily.com/updating-your-sound-card-drivers-a-step-by-step-guide-yl-computing-essentials/"><u>Updating Your Sound Card Drivers: A Step-by-Step Guide - YL Computing Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10-m4a-to-mp3/"><u>Windows 10 用の M4A to MP3 フリーコンバイナー - ステップバイステップガイド</u></a></li>
+<li><a href="https://win-web3.techidaily.com/yl-computings-high-resolution-static-wallpapers-experience-the-beauty-of-4k-in-your-space/"><u>YL Computing's High-Resolution Static Wallpapers - Experience the Beauty of 4K in Your Space</u></a></li>
 </ul></div>
 
