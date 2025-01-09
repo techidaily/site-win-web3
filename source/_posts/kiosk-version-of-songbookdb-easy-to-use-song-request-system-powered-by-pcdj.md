@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2024-12-22T19:36:08.740Z
-updated: 2024-12-29T18:45:14.411Z
+date: 2025-01-08T02:29:19.576Z
+updated: 2025-01-08T19:23:23.904Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>[New] 2024 Approved Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[New] Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/8-popular-oculus-rift-games-you-should-try/"><u>8 Popular Oculus Rift Games You Should Try</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprehensive-guide-to-windows-user-account-options-tips-from-yl-software-experts/"><u>Comprehensive Guide to Windows User Account Options: Tips From YL Software Experts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/exclusive-insta-stories-for-private-eyes/"><u>Exclusive Insta Stories for Private Eyes</u></a></li>
-<li><a href="https://win-web3.techidaily.com/important-announcement-from-the-director-of-pcdj/"><u>Important Announcement From the Director of PCDJ</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/outperforming-rivals-in-the-sing-along-arena-a-guide-to-elevate-your-karaoke-enterprise-using-pcdj/"><u>Outperforming Rivals in the Sing-Along Arena: A Guide to Elevate Your Karaoke Enterprise Using PCDJ</u></a></li>
-<li><a href="https://win-web3.techidaily.com/persistent-graphics-card-malfunctions-unveiling-the-causes-guidance-from-yl-computing-and-software-solutions/"><u>Persistent Graphics Card Malfunctions: Unveiling the Causes - Guidance From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-a51-5g-top-value-in-the-5g-smartphone-market/"><u>Samsung Galaxy A51 5G - Top Value in the 5G Smartphone Market</u></a></li>
-<li><a href="https://win-web3.techidaily.com/updating-your-sound-card-drivers-a-step-by-step-guide-yl-computing-essentials/"><u>Updating Your Sound Card Drivers: A Step-by-Step Guide - YL Computing Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-m4a-to-mp3/"><u>Windows 10 用の M4A to MP3 フリーコンバイナー - ステップバイステップガイド</u></a></li>
-<li><a href="https://win-web3.techidaily.com/yl-computings-high-resolution-static-wallpapers-experience-the-beauty-of-4k-in-your-space/"><u>YL Computing's High-Resolution Static Wallpapers - Experience the Beauty of 4K in Your Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-10-cool-features-that-make-you-love-filmora-video-editor/"><u>[New] 2024 Approved 10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tep-by-step-video-creation-with-youtube-and-more/"><u>[New] Step-by-Step Video Creation with YouTube and More</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-utilizing-open-source-for-broadcasting-workshops/"><u>[New] Utilizing Open-Source for Broadcasting Workshops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/isionary-video-download-engine-capture-and-save-anywhere-for-2024/"><u>[New] Visionary Video Download Engine - Capture & Save Anywhere for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>[Updated] 2024 Approved Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-image-protection-the-art-of-photowatermarking/"><u>[Updated] 2024 Approved Instagram Image Protection The Art of Photowatermarking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband/"><u>2024 Approved Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand</u></a></li>
+<li><a href="https://win-web3.techidaily.com/diagnosing-gpu-issues-interpreting-symptoms-of-video-card-failure-by-experts-at-yl-software/"><u>Diagnosing GPU Issues: Interpreting Symptoms of Video Card Failure by Experts at YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dominate-your-niche-on-fb-with-these-10-keyword-strategies/"><u>Dominate Your Niche on FB with These 10 Keyword Strategies</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expert-guide-detecting-faulty-memory-sections-with-ease-unveiled-by-yl-computing/"><u>Expert Guide: Detecting Faulty Memory Sections with Ease, Unveiled by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/gina-raimondos-strategic-four-day-beijing-trip-bolstering-sino-american-trade-ties-and-clarifying-non-negotiable-us-security-measures-insights-from-yl-compu42/"><u>Gina Raimondo's Strategic Four-Day Beijing Trip: Bolstering Sino-American Trade Ties & Clarifying Non-Negotiable US Security Measures - Insights From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/is-your-bitcoin-income-taxable-expert-tips-on-cryptocurrency-and-taxes-by-yl-software/"><u>Is Your Bitcoin Income Taxable? Expert Tips on Cryptocurrency and Taxes by YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-essential-guide-to-upgrading-dj-systems-with-windows-10-why-wait-is-key/"><u>The Essential Guide to Upgrading DJ Systems with Windows 10 - Why Wait Is Key</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-hardware-problems-expert-tips-and-solutions-from-yl-computing/"><u>Windows Hardware Problems: Expert Tips and Solutions From YL Computing</u></a></li>
 </ul></div>
 

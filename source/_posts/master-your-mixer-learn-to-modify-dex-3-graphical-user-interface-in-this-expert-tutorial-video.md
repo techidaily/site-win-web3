@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2024-12-25T16:03:39.211Z
-updated: 2024-12-29T17:48:33.396Z
+date: 2025-01-02T19:28:48.717Z
+updated: 2025-01-08T20:08:12.937Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,19 +57,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[Updated] 2024 Approved Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-launching-a-graphics-career-strategies-and-steps/"><u>[Updated] Launching a Graphics Career Strategies and Steps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-11-brain-games-engaging-trivia-channels/"><u>2024 Approved Top 11 Brain Games Engaging Trivia Channels</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-gt-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme GT 3 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-engaging-interactive-experienenas-with-chatgpt-integration/"><u>Creating Engaging Interactive Experienenas With ChatGPT Integration</u></a></li>
-<li><a href="https://win-web3.techidaily.com/easy-steps-for-tweaking-your-apps-control-panel-menus-expert-tips-from-yl-software/"><u>Easy Steps for Tweaking Your App's Control Panel Menus - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/expand-your-playlist-exclusive-addition-of-33-new-tracks-for-partytyme-karaoke-on-july-15th-2022-subscribe-now/"><u>Expand Your Playlist: Exclusive Addition of 33 New Tracks for PartyTyme Karaoke on July 15Th, 2022 - Subscribe Now!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/expert-video-converter-winx-dvd-ripper-platinum-quick-and-easy-cddvd-to-premium-mp4-h264-format-in-just-5-minutes-official-release/"><u>Expert Video Converter WinX DVD Ripper Platinum: Quick & Easy CD/DVD to Premium MP4 (H.264) Format in Just 5 Minutes - Official Release</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-verify-your-audio-driver-updates-a-guide-by-yl-computing/"><u>How to Verify Your Audio Driver Updates - A Guide by YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/los-convertidores-de-imagenes-gratis-numero-uno-del-2024-segun-expertos-descubra-los-mejores-herramientas-en-movavi/"><u>Los Convertidores De Imágenes Gratis Número Uno Del 2024 Según Expertos: Descubra Los Mejores Herramientas en Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quick-and-easy-mp4-editor-non-reencoding-techniques-for-precise-segment-trimming-and-cutting/"><u>Quick & Easy MP4 Editor: Non-Reencoding Techniques for Precise Segment Trimming & Cutting</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-driver-update-instructions-from-yl-software-experts/"><u>Step-by-Step Driver Update Instructions From YL Software Experts</u></a></li>
-<li><a href="https://win-web3.techidaily.com/yl-software-visual-content-stunning-high-resolution-hd-backgrounds-and-imagery/"><u>YL Software Visual Content: Stunning High-Resolution HD Backgrounds and Imagery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-enhance-presentations-with-proper-screenshotting-via-ezvid/"><u>[New] In 2024, Enhance Presentations with Proper Screenshotting via Ezvid</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[Updated] In 2024, Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-capture-attention-top-10-grids-for-stunning-pics/"><u>[Updated] In 2024, Capture Attention Top 10 Grids for Stunning Pics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-videos-with-easy-apple-music-integration/"><u>[Updated] In 2024, Enhance Videos with Easy Apple Music Integration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-playlist-for-bike-enthusiasts/"><u>[Updated] In 2024, Ultimate Playlist for Bike Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-troubles-restore-computer-sounds-quickly-with-these-tips/"><u>Audio Troubles? Restore Computer Sounds Quickly With These Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/do-you-require-additional-antivirus-or-anti-malware-layers-on-top-of-windows-defender-learn-more-from-yl-software/"><u>Do You Require Additional Antivirus or Anti-Malware Layers on Top of Windows Defender? Learn More From YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-create-and-manage-multiple-user-accounts-on-your-windows-pc-easypc-tips/"><u>How To Create And Manage Multiple User Accounts On Your Windows PC - EasyPC Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/is-your-computer-crashing-due-to-damaged-flash-storage-uncover-the-truth-with-yl-computings-insight/"><u>Is Your Computer Crashing Due to Damaged Flash Storage? Uncover the Truth with YL Computing's Insight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-and-solving-usb-port-issues-the-ultimate-guide-from-yl-software/"><u>Troubleshooting and Solving USB Port Issues - The Ultimate Guide From YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-guide-why-wont-your-scanner-connect-to-pc-solutions-from-yl-computing/"><u>Troubleshooting Guide: Why Won't Your Scanner Connect to PC? Solutions From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/yl-software-explores-the-best-tools-to-monitor-and-manage-your-digital-assets-balances-easily/"><u>YL Software Explores the Best Tools to Monitor and Manage Your Digital Assets' Balances Easily</u></a></li>
 </ul></div>
 
