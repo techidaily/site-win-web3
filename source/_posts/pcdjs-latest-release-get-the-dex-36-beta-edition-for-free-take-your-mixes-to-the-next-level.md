@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2025-01-08T00:43:27.867Z
-updated: 2025-01-09T07:38:40.670Z
+date: 2025-01-09T03:48:05.841Z
+updated: 2025-01-15T03:01:28.115Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,24 +76,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-commanding-voice-performance-analysis-edition-8/"><u>[New] 2024 Approved Commanding Voice Performance Analysis, Edition 8</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-visibility-youtube-thumbnails-made-simple-for-2024/"><u>[Updated] Enhance Visibility YouTube Thumbnails Made Simple for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/delve-into-bg3s-hardware-needs-and-sources/"><u>Delve Into BG3's Hardware Needs and Sources</u></a></li>
-<li><a href="https://win-web3.techidaily.com/essential-factors-to-assess-prior-to-crypto-asset-investment-insights-from-yl-computings-expertise/"><u>Essential Factors to Assess Prior to Crypto Asset Investment: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-access.techidaily.com/historical-gems-art-unshackled-by-laws-for-2024/"><u>Historical Gems Art Unshackled by Laws for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieving-professional-level-audio-crossfades-in-audacity/"><u>In 2024, Achieving Professional-Level Audio Crossfades in Audacity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-mobile-screen-recording-a-step-by-step-walkthrough-for-iphones-by-experts-at-zdnet/"><u>Mastering Mobile Screen Recording: A Step-by-Step Walkthrough for iPhones by Experts at ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/navigating-yl-software-a-comprehensive-guide-to-the-control-panel-options-by-yl-computing/"><u>Navigating YL Software: A Comprehensive Guide to the Control Panel Options by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/passwortgeschutztes-dateiverschlusselung-unter-windows-11-entdecken-sie-die-drei-effizientesten-methoden/"><u>Passwortgeschütztes Dateiverschlüsselung Unter Windows 11: Entdecken Sie Die Drei Effizientesten Methoden</u></a></li>
-<li><a href="https://win-web3.techidaily.com/preventing-system-crashes-caused-by-driver-conflicts-expert-tips-from-yl-computing/"><u>Preventing System Crashes Caused by Driver Conflicts: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resetting-your-printer-configuration-a-step-by-step-guide-from-yl-computing/"><u>Resetting Your Printer Configuration: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolving-non-detection-of-scanners-on-your-computer-system-with-yl-software-solutions/"><u>Resolving Non-Detection of Scanners on Your Computer System with YL Software Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-portability-discover-the-m4-enhanced-new-mac-mini-tiny-as-an-apple-tv/"><u>Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/selecting-top-notch-crypto-exchanges-tips-and-guidelines-by-yl-computing/"><u>Selecting Top-Notch Crypto Exchanges - Tips & Guidelines by YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-finding-files-on-your-pc-with-windows-insights-from-yl-software/"><u>Step-by-Step Guide: Finding Files on Your PC with Windows - Insights From YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-modifying-file-access-rights-on-windows-systems-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying File Access Rights on Windows Systems - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding/"><u>The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-reasons-behind-your-pcs-excessive-heat-insights-from-yl-computing/"><u>Top Reasons Behind Your PC's Excessive Heat: Insights From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extract-and-save-youtube-gallery-files/"><u>[New] 2024 Approved Extract and Save YouTube Gallery Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>[New] 2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://win-web3.techidaily.com/can-you-safely-disable-windows-defender-without-compromising-security-tips-and-insights-from-yl-computing/"><u>Can You Safely Disable Windows Defender Without Compromising Security? - Tips & Insights From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972670721-download-hp-stream-printer-drivers-instantly-with-our-simple-tips/"><u>Download HP Stream Printer Drivers Instantly with Our Simple Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/high-definition-easter-egg-wallpaper-designs-stunning-hd-backgrounds-perfect-for-your-device-curated-by-yl-computing/"><u>High-Definition Easter Egg Wallpaper Designs: Stunning HD Backgrounds Perfect for Your Device - Curated by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock HTC Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pioneering-virtual-play-samsungs-most-popular-titles/"><u>Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones-for-2024/"><u>The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-establishment-of-the-peoples-republic-of-china-1949-founder-and-historical-context-yl-computing-solutions/"><u>The Establishment of the People's Republic of China, 1949: Founder and Historical Context - YL Computing Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-picks-in-xr-headsets-unveiling-the-latest-triple-enhancements-for-work-and-wanderlust-techradar/"><u>Top Picks in XR Headsets - Unveiling the Latest Triple Enhancements for Work & Wanderlust | TechRadar</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-and-configuring-your-pcs-hardware-a-step-by-step-guide-yl-computing/"><u>Troubleshooting & Configuring Your PC's Hardware: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-karaokes-dual-singing-selection-methods-a-comparative-guide/"><u>Understanding Karaoke's Dual Singing Selection Methods - A Comparative Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/user-friendly-image-selections-for-your-screen-powered-by-yl-software/"><u>User-Friendly Image Selections for Your Screen - Powered by YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/verify-correct-hardware-drivers-in-place-with-tips-from-yl-software-experts/"><u>Verify Correct Hardware Drivers in Place with Tips From YL Software Experts</u></a></li>
 </ul></div>
 
