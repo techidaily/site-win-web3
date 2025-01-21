@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2025-01-07T23:15:37.974Z
-updated: 2025-01-14T17:03:47.244Z
+date: 2025-01-19T04:29:53.754Z
+updated: 2025-01-21T05:20:22.796Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,19 +57,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-tweeted-videos-to-downloadable-mp3-files/"><u>[New] 2024 Approved From Tweeted Videos to Downloadable MP3 Files</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-creating-impactful-twitter-campaigns-for-businesses/"><u>[Updated] Creating Impactful Twitter Campaigns for Businesses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ubiquitous-display-dynamics-choosing-a-media-company/"><u>[Updated] Ubiquitous Display Dynamics Choosing a Media Company</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>2024 Approved The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728461832409-windows-11/"><u>开始微软Windows 11的便捷门程序：四种不同方式</u></a></li>
-<li><a href="https://win-web3.techidaily.com/acheter-aomei-onekey-recovery-en-ligne-which-means-buy-aomei-onekey-recovery-online/"><u>Acheter AOMEI OneKey Recovery en Ligne, Which Means Buy AOMEI OneKey Recovery Online.</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/excellent-choice-7-premium-mac-videos/"><u>Excellent Choice 7 Premium Mac Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 with a Mask On</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 5Gwith/without a PC</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mastering-the-art-of-repair-how-to-fix-broken-excel-data-efficiently/"><u>Mastering the Art of Repair: How to Fix Broken Excel Data Efficiently</u></a></li>
-<li><a href="https://win-web3.techidaily.com/missing-content-alert-the-page-youre-seeking-doesnt-exist-here/"><u>Missing Content Alert: The Page You're Seeking Doesn't Exist Here</u></a></li>
-<li><a href="https://win-web3.techidaily.com/preventing-incoming-sms-on-ios-devices-a-comprehensive-guide-for-ipads/"><u>Preventing Incoming SMS on iOS Devices – A Comprehensive Guide for iPads</u></a></li>
-<li><a href="https://win-web3.techidaily.com/strategies-efficaces-pour-recouvrer-rapidement-des-donnees-sur-un-disque-dur-externe-illisible/"><u>Stratégies Efficaces Pour Recouvrer Rapidement Des Données Sur Un Disque Dur Externe Illisible.</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nubia-z50-ultra-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Z50 Ultra Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-slomo-app-assessment-insights/"><u>[New] Ultimate SloMo App Assessment - Insights</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-ultimate-guide-choosing-multiple-files-with-ease-tips-from-yl-computing/"><u>1. Ultimate Guide: Choosing Multiple Files with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-upgrades-to-shine-your-digital-clips/"><u>2024 Approved 5 Upgrades to Shine Your Digital Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-organizing-fb-giveaways/"><u>2024 Approved The Ultimate Guide to Organizing FB Giveaways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/identifying-hardware-clashes-and-enhancing-computer-efficiency-with-tips-from-yl-computing/"><u>Identifying Hardware Clashes & Enhancing Computer Efficiency with Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Navigating Popular Online Communities: A Look at Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-landscape-of-augmented-reality-stickers-spotlight-on-google-for-2024/"><u>The Landscape of Augmented Reality Stickers Spotlight on Google for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/uncover-the-causes-of-your-audio-card-issues-expert-analysis-by-yl-computing/"><u>Uncover the Causes of Your Audio Card Issues - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-the-schedule-of-windows-defender-scans-a-comprehensive-guide/"><u>Understanding the Schedule of Windows Defender Scans: A Comprehensive Guide</u></a></li>
 </ul></div>
 

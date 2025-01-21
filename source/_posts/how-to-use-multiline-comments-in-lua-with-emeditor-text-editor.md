@@ -1,7 +1,7 @@
 ---
 title: How to Use Multiline Comments in Lua with EmEditor Text Editor
-date: 2024-12-25T19:48:47.099Z
-updated: 2024-12-29T17:56:07.245Z
+date: 2025-01-16T04:31:34.947Z
+updated: 2025-01-21T06:40:05.933Z
 tags:
   - product
 categories:
@@ -76,23 +76,22 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-boost-your-auditory-signature-master-sound-modification-for-zero-cost-for-2024/"><u>[New] Boost Your Auditory Signature Master Sound Modification for Zero Cost for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-effective-techniques-to-remove-excess-files-and-free-up-space-on-your-computer-insights-by-yl-computing/"><u>1. Effective Techniques to Remove Excess Files and Free Up Space on Your Computer - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-amuse-others-via-adobe-meme-making/"><u>2024 Approved Amuse Others via Adobe Meme-Making</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-frontiers-cutting-edge-app-innovations-24/"><u>2024 Approved Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-tools-to-create-a-burned-dvd-on-windows-11-visual-guide/"><u>Best Free Tools to Create a Burned DVD on Windows 11 - Visual Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-voice-quality-top-10-microphone-guide/"><u>Elevating Voice Quality Top 10 Microphone Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-can-i-boost-my-pcs-performance-and-achieve-maximum-efficiency-with-yl-software-solutions/"><u>How Can I Boost My PC's Performance and Achieve Maximum Efficiency with YL Software Solutions?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolving-your-printers-error-code-a-step-by-step-guide-from-yl-computing/"><u>Resolving Your Printer's Error Code: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securely-storing-your-digital-assets-expert-tips-from-yl-computings-crypto-experts/"><u>Securely Storing Your Digital Assets: Expert Tips From YL Computing's Crypto Experts</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solving-video-card-issues-a-step-by-step-guide-tips-from-yl-computings-expertise/"><u>Solving Video Card Issues: A Step-by-Step Guide - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-to-resolving-windows-graphics-card-problems-with-tips-from-yl-software-experts/"><u>Step-by-Step Guide to Resolving Windows Graphics Card Problems with Tips From YL Software Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-12-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus 12 Device</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-3-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT 3 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-usb-composite-device-features-and-history/"><u>Understanding the USB Composite Device: Features and History</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[New] In 2024, Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-tales-with-flair-unearth-over-120-ingenious-titles-for-your-unique-snapchat-chronicles/"><u>[Updated] 2024 Approved Snap Tales with Flair Unearth over 120 Ingenious Titles for Your Unique Snapchat Chronicles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs-for-2024/"><u>[Updated] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/8-things-to-consider-before-buying-a-desktop-pc/"><u>8 Things to Consider Before Buying a Desktop PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/acer-predator-helios-300-newest-graphics-drivers-for-optimal-gaming-performance/"><u>Acer Predator Helios 300 - Newest Graphics Drivers for Optimal Gaming Performance</u></a></li>
+<li><a href="https://win-web3.techidaily.com/can-you-safely-disable-windows-defender-without-compromising-security-tips-and-insights-from-yl-computing/"><u>Can You Safely Disable Windows Defender Without Compromising Security? - Tips & Insights From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/high-definition-easter-egg-wallpaper-designs-stunning-hd-backgrounds-perfect-for-your-device-curated-by-yl-computing/"><u>High-Definition Easter Egg Wallpaper Designs: Stunning HD Backgrounds Perfect for Your Device - Curated by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .wbk file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-14-pro-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 14 Pro Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g14-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G14 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/power-supplys-role-in-enhancing-computer-efficiency-yl-software-exploration/"><u>Power Supply's Role in Enhancing Computer Efficiency: YL Software Exploration</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-establishment-of-the-peoples-republic-of-china-1949-founder-and-historical-context-yl-computing-solutions/"><u>The Establishment of the People's Republic of China, 1949: Founder and Historical Context - YL Computing Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/verify-correct-hardware-drivers-in-place-with-tips-from-yl-software-experts/"><u>Verify Correct Hardware Drivers in Place with Tips From YL Software Experts</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

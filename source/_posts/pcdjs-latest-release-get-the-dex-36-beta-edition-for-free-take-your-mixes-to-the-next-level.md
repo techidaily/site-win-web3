@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2025-01-09T03:48:05.841Z
-updated: 2025-01-15T03:01:28.115Z
+date: 2025-01-16T00:35:09.527Z
+updated: 2025-01-21T01:06:14.306Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extract-and-save-youtube-gallery-files/"><u>[New] 2024 Approved Extract and Save YouTube Gallery Files</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>[New] 2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
-<li><a href="https://win-web3.techidaily.com/can-you-safely-disable-windows-defender-without-compromising-security-tips-and-insights-from-yl-computing/"><u>Can You Safely Disable Windows Defender Without Compromising Security? - Tips & Insights From YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972670721-download-hp-stream-printer-drivers-instantly-with-our-simple-tips/"><u>Download HP Stream Printer Drivers Instantly with Our Simple Tips</u></a></li>
-<li><a href="https://win-web3.techidaily.com/high-definition-easter-egg-wallpaper-designs-stunning-hd-backgrounds-perfect-for-your-device-curated-by-yl-computing/"><u>High-Definition Easter Egg Wallpaper Designs: Stunning HD Backgrounds Perfect for Your Device - Curated by YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock HTC Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pioneering-virtual-play-samsungs-most-popular-titles/"><u>Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones-for-2024/"><u>The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/the-establishment-of-the-peoples-republic-of-china-1949-founder-and-historical-context-yl-computing-solutions/"><u>The Establishment of the People's Republic of China, 1949: Founder and Historical Context - YL Computing Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-picks-in-xr-headsets-unveiling-the-latest-triple-enhancements-for-work-and-wanderlust-techradar/"><u>Top Picks in XR Headsets - Unveiling the Latest Triple Enhancements for Work & Wanderlust | TechRadar</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-and-configuring-your-pcs-hardware-a-step-by-step-guide-yl-computing/"><u>Troubleshooting & Configuring Your PC's Hardware: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/understanding-karaokes-dual-singing-selection-methods-a-comparative-guide/"><u>Understanding Karaoke's Dual Singing Selection Methods - A Comparative Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/user-friendly-image-selections-for-your-screen-powered-by-yl-software/"><u>User-Friendly Image Selections for Your Screen - Powered by YL Software</u></a></li>
-<li><a href="https://win-web3.techidaily.com/verify-correct-hardware-drivers-in-place-with-tips-from-yl-software-experts/"><u>Verify Correct Hardware Drivers in Place with Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-ground-to-sky-the-lifting-elite-drone-list/"><u>[New] From Ground to Sky The Lifting Elite Drone List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>[New] Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>[Updated] 2024 Approved Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-high-definition-cameras-perfect-picks-for-live-streaming-for-2024/"><u>[Updated] High-Definition Cameras Perfect Picks for Live Streaming for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/behind-the-scenes-with-pcdj-coders-a-deep-dive-into-karaoke-software-development-qanda-session/"><u>Behind the Scenes with PCDJ Coders: A Deep Dive Into Karaoke Software Development Q&A Session</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-the-key-to-advanced-online-customer-insights/"><u>Cookiebot Integration: The Key to Advanced Online Customer Insights</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guarantee-safe-transactions-comprehensive-strategies-for-enhanced-security-of-crypto-wallets-with-yl-software-solutions/"><u>Guarantee Safe Transactions: Comprehensive Strategies for Enhanced Security of Crypto Wallets with YL Software Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/high-resolution-maldives-wallpaper-collection-stunning-hd-backgrounds-images-and-pics-by-yl-computing/"><u>High-Resolution Maldives Wallpaper Collection: Stunning HD Backgrounds, Images & Pics by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-path-to-viewership-victory-video-tips/"><u>In 2024, The Path to Viewership Victory Video Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/securing-digital-assets-and-virtual-wealth-they-also-maintain-brand-visibility-by-including-yl-computing-or-yl-software/"><u>Securing, Digital Assets, and Virtual Wealth. They Also Maintain Brand Visibility by Including YL Computing or YL Software.</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/starter-steps-to-mastering-windows-10-recovery-mode/"><u>Starter Steps to Mastering Windows 10 Recovery Mode</u></a></li>
+<li><a href="https://win-web3.techidaily.com/unlocking-new-potentials-for-djs-with-key-detect-in-pcdjs-dex-355-update/"><u>Unlocking New Potentials for DJs with Key Detect in PCDJ's DEX 3.5.5 Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/youtube-buffering-busted-stream-uninterrupted-new-techniques/"><u>YouTube Buffering Busted - Stream Uninterrupted (New Techniques)</u></a></li>
 </ul></div>
 
