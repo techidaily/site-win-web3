@@ -1,7 +1,7 @@
 ---
 title: How to Use Multiline Comments in Lua with EmEditor Text Editor
-date: 2025-01-16T04:31:34.947Z
-updated: 2025-01-21T06:40:05.933Z
+date: 2025-01-24T01:07:00.202Z
+updated: 2025-01-26T17:27:08.716Z
 tags:
   - product
 categories:
@@ -76,22 +76,22 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[New] In 2024, Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-tales-with-flair-unearth-over-120-ingenious-titles-for-your-unique-snapchat-chronicles/"><u>[Updated] 2024 Approved Snap Tales with Flair Unearth over 120 Ingenious Titles for Your Unique Snapchat Chronicles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs-for-2024/"><u>[Updated] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/8-things-to-consider-before-buying-a-desktop-pc/"><u>8 Things to Consider Before Buying a Desktop PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/acer-predator-helios-300-newest-graphics-drivers-for-optimal-gaming-performance/"><u>Acer Predator Helios 300 - Newest Graphics Drivers for Optimal Gaming Performance</u></a></li>
-<li><a href="https://win-web3.techidaily.com/can-you-safely-disable-windows-defender-without-compromising-security-tips-and-insights-from-yl-computing/"><u>Can You Safely Disable Windows Defender Without Compromising Security? - Tips & Insights From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/high-definition-easter-egg-wallpaper-designs-stunning-hd-backgrounds-perfect-for-your-device-curated-by-yl-computing/"><u>High-Definition Easter Egg Wallpaper Designs: Stunning HD Backgrounds Perfect for Your Device - Curated by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .wbk file</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-14-pro-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 14 Pro Beyond Scope of Recovery? | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g14-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G14 Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/power-supplys-role-in-enhancing-computer-efficiency-yl-software-exploration/"><u>Power Supply's Role in Enhancing Computer Efficiency: YL Software Exploration</u></a></li>
-<li><a href="https://win-web3.techidaily.com/the-establishment-of-the-peoples-republic-of-china-1949-founder-and-historical-context-yl-computing-solutions/"><u>The Establishment of the People's Republic of China, 1949: Founder and Historical Context - YL Computing Solutions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/verify-correct-hardware-drivers-in-place-with-tips-from-yl-software-experts/"><u>Verify Correct Hardware Drivers in Place with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-iphones-premium-tools-for-image-watermarking/"><u>[New] 2024 Approved Unveiling iPhone's Premium Tools for Image Watermarking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-advanced-game-monitoring-tools-for-diverse-formats/"><u>[New] In 2024, Advanced Game Monitoring Tools for Diverse Formats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-your-pathway-to-youtube-live-success-stories/"><u>[New] In 2024, Your Pathway to YouTube Live Success Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-leading-game-reviews-top-business-sims-for-24/"><u>[New] Leading Game Reviews Top Business Sims for '24</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-top-video-editors-for-webcams/"><u>[New] Ultimate Guide to Top Video Editors for Webcams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-accessories-to-elevate-your-sj4000-experience/"><u>[Updated] Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-comprehensive-steps-to-create-bootable-clones-with-paragon-hard-disk-manager/"><u>1. Comprehensive Steps to Create Bootable Clones with Paragon Hard Disk Manager</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-tutorial-exploiting-googles-automatic-transcription-features/"><u>2024 Approved Advanced Tutorial Exploiting Google's Automatic Transcription Features</u></a></li>
+<li><a href="https://win-web3.techidaily.com/iusruwplusqewplusjoajiplusobqpluswfpeociplusodioodqeodluodqzrjg4njg6njgqtjg5bjga7jg5xjgqnjg7zjg6djg6zjg53jg7zjg4gi/"><u>修復後手に入るトラブル:ドライブのフォームレポート</u></a></li>
+<li><a href="https://win-web3.techidaily.com/discover-the-top-three-free-tools-for-recovering-lost-data-on-your-pc-windows-1011/"><u>Discover the Top Three Free Tools for Recovering Lost Data on Your PC (Windows 10/11)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/hyper-v-tipps-und-tricks-einfaches-erstellen-von-virtuellen-maschinen/"><u>Hyper-V Tipps Und Tricks: Einfaches Erstellen Von Virtuellen Maschinen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-world-of-business-facebook-client-partnerships/"><u>Navigating the World of Business-Facebook Client Partnerships</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

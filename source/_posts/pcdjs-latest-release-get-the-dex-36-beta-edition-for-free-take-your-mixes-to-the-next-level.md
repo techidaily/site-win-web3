@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2025-01-16T00:35:09.527Z
-updated: 2025-01-21T01:06:14.306Z
+date: 2025-01-21T00:29:41.711Z
+updated: 2025-01-27T06:23:08.095Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,18 +76,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-ground-to-sky-the-lifting-elite-drone-list/"><u>[New] From Ground to Sky The Lifting Elite Drone List</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>[New] Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>[Updated] 2024 Approved Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-high-definition-cameras-perfect-picks-for-live-streaming-for-2024/"><u>[Updated] High-Definition Cameras Perfect Picks for Live Streaming for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/behind-the-scenes-with-pcdj-coders-a-deep-dive-into-karaoke-software-development-qanda-session/"><u>Behind the Scenes with PCDJ Coders: A Deep Dive Into Karaoke Software Development Q&A Session</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-the-key-to-advanced-online-customer-insights/"><u>Cookiebot Integration: The Key to Advanced Online Customer Insights</u></a></li>
-<li><a href="https://win-web3.techidaily.com/guarantee-safe-transactions-comprehensive-strategies-for-enhanced-security-of-crypto-wallets-with-yl-software-solutions/"><u>Guarantee Safe Transactions: Comprehensive Strategies for Enhanced Security of Crypto Wallets with YL Software Solutions</u></a></li>
-<li><a href="https://win-web3.techidaily.com/high-resolution-maldives-wallpaper-collection-stunning-hd-backgrounds-images-and-pics-by-yl-computing/"><u>High-Resolution Maldives Wallpaper Collection: Stunning HD Backgrounds, Images & Pics by YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-path-to-viewership-victory-video-tips/"><u>In 2024, The Path to Viewership Victory Video Tips</u></a></li>
-<li><a href="https://win-web3.techidaily.com/securing-digital-assets-and-virtual-wealth-they-also-maintain-brand-visibility-by-including-yl-computing-or-yl-software/"><u>Securing, Digital Assets, and Virtual Wealth. They Also Maintain Brand Visibility by Including YL Computing or YL Software.</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/starter-steps-to-mastering-windows-10-recovery-mode/"><u>Starter Steps to Mastering Windows 10 Recovery Mode</u></a></li>
-<li><a href="https://win-web3.techidaily.com/unlocking-new-potentials-for-djs-with-key-detect-in-pcdjs-dex-355-update/"><u>Unlocking New Potentials for DJs with Key Detect in PCDJ's DEX 3.5.5 Update</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/youtube-buffering-busted-stream-uninterrupted-new-techniques/"><u>YouTube Buffering Busted - Stream Uninterrupted (New Techniques)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-a-world-of-delicious-treats-top-rated-cookie-shops/"><u>[New] In 2024, Explore a World of Delicious Treats Top-Rated Cookie Shops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-install-and-use-snapchat-on-your-mac-for-2024/"><u>[Updated] How to Install and Use Snapchat on Your Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-approach-to-professional-video-sharing/"><u>[Updated] In 2024, A Step-by-Step Approach to Professional Video Sharing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728498644050-google-drive-5/"><u>不意打ちの Google Drive ファイル消失を防ぐための5つの対策</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services</u></a></li>
+<li><a href="https://win-web3.techidaily.com/come-configurare-la-sincronizzazione-tra-il-tuo-portatile-e-il-tuo-computer-fisso-su-windows-11/"><u>Come Configurare La Sincronizzazione Tra Il Tuo Portatile E Il Tuo Computer Fisso Su Windows 11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/complete-guide-creating-effective-data-backups-across-all-windows-versions-11-10-8-7/"><u>Complete Guide: Creating Effective Data Backups Across All Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversao-gratuita-de-m2ts-para-mp4-pela-web-easy-e-facil-com-o-movavi/"><u>Conversão Gratuita De M2TS Para MP4 Pela Web - Easy E Fácil Com O Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-pova-6-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Pova 6 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy A25 5G.</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-comparing-av1-and-vp9-which-is-more-advanced/"><u>In 2024, Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>In 2024, The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://win-web3.techidaily.com/strong-brand-identity-pineapple-has-a-distinctive-brand-image-associated-with-quality-innovation-and-premium-products-that-appeal-to-consumers-worldwide/"><u>Strong Brand Identity: PineApple Has a Distinctive Brand Image Associated with Quality, Innovation, and Premium Products that Appeal to Consumers Worldwide.</u></a></li>
+<li><a href="https://win-web3.techidaily.com/transferring-iphone-sms-to-windows-pc-a-step-by-step-guide/"><u>Transferring iPhone SMS to Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-the-significance-of-a-404-error-when-websites-go-missing/"><u>Understanding the Significance of a '404 Error – When Websites Go Missing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wichtige-tipps-und-vorkehrungen-fur-den-wechsel-von-ihrem-alten-zum-neuen-iphone-modell/"><u>Wichtige Tipps Und Vorkehrungen Für Den Wechsel Von Ihrem Alten Zum Neuen iPhone Modell</u></a></li>
 </ul></div>
 

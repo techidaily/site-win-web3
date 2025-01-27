@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2025-01-19T04:29:53.754Z
-updated: 2025-01-21T05:20:22.796Z
+date: 2025-01-21T01:03:34.712Z
+updated: 2025-01-26T20:47:07.348Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,16 +57,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-slomo-app-assessment-insights/"><u>[New] Ultimate SloMo App Assessment - Insights</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-ultimate-guide-choosing-multiple-files-with-ease-tips-from-yl-computing/"><u>1. Ultimate Guide: Choosing Multiple Files with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-5-upgrades-to-shine-your-digital-clips/"><u>2024 Approved 5 Upgrades to Shine Your Digital Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-organizing-fb-giveaways/"><u>2024 Approved The Ultimate Guide to Organizing FB Giveaways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/identifying-hardware-clashes-and-enhancing-computer-efficiency-with-tips-from-yl-computing/"><u>Identifying Hardware Clashes & Enhancing Computer Efficiency with Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Navigating Popular Online Communities: A Look at Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-landscape-of-augmented-reality-stickers-spotlight-on-google-for-2024/"><u>The Landscape of Augmented Reality Stickers Spotlight on Google for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/uncover-the-causes-of-your-audio-card-issues-expert-analysis-by-yl-computing/"><u>Uncover the Causes of Your Audio Card Issues - Expert Analysis by YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/understanding-the-schedule-of-windows-defender-scans-a-comprehensive-guide/"><u>Understanding the Schedule of Windows Defender Scans: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-on-demand-recording-best-action-cams/"><u>[New] In 2024, Elite On-Demand Recording Best Action Cams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mobility-boosted-video-stability-device/"><u>[New] Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimize-youtube-visibility-harness-the-potential-of-tags/"><u>[New] Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-unboxing-expert-tips-and-tricks/"><u>[Updated] In 2024, Mastering Unboxing Expert Tips and Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-heart-of-vimeo-celebrating-independent-cinema/"><u>[Updated] In 2024, The Heart of Vimeo Celebrating Independent Cinema</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728508774813-windows-11-23h2/"><u>未经支持的硬件上运行 Windows 11 23H2版本 - 安装指南 | 多项途径解析</u></a></li>
+<li><a href="https://win-studio.techidaily.com/iumhjew7uuwksewoupluseahoizhplusa6koeuoeeqhuezupluse1sewcmes7vtrop6pmnpbb5aplusm55soxeawueazlsi/"><u>重建失去的資源管理系統備份:解析[實用]方法</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-guide-moving-your-garageband-ringtones-onto-your-iphone/"><u>Effortless Guide: Moving Your GarageBand Ringtones Onto Your iPhone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expertly-suggested-best-practices-for-open-source-data-retrieval-programs-software/"><u>Expertly Suggested Best Practices for Open Source Data Retrieval Programs (Software)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/latest-emeditor-updates-enhanced-subtitle-creation-tools/"><u>Latest EmEditor Updates: Enhanced Subtitle Creation Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-3-top-ranked-online-tools-for-enhancing-audio-clarity/"><u>New In 2024, 3 Top-Ranked Online Tools for Enhancing Audio Clarity</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-and-safe-upgrade-with-aorus-solid-state-drive-migration/"><u>Quick & Safe Upgrade with AORUS Solid State Drive Migration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
+<li><a href="https://win-web3.techidaily.com/recuperacion-de-archivos-desde-la-nube-una-guia-rapida-y-sencilla/"><u>Recuperación De Archivos Desde La Nube: Una Guía Rápida Y Sencilla</u></a></li>
+<li><a href="https://win-web3.techidaily.com/secure-your-external-hard-drive-data-with-easy-to-follow-cloud-backup-steps/"><u>Secure Your External Hard Drive Data with Easy-to-Follow Cloud Backup Steps</u></a></li>
+<li><a href="https://win-web3.techidaily.com/stop-your-downloads-from-disappearing-on-windows-11-with-these-4-effective-fixes/"><u>Stop Your Downloads From Disappearing on Windows 11 with These 4 Effective Fixes!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Google Pixel Fold.</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wiedergutmachung-bei-fehlender-wiederherstellungsumgebung-auf-dem-pc-mit-windows-11-tipps-and-tricks/"><u>Wiedergutmachung Bei Fehlender Wiederherstellungsumgebung Auf Dem PC Mit Windows 11 - Tipps & Tricks</u></a></li>
 </ul></div>
 
