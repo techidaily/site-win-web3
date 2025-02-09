@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2025-01-21T01:03:34.712Z
-updated: 2025-01-26T20:47:07.348Z
+date: 2025-02-03T19:46:22.616Z
+updated: 2025-02-08T20:32:14.544Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,24 +57,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-on-demand-recording-best-action-cams/"><u>[New] In 2024, Elite On-Demand Recording Best Action Cams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-mobility-boosted-video-stability-device/"><u>[New] Mobility Boosted Video Stability Device</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ptimize-youtube-visibility-harness-the-potential-of-tags/"><u>[New] Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-unboxing-expert-tips-and-tricks/"><u>[Updated] In 2024, Mastering Unboxing Expert Tips and Tricks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-heart-of-vimeo-celebrating-independent-cinema/"><u>[Updated] In 2024, The Heart of Vimeo Celebrating Independent Cinema</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728508774813-windows-11-23h2/"><u>未经支持的硬件上运行 Windows 11 23H2版本 - 安装指南 | 多项途径解析</u></a></li>
-<li><a href="https://win-studio.techidaily.com/iumhjew7uuwksewoupluseahoizhplusa6koeuoeeqhuezupluse1sewcmes7vtrop6pmnpbb5aplusm55soxeawueazlsi/"><u>重建失去的資源管理系統備份:解析[實用]方法</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effortless-guide-moving-your-garageband-ringtones-onto-your-iphone/"><u>Effortless Guide: Moving Your GarageBand Ringtones Onto Your iPhone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/expertly-suggested-best-practices-for-open-source-data-retrieval-programs-software/"><u>Expertly Suggested Best Practices for Open Source Data Retrieval Programs (Software)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/latest-emeditor-updates-enhanced-subtitle-creation-tools/"><u>Latest EmEditor Updates: Enhanced Subtitle Creation Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-3-top-ranked-online-tools-for-enhancing-audio-clarity/"><u>New In 2024, 3 Top-Ranked Online Tools for Enhancing Audio Clarity</u></a></li>
-<li><a href="https://win-web3.techidaily.com/quick-and-safe-upgrade-with-aorus-solid-state-drive-migration/"><u>Quick & Safe Upgrade with AORUS Solid State Drive Migration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
-<li><a href="https://win-web3.techidaily.com/recuperacion-de-archivos-desde-la-nube-una-guia-rapida-y-sencilla/"><u>Recuperación De Archivos Desde La Nube: Una Guía Rápida Y Sencilla</u></a></li>
-<li><a href="https://win-web3.techidaily.com/secure-your-external-hard-drive-data-with-easy-to-follow-cloud-backup-steps/"><u>Secure Your External Hard Drive Data with Easy-to-Follow Cloud Backup Steps</u></a></li>
-<li><a href="https://win-web3.techidaily.com/stop-your-downloads-from-disappearing-on-windows-11-with-these-4-effective-fixes/"><u>Stop Your Downloads From Disappearing on Windows 11 with These 4 Effective Fixes!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Google Pixel Fold.</u></a></li>
-<li><a href="https://win-web3.techidaily.com/wiedergutmachung-bei-fehlender-wiederherstellungsumgebung-auf-dem-pc-mit-windows-11-tipps-and-tricks/"><u>Wiedergutmachung Bei Fehlender Wiederherstellungsumgebung Auf Dem PC Mit Windows 11 - Tipps & Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>[New] The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amass-higher-views-with-powerful-youtube-tags/"><u>[Updated] 2024 Approved Amass Higher Views with #Powerful YouTube Tags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-to-easy-nft-crafting/"><u>2024 Approved Step-by-Step to Easy NFT Crafting</u></a></li>
+<li><a href="https://win-web3.techidaily.com/advanced-dj-controllers-compatible-with-professional-pcdj-dj-software-a-comprehensive-guide/"><u>Advanced DJ Controllers Compatible with Professional PCDJ DJ Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-can-i-fix-scanner-issues-without-reinstalling-windows-tips-from-yl-computing/"><u>How Can I Fix Scanner Issues Without Reinstalling Windows? - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-microsofts-new-focus-in-ai-may-signal-trouble-for-compact-computing-systems-used-in-handheld-pc-gaming/"><u>How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-non-sport-spectacles-in-the-top-ten-front-rows/"><u>In 2024, Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 12 Pro</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solving-the-mystery-fixing-a-black-screen-on-your-windows-startup-expert-advice-from-yl-computing/"><u>Solving the Mystery: Fixing a Black Screen on Your Windows Startup – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-accessing-your-pcs-settings-through-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing Your PC's Settings Through the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-team-interactions-mastering-the-incorporation-of-chatgpt-for-remote-conferences/"><u>Streamlining Team Interactions: Mastering the Incorporation of ChatGPT for Remote Conferences</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-guide-for-scanner-failures-step-by-step-solutions-from-yl-software-professionals/"><u>Troubleshooting Guide for Scanner Failures: Step-by-Step Solutions From YL Software Professionals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visual-virtuosos-popular-ig-effects-for-2024/"><u>Visual Virtuosos Popular IG Effects for 2024</u></a></li>
 </ul></div>
 

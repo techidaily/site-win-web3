@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Mixing with DEX 3.16 RC - New Virtual Song Library Now Available for DJs!
-date: 2025-01-24T17:39:17.093Z
-updated: 2025-01-26T21:03:05.888Z
+date: 2025-02-01T16:58:23.507Z
+updated: 2025-02-09T02:28:49.456Z
 tags:
   - product
 categories:
@@ -40,7 +40,7 @@ OK, enough for the serious stuff — you want to download and test!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Overview of how to use the new KSR System in DEX 3.16 RC1:
@@ -51,13 +51,13 @@ OK, enough for the serious stuff — you want to download and test!
 
 [View Larger Image ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/clickregister-signup-2ndslide.jpg?fit=1030%2C575&ssl=1 "Click Register")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/clickregister-signup-2ndslide.jpg?fit=1030%2C575&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click on the “Register / Sign Up” Option. 
 
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/create-account-register-3rdslide.jpg?fit=1030%2C575&ssl=1 "Create Account")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/create-account-register-3rdslide.jpg?fit=1030%2C575&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Create your account and click “Register”. 
 
@@ -68,7 +68,7 @@ OK, enough for the serious stuff — you want to download and test!
 [View Larger Image ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/choosewhattoshare-partytymeandkaraokecatalog-youwillbepromotedtorestart-restart-5thslide.jpg?fit=1030%2C575&ssl=1 "Choose what to share with singers")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/choosewhattoshare-partytymeandkaraokecatalog-youwillbepromotedtorestart-restart-5thslide.jpg?fit=1030%2C575&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Select the karaoke song lists you wish to share with your singers (Karaoke Catalog for your own music (we’ll explain more below) and Party Tyme Subscription content if you’re a subscriber). You will be prompted to restart after each selection, but wait until each box is checked first. 
@@ -76,7 +76,7 @@ OK, enough for the serious stuff — you want to download and test!
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/restartdex3-6thslide.jpg?fit=1030%2C575&ssl=1 "Restart")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/restartdex3-6thslide.jpg?fit=1030%2C575&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Restart DEX 3\. 
@@ -86,10 +86,6 @@ OK, enough for the serious stuff — you want to download and test!
 7) Add your own karaoke music to the “Karaoke Catalog” special list (located under Special Lists). You can select all your karaoke songs and drag/drop to the list to populate it, or only the karaoke songs you wish to share with singers (currently capped at 100,000 total songs). 
 
 [View Larger Image ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/backintooptions-clickupdate-KSR-songbook-namesongbook-8thslide.jpg?fit=1030%2C575&ssl=1 "upload songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/backintooptions-clickupdate-KSR-songbook-namesongbook-8thslide.jpg?fit=1030%2C575&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8) Go into DEX 3’s options and under the “Karaoke” tab click the “Update KSR Songbook” button to sync your list of karaoke music. You will be asked to add a venue/songbook name. Create a unique name and click “OK”. 
 
@@ -111,6 +107,10 @@ Please feel free to test the new KSR system with DEX 3.16\. If you have issues o
 
 _**Enjoy!**_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-1.jpg?fit=1200%2C670&ssl=1 670 1200 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2021-04-16 12:39:482023-04-10 17:03:48DEX 3.16 Release Candidate | Test the New Online Songbook Feature!}
@@ -130,20 +130,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-enhancing-listener-engagement-through-excellent-intros-for-2024/"><u>[Updated] Enhancing Listener Engagement Through Excellent Intros for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-superior-architects-cutting-edge-instagram-hlv-makers/"><u>[Updated] Superior Architects Cutting-Edge Instagram HLV Makers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-complete-walkthrough-mastering-adobe-cloud-services/"><u>2024 Approved Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comment-passer-dune-configuration-bios-traditionnelle-a-luefi/"><u>Comment Passer D'une Configuration BIOS Traditionnelle À L'UEFI ?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effortless-fixes-for-persistent-restarts-on-surface-tablets-learn-how/"><u>Effortless Fixes for Persistent Restarts on Surface Tablets – Learn How!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/guide-complet-pour-sauvegarder-et-proteger-votre-disque-dur-sous-windows-11-des-conseils-pratiques/"><u>Guide Complet Pour Sauvegarder Et Protéger Votre Disque Dur Sous Windows 11 - Des Conseils Pratiques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-bootloader-easily-by-drfone-android/"><u>How to Unlock Google Bootloader Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-google-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Google</u></a></li>
-<li><a href="https://win-web3.techidaily.com/is-it-possible-to-view-your-bookmarks-as-an-organized-list-on-the-emeditor-toolbar-similar-to-using-an-outlining-add-on/"><u>Is It Possible to View Your Bookmarks as an Organized List on the EmEditor Toolbar Similar to Using an Outlining Add-On?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-multimedia-with-macx-mobile-premium-cross-platform-video-converter-for-all-your-apple-and-android-gadgets/"><u>Master Multimedia with MacX Mobile - Premium Cross-Platform Video Converter for All Your Apple and Android Gadgets!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/resolved-how-to-fix-windows-11-spinning-wheel-issue-in-any-situation/"><u>Resolved: How to Fix Windows 11 Spinning Wheel Issue in Any Situation</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-tutorial-how-to-import-mp3-files-into-itunes-for-your-iphone-device/"><u>Step-by-Step Tutorial: How to Import MP3 Files Into iTunes for Your iPhone Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-portable-battery-boosters/"><u>Top Portable Battery Boosters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-multi-device-video-talks-solutions/"><u>[New] 2024 Approved Premium Multi-Device Video Talks Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-music-video-madness-top-10-on-social-sphere/"><u>[New] In 2024, Music Video Madness Top 10 on Social Sphere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-binge-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>[Updated] In 2024, Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>[Updated] Transformative Image Processing Auto, Smart HDR 3 & 4 Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-skyward-saga-with-gopro-karma-a-comprehensive-review/"><u>2024 Approved Skyward Saga with GoPro Karma A Comprehensive Review</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-11documents4/"><u>如何在Windows 11中迁移Documents磁盘：4个有效方法解析</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728464286351-aomei/"><u>AOMEIソフトウェアの利点を理解する - 優れたデータ管理ツール</u></a></li>
+<li><a href="https://win-web3.techidaily.com/best-sandforce-ssd-imaging-tools-for-windows-top-picks/"><u>Best SandForce SSD Imaging Tools for Windows: Top Picks</u></a></li>
+<li><a href="https://win-web3.techidaily.com/free-bit-by-bit-cloning-software-compatible-with-windows-11-and-10-best-free-options/"><u>Free Bit-by-Bit Cloning Software Compatible with Windows 11 & 10 - Best Free Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-100-pro-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor 100 Pro)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-optimize-performance-and-prevent-crashes-in-microsoft-flight-simulator-2020-on-pc/"><u>How to Optimize Performance and Prevent Crashes in Microsoft Flight Simulator 2020 on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-device-misconfigured-hurdle-resolving-code-1-issues/"><u>Overcoming the 'Device Misconfigured' Hurdle - Resolving Code 1 Issues</u></a></li>
+<li><a href="https://win-web3.techidaily.com/pc-auf-ipad-oder-ipad-pro-seamless-dateiubertragung-mit-airdrop-und-fonebackup/"><u>PC Auf iPad Oder iPad Pro: Seamless Dateiübertragung Mit AirDrop Und FoneBackup</u></a></li>
+<li><a href="https://win-web3.techidaily.com/seamless-migration-guide-moving-vmware-and-hyper-v-vms-onto-your-synology-nas-device/"><u>Seamless Migration Guide: Moving VMware & Hyper-V VMs Onto Your Synology NAS Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/strategies-pour-realiser-des-sauvegardes-incrementielles-avec-synology-guide-detaille/"><u>Stratégies Pour Réaliser Des Sauvegardes Incrémentielles Avec Synology : Guide Détaillé</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wiederherstellen-sie-ihren-windows-server-201n-auf-werkseinstellungen-zwei-methoden-erklart/"><u>Wiederherstellen Sie Ihren Windows Server 201N Auf Werkseinstellungen - Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wired-back-to-life-logitech-mouse-restsore/"><u>Wired Back to Life: Logitech Mouse Restsore</u></a></li>
 </ul></div>
 
