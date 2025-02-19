@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest Release: Get the DEX 3.6 Beta Edition for Free! Take Your Mixes to the Next Level!"
-date: 2025-02-03T01:21:01.977Z
-updated: 2025-02-09T04:18:55.338Z
+date: 2025-02-16T01:37:59.685Z
+updated: 2025-02-19T02:03:41.558Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audacity-techniques-for-smooth-sound-blending/"><u>[New] Audacity Techniques for Smooth Sound Blending</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-directscreen-a-streamlined-windows-recorder-for-2024/"><u>[New] DirectScreen A Streamlined Windows Recorder for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-comprehensible-guide-for-novices-crafting-professional-tiktok-edits/"><u>[New] In 2024, Comprehensible Guide for Novices Crafting Professional TikTok Edits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-demystifying-igtv-for-a-comprehensive-social-media-experience/"><u>[Updated] 2024 Approved Demystifying IGTV For a Comprehensive Social Media Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[Updated] How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/access-code-schools-educational-content-video-lessons-and-full-courses-for-download/"><u>Access Code School's Educational Content - Video Lessons & Full Courses for Download</u></a></li>
-<li><a href="https://win-web3.techidaily.com/access-premium-content-for-free-with-watchfrees-direct-download-tool/"><u>Access Premium Content for Free with Watchfree's Direct Download Tool</u></a></li>
-<li><a href="https://win-web3.techidaily.com/complete-guide-to-downloading-episodes-of-yahoo-screen-and-autv-yahoo-for-pcs-and-macs/"><u>Complete Guide to Downloading Episodes of Yahoo Screen and AuTV-Yahoo for PCs and Macs</u></a></li>
-<li><a href="https://win-web3.techidaily.com/convert-and-save-your-favorite-kudda-movies-in-various-formats-like-mp4-mov-avi/"><u>Convert and Save Your Favorite Kudda Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
-<li><a href="https://win-web3.techidaily.com/convert-your-learning-materials-seamless-video-downloads-from-cadlearning-in-mp4-format/"><u>Convert Your Learning Materials: Seamless Video Downloads From CADLearning in MP4 Format</u></a></li>
-<li><a href="https://win-web3.techidaily.com/converting-your-brightcove-lessons-into-downloaded-video-formats-mp4avi/"><u>Converting Your Brightcove Lessons Into Downloaded Video Formats (MP4/AVI)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-beyond-boundaries-revitalizing-vr-content-for-2024/"><u>Innovating Beyond Boundaries Revitalizing VR Content for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-x50-gt-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor X50 GT.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-geforce-experience-shutdown-issue-complete-solution/"><u>Resolving GeForce Experience Shutdown Issue - Complete Solution</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solving-the-dilemma-successful-troubleshooting-steps-when-flixster-downloads-are-lagging/"><u>Solving the Dilemma: Successful Troubleshooting Steps When Flixster Downloads Are Lagging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-manual-pinning-people-on-snapchat/"><u>[New] 2024 Approved The Ultimate Manual Pinning People on Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-quick-glance-windows-photo-app/"><u>[New] Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-instagram-insights-a-deep-dive-into-data-trends-for-2024/"><u>[New] Unveiling Instagram Insights A Deep Dive Into Data Trends for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-dynamic-cutting-the-best-6-mac-os-big-sur-video-editors-unveiled/"><u>[Updated] 2024 Approved Dynamic Cutting The Best 6 Mac OS Big Sur Video Editors Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-most-effective-macos-sierra-video-coders-for-2024/"><u>[Updated] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-engaging-vr-experiences-on-youtube/"><u>[Updated] Top 10 Engaging VR Experiences on Youtube</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1732513894787-yl-computing-yl-software/"><u>汉武帝统治下的主要政治变革分析 - YL Computing | YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/counteracting-chinas-forces-us-defense-strategy-involves-launching-thousands-of-drones-by-2023-says-yl-computing-analysis/"><u>Counteracting China's Forces: US Defense Strategy Involves Launching Thousands of Drones by 2023, Says YL Computing Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-fast-photoshop-edits-on-windows-11/"><u>In 2024, Master Fast Photoshop Edits on Windows 11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/maximizing-efficiency-top-strategies-for-utilizing-windows-defender-insights-from-yl-computing/"><u>Maximizing Efficiency: Top Strategies for Utilizing Windows Defender - Insights From YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ram-troubleshooting-mastery-step-by-step-diagnosis-and-repairs-with-yls-tech-solutions/"><u>RAM Troubleshooting Mastery: Step-by-Step Diagnosis & Repairs with YL's Tech Solutions</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-windows-software-glitches-expert-tips-from-yl-computing/"><u>Resolving Windows Software Glitches: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel Phone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-costs-exploring-potential-fees-and-tax-implications-in-crypto-transactions-guidance-by-yl-computing/"><u>Understanding Costs: Exploring Potential Fees and Tax Implications in Crypto Transactions – Guidance by YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/unlock-your-unique-singing-spotlight-with-our-exclusive-karaoke-subscription-service/"><u>Unlock Your Unique Singing Spotlight with Our Exclusive Karaoke Subscription Service</u></a></li>
 </ul></div>
 

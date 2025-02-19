@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2025-02-05T02:02:14.273Z
-updated: 2025-02-09T02:30:33.866Z
+date: 2025-02-13T18:17:04.964Z
+updated: 2025-02-18T21:22:04.342Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-workflow-streamlined-screen-capture-on-mac-using-keystroke-shortcuts-for-2024/"><u>[New] Simplified Workflow Streamlined Screen Capture on Mac Using Keystroke Shortcuts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-picks-essential-tools-to-play-ps1-games-on-your-computer/"><u>[New] Top Picks - Essential Tools to Play PS1 Games on Your Computer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>2024 Approved Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728463265957-2023/"><u>全新2023教學規程：重建已經消失的回收過程模板</u></a></li>
-<li><a href="https://win-web3.techidaily.com/combine-and-unify-photographs-consolidating-various-backup-copies-into-a-single-image/"><u>Combine & Unify Photographs: Consolidating Various Backup Copies Into a Single Image</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-ios-153-can-improve-your-device-upgrade-essentials-unveiled/"><u>How iOS 15.3 Can Improve Your Device: Upgrade Essentials Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reduce-heavy-processor-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Reduce Heavy Processor Load From WUDFHost.exe on Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-generative-ai-companies-harnessing-new-technology/"><u>Inside Generative AI: Companies Harnessing New Technology</u></a></li>
-<li><a href="https://win-web3.techidaily.com/installation-de-windows-11-sur-un-disque-ssd-nvme-sans-problemes-au-demarrage/"><u>Installation De Windows 11 Sur Un Disque SSD NVME Sans Problèmes Au Démarrage</u></a></li>
-<li><a href="https://win-web3.techidaily.com/iphone-contact-saving-solutions-bypassing-icloud-with-three-effective-techniques/"><u>IPhone Contact Saving Solutions: Bypassing iCloud with Three Effective Techniques</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mypassport2/"><u>MyPassportで安定した自動リストアを実現する2手法:セキュリティと速度に重点</u></a></li>
-<li><a href="https://win-web3.techidaily.com/passaggi-facili-per-ripristinare-dati-da-un-disco-rigido-toshiba-esterno-tutorial-approfondito/"><u>Passaggi Facili per Ripristinare Dati Da Un Disco Rigido Toshiba Esterno: Tutorial Approfondito</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/poetic-creation-simplified-unleash-your-inner-bard-with-chatgpt/"><u>Poetic Creation Simplified: Unleash Your Inner Bard with ChatGPT</u></a></li>
-<li><a href="https://win-web3.techidaily.com/techniques-rapides-pour-une-recuperation-de-partitions-ssd-reussie-un-manuel-pratique-et-simple/"><u>Techniques Rapides Pour Une Récupération De Partitions SSD Réussie: Un Manuel Pratique Et Simple</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/transition-von-altmodischen-iphones-zu-neuem-ab-ohne-datentransfer/"><u>Transition Von Altmodischen iPhones Zu Neuem Ab Ohne Datentransfer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-or-download-brother-hl-l2350dw-printer-drivers-step-by-step-guide/"><u>Update or Download Brother HL-L2350DW Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728485740078-windows-10-and-11/"><u>Windows 10 & 11のデュアルブート設定ガイド</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-tunes-where-to-secure-soundscapes/"><u>[New] 2024 Approved Top Tunes Where to Secure Soundscapes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[New] In 2024, Maximizing Your Social Reach Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] In 2024, Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728506943753-4/"><u>「ショートカットリンクを回復するための4手順：ファイル履歴ドライブ再接続ガイド」</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-troubleshooting-guide-resolving-acronis-universal-restore-os-detection-issues/"><u>1. Troubleshooting Guide: Resolving 'Acronis Universal Restore' OS Detection Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mastering-quick-transfers-utilizing-provisional-icloud-space-for-data-movement/"><u>Mastering Quick Transfers: Utilizing Provisional iCloud Space for Data Movement</u></a></li>
+<li><a href="https://win-web3.techidaily.com/pasos-faciles-y-seguros-para-arranque-de-una-pc-lenovo-mediante-windows-11/"><u>Pasos Fáciles Y Seguros Para Arranque De Una PC Lenovo Mediante Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/uncovering-if-vlogger-critiques-are-paid/"><u>Uncovering If Vlogger Critiques Are Paid</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-secrets-of-video-captioning-in-vimeo/"><u>Unveiling the Secrets of Video Captioning in Vimeo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-youtube-shorts-money-making-mechanisms/"><u>Unveiling YouTube Shorts Money-Making Mechanisms</u></a></li>
+<li><a href="https://win-web3.techidaily.com/update-processor-and-motherboard-seamlessly-on-windows-11-10-8-or-7/"><u>Update Processor & Motherboard Seamlessly on Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-file-recovery-issues-understanding-and-fixing-error-parsing-your-command/"><u>Windows File Recovery Issues - Understanding and Fixing 'Error Parsing Your Command'</u></a></li>
 </ul></div>
 

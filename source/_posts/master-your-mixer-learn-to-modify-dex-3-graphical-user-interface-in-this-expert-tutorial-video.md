@@ -1,7 +1,7 @@
 ---
 title: "Master Your Mixer: Learn to Modify DEX 3 Graphical User Interface in This Expert Tutorial Video"
-date: 2025-02-03T19:46:22.616Z
-updated: 2025-02-08T20:32:14.544Z
+date: 2025-02-13T00:19:22.334Z
+updated: 2025-02-18T16:32:06.805Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,19 +57,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>[New] The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amass-higher-views-with-powerful-youtube-tags/"><u>[Updated] 2024 Approved Amass Higher Views with #Powerful YouTube Tags</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-to-easy-nft-crafting/"><u>2024 Approved Step-by-Step to Easy NFT Crafting</u></a></li>
-<li><a href="https://win-web3.techidaily.com/advanced-dj-controllers-compatible-with-professional-pcdj-dj-software-a-comprehensive-guide/"><u>Advanced DJ Controllers Compatible with Professional PCDJ DJ Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-can-i-fix-scanner-issues-without-reinstalling-windows-tips-from-yl-computing/"><u>How Can I Fix Scanner Issues Without Reinstalling Windows? - Tips From YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-microsofts-new-focus-in-ai-may-signal-trouble-for-compact-computing-systems-used-in-handheld-pc-gaming/"><u>How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-non-sport-spectacles-in-the-top-ten-front-rows/"><u>In 2024, Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 12 Pro</u></a></li>
-<li><a href="https://win-web3.techidaily.com/solving-the-mystery-fixing-a-black-screen-on-your-windows-startup-expert-advice-from-yl-computing/"><u>Solving the Mystery: Fixing a Black Screen on Your Windows Startup – Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-accessing-your-pcs-settings-through-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing Your PC's Settings Through the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-team-interactions-mastering-the-incorporation-of-chatgpt-for-remote-conferences/"><u>Streamlining Team Interactions: Mastering the Incorporation of ChatGPT for Remote Conferences</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-guide-for-scanner-failures-step-by-step-solutions-from-yl-software-professionals/"><u>Troubleshooting Guide for Scanner Failures: Step-by-Step Solutions From YL Software Professionals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/visual-virtuosos-popular-ig-effects-for-2024/"><u>Visual Virtuosos Popular IG Effects for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-download-free-preview-clip-kits-for-2024/"><u>[New] Download Free Preview Clip Kits for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-blur-a-picture-on-iphone-4-ways/"><u>[New] In 2024, How to Blur a Picture on iPhone [4 Ways]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-fantasy-the-essential-samsung-gear-vr-games/"><u>[New] Virtual Fantasy The Essential Samsung Gear VR Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-improving-the-endurance-of-your-gopro-power-source-for-2024/"><u>[Updated] Improving the Endurance of Your GoPro Power Source for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y28-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y28 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-concepts-of-story-making/"><u>Core Concepts of Story Making</u></a></li>
+<li><a href="https://win-web3.techidaily.com/easy-guide-setting-up-auto-backup-from-your-pc-to-a-network-attached-storage-on-windows-versions-11-10-8-7/"><u>Easy Guide: Setting Up Auto-Backup From Your PC to a Network Attached Storage on Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/eliminare-i-file-non-necessari-su-windows-n-una-guida-rapida-con-5-metodi-di-modo-facile/"><u>Eliminare I File Non Necessari Su Windows N: Una Guida Rapida Con 5 Metodi Di Modo Facile</u></a></li>
+<li><a href="https://win-web3.techidaily.com/fehlerbehebung-bei-der-schattenskopierer-erstellung-was-nun/"><u>Fehlerbehebung Bei Der Schattenskopierer-Erstellung – Was Nun?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fitbit-sense-2-vs-versa-4-review-a-months-insight-into-well-being-features-and-navigational-limitations-zdnet/"><u>Fitbit Sense 2 vs Versa 4 Review: A Month's Insight Into Well-Being Features and Navigational Limitations | ZDNET</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-enable-backup-on-your-pc-a-simple-guide-to-fixing-the-backup-is-disabled-error-on-windows-10/"><u>How to Enable Backup on Your PC: A Simple Guide to Fixing the 'Backup Is Disabled' Error on Windows 10</u></a></li>
+<li><a href="https://win-web3.techidaily.com/navigating-through-windows-10-troubleshooting-successfully-resolved/"><u>Navigating Through Windows 10 Troubleshooting Successfully Resolved</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-audio-clarity-the-most-effective-noise-reduction-tools-revealed-for-2024/"><u>New Mastering Audio Clarity The Most Effective Noise Reduction Tools Revealed for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolved-overcoming-the-challenge-with-seagate-discwizard-unreadable-by-drives/"><u>Resolved: Overcoming the Challenge with Seagate DiscWizard - Unreadable by Drives</u></a></li>
+<li><a href="https://win-web3.techidaily.com/software-di-partizione-di-backup-per-pc-windows-scopri-la-funzione-gpt/"><u>Software Di Partizione Di Backup Per PC Windows: Scopri La Funzione GPT</u></a></li>
+<li><a href="https://win-web3.techidaily.com/streamline-your-data-protection-the-best-all-in-one-backup-solutions-analyzed/"><u>Streamline Your Data Protection: The Best All-in-One Backup Solutions Analyzed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
 
