@@ -1,7 +1,7 @@
 ---
 title: "Kiosk Version of SongbookDB: Easy-to-Use Song Request System Powered by PCDJ"
-date: 2025-02-13T18:17:04.964Z
-updated: 2025-02-18T21:22:04.342Z
+date: 2025-03-02T18:20:28.424Z
+updated: 2025-03-07T17:29:57.540Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
 
 Singers can use the Android/ iOS apps (_free to download/use_) or just visit [SongbookDB.com](https://www.songbookdb.com/) to browse your song book, select key and song version and submit their request. It’s seamless and super easy. In the event a singer doesn’t have an internet enabled phone, or would rather not mess with downloading an app etc — you can use the “Kiosk Mode” option.
@@ -39,10 +35,6 @@ Singers can use the Android/ iOS apps (_free to download/use_) or just visit [So
 If you have a spare laptop that connects to the internet, you can set it up as a kiosk at gigs for singers that don’t have phones.
 
 **(2:50 mins):**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
 
@@ -57,10 +49,6 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 (**NOTE:** _Your kiosk can have up to 100 songs in the queue._)
 
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -81,18 +69,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-tunes-where-to-secure-soundscapes/"><u>[New] 2024 Approved Top Tunes Where to Secure Soundscapes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[New] In 2024, Maximizing Your Social Reach Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] In 2024, Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728506943753-4/"><u>「ショートカットリンクを回復するための4手順：ファイル履歴ドライブ再接続ガイド」</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-troubleshooting-guide-resolving-acronis-universal-restore-os-detection-issues/"><u>1. Troubleshooting Guide: Resolving 'Acronis Universal Restore' OS Detection Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mastering-quick-transfers-utilizing-provisional-icloud-space-for-data-movement/"><u>Mastering Quick Transfers: Utilizing Provisional iCloud Space for Data Movement</u></a></li>
-<li><a href="https://win-web3.techidaily.com/pasos-faciles-y-seguros-para-arranque-de-una-pc-lenovo-mediante-windows-11/"><u>Pasos Fáciles Y Seguros Para Arranque De Una PC Lenovo Mediante Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/uncovering-if-vlogger-critiques-are-paid/"><u>Uncovering If Vlogger Critiques Are Paid</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-secrets-of-video-captioning-in-vimeo/"><u>Unveiling the Secrets of Video Captioning in Vimeo</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unveiling-youtube-shorts-money-making-mechanisms/"><u>Unveiling YouTube Shorts Money-Making Mechanisms</u></a></li>
-<li><a href="https://win-web3.techidaily.com/update-processor-and-motherboard-seamlessly-on-windows-11-10-8-or-7/"><u>Update Processor & Motherboard Seamlessly on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-file-recovery-issues-understanding-and-fixing-error-parsing-your-command/"><u>Windows File Recovery Issues - Understanding and Fixing 'Error Parsing Your Command'</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rofessional-video-lighting-gear-guide-17/"><u>[New] Professional Video Lighting Gear Guide (#17)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-tutorial-on-zoom-podcasts-recording/"><u>[Updated] Complete Tutorial on Zoom Podcasts Recording</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/elevate-your-computers-speed-with-key-hardware-upgrades-according-to-experts-at-yl-software/"><u>Elevate Your Computer's Speed with Key Hardware Upgrades, According to Experts at YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-your-steam-auto-subscriptions-quickly/"><u>End Your Steam Auto-Subscriptions Quickly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-webcam-drivers-fresh-installation-guide-for-windows-7-users/"><u>Lenovo Webcam Drivers: Fresh Installation Guide for Windows 7 Users</u></a></li>
+<li><a href="https://win-web3.techidaily.com/the-impact-of-the-sino-japanese-conflict-on-chinese-historical-development-insights-from-yl-technologies/"><u>The Impact of the Sino-Japanese Conflict on Chinese Historical Development - Insights From YL Technologies</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-laptop-audio-issues-effective-solutions-yl-computing/"><u>Troubleshooting Laptop Audio Issues: Effective Solutions - YL Computing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-and-resolving-internet-connectivity-problems-on-your-gadgets-expert-advice-from-yl-computing/"><u>Understanding and Resolving Internet Connectivity Problems on Your Gadgets – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max Without Passcode Easily</u></a></li>
 </ul></div>
 
